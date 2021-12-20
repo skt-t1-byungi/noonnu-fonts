@@ -14,7 +14,7 @@ require("@noonnu/{{name}}")
 ```js
 import "@noonnu/{{name}}"
 ```
-### css-loader
+### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
 ```css
 @import "~@noonnu/{{name}}/index.css"
 ```
