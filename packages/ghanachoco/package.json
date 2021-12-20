@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ghanachoco",
+    "description": "가나초콜릿체 - 부드러움 한 조각, 가나 초콜릿",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "가나초콜릿체",
+        "ghanachoco"
+    ],
+    "homepage": "https://noonnu.cc/font_page/408 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ghanachoco"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/manse",
+    "description": "만세체 - 태극기를 들고 만세를 외친다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "만세체",
+        "manse"
+    ],
+    "homepage": "https://noonnu.cc/font_page/339 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/manse"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

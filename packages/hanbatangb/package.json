@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hanbatangb",
+    "description": "함초롬바탕체 Bold - 해외여행을 간게 언제였는지 기억도 안난다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "함초롬바탕체 Bold",
+        "hanbatangb"
+    ],
+    "homepage": "https://noonnu.cc/font_page/655 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hanbatangb"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

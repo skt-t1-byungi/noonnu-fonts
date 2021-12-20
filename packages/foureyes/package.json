@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/foureyes",
+    "description": "안경잡이체 - 별을 보고 걸어가는 사람이 되라",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "안경잡이체",
+        "foureyes"
+    ],
+    "homepage": "https://noonnu.cc/font_page/83 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/foureyes"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

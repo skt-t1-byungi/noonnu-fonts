@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeeddoyo",
+    "description": "어비 또요체 - 인생지사 새옹지마라고 안좋은 일이 있었으면 좋은일이 생길거야",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 또요체",
+        "uhbeeddoyo"
+    ],
+    "homepage": "https://noonnu.cc/font_page/142 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeeddoyo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

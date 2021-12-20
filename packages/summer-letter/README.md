@@ -1,0 +1,23 @@
+# @noonnu/summer-letter
+여름글씨 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴
+
+## Install
+```sh
+npm i @noonnu/summer-letter
+```
+## Usage
+### cjs
+```js
+require("@noonnu/summer-letter")
+```
+### esm
+```js
+import "@noonnu/summer-letter"
+```
+### css-loader
+```css
+@import "~@noonnu/summer-letter/index.css"
+```
+
+## Link
+https://noonnu.cc/font_page/596

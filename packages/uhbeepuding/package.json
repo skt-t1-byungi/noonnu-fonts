@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeepuding",
+    "description": "어비 푸딩체 - 푸딩은 말랑말랑하고 달콤하고 맛있어",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 푸딩체",
+        "uhbeepuding"
+    ],
+    "homepage": "https://noonnu.cc/font_page/181 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeepuding"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

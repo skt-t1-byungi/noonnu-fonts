@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeechae-eun",
+    "description": "어비 채은체 - 환절기에는 감기에 잘 걸리곤 했는데 올해도 그랬다.",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 채은체",
+        "uhbeechae-eun"
+    ],
+    "homepage": "https://noonnu.cc/font_page/138 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeechae-eun"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

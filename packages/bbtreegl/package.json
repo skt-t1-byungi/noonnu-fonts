@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bbtreegl",
+    "description": "유토이미지고딕L - 따뜻한 레몬차는 감기에 좋아요",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "유토이미지고딕L",
+        "bbtreegl"
+    ],
+    "homepage": "https://noonnu.cc/font_page/276 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bbtreegl"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

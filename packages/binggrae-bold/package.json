@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/binggrae-bold",
+    "description": "빙그레체 Bold - 빙그레는 아이스크림~~",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "빙그레체 Bold",
+        "binggrae-bold"
+    ],
+    "homepage": "https://noonnu.cc/font_page/750 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/binggrae-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

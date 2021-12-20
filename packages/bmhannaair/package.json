@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bmhannaair",
+    "description": "한나체 Air - 작게 쓸수록 우아한 서체 한나체 Air",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "한나체 Air",
+        "bmhannaair"
+    ],
+    "homepage": "https://noonnu.cc/font_page/113 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bmhannaair"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

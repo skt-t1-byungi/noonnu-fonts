@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/heiroflightregular",
+    "description": "빛의계승자체 Regular - 폰트에서 간지가 넘친다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "빛의계승자체 Regular",
+        "heiroflightregular"
+    ],
+    "homepage": "https://noonnu.cc/font_page/443 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/heiroflightregular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

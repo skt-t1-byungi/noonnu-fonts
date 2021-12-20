@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/songganggasal",
+    "description": "송강가사 Light - 한글 시가문학 중에서  가장 뛰어난 평가",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "송강가사 Light",
+        "songganggasal"
+    ],
+    "homepage": "https://noonnu.cc/font_page/391 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/songganggasal"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/jhaebaragi-bold-ko",
+    "description": "J해바라기 Bold - 길쭉길쭉한 고딕체",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "J해바라기 Bold",
+        "jhaebaragi-bold-ko"
+    ],
+    "homepage": "https://noonnu.cc/font_page/763 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/jhaebaragi-bold-ko"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

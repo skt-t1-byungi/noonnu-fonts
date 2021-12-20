@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/cafe24shiningstar",
+    "description": "카페24 빛나는별 - 숲 속에 가면 빛나는 별이 잘 보이지",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "카페24 빛나는별",
+        "cafe24shiningstar"
+    ],
+    "homepage": "https://noonnu.cc/font_page/343 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/cafe24shiningstar"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

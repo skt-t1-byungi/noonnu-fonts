@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/global-hangul",
+    "description": "세계적인 한글 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "세계적인 한글",
+        "global-hangul"
+    ],
+    "homepage": "https://noonnu.cc/font_page/609 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/global-hangul"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

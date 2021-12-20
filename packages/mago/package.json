@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/mago",
+    "description": "마고체 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "마고체",
+        "mago"
+    ],
+    "homepage": "https://noonnu.cc/font_page/568 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/mago"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

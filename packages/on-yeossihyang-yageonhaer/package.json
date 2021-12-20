@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/on-yeossihyang-yageonhaer",
+    "description": "ON여씨향약언해R - 서로 사귐에 있어 예를 지킨다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ON여씨향약언해R",
+        "on-yeossihyang-yageonhaer"
+    ],
+    "homepage": "https://noonnu.cc/font_page/314 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/on-yeossihyang-yageonhaer"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

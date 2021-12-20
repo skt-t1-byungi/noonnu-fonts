@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/daughter-handwriting",
+    "description": "우리딸 손글씨 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "우리딸 손글씨",
+        "daughter-handwriting"
+    ],
+    "homepage": "https://noonnu.cc/font_page/531 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/daughter-handwriting"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

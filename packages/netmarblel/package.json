@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/netmarblel",
+    "description": "넷마블체L - 크크를 형상화한 귀여운 넷마블체",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "넷마블체L",
+        "netmarblel"
+    ],
+    "homepage": "https://noonnu.cc/font_page/116 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/netmarblel"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

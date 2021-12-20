@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/mapodacapo",
+    "description": "마포다카포 - 눈누 폰트 올리는거 좀 귀찮긴 하지",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "마포다카포",
+        "mapodacapo"
+    ],
+    "homepage": "https://noonnu.cc/font_page/379 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/mapodacapo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/establishnotclicheotf",
+    "description": "notcliche체 이현준 - 어제보다 행복한 오늘",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "notcliche체 이현준",
+        "establishnotclicheotf"
+    ],
+    "homepage": "https://noonnu.cc/font_page/775 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/establishnotclicheotf"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

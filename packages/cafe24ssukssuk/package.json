@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/cafe24ssukssuk",
+    "description": "카페24 쑥쑥 - 쑥쑥 새싹이 자라납니다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "카페24 쑥쑥",
+        "cafe24ssukssuk"
+    ],
+    "homepage": "https://noonnu.cc/font_page/345 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/cafe24ssukssuk"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

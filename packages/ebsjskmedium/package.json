@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ebsjskmedium",
+    "description": "EBS주시경체 - 개화기의 국어학자 주시경",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "EBS주시경체",
+        "ebsjskmedium"
+    ],
+    "homepage": "https://noonnu.cc/font_page/78 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ebsjskmedium"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

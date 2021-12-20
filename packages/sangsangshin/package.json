@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sangsangshin",
+    "description": "신과장 - 과장님들을 위한 감성폰트",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "신과장",
+        "sangsangshin"
+    ],
+    "homepage": "https://noonnu.cc/font_page/93 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sangsangshin"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

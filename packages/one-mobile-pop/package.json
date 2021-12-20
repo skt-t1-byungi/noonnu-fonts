@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/one-mobile-pop",
+    "description": "원스토어 모바일POP체 - 튀긴음식만 먹어도 건강했으면",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "원스토어 모바일POP체",
+        "one-mobile-pop"
+    ],
+    "homepage": "https://noonnu.cc/font_page/676 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/one-mobile-pop"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

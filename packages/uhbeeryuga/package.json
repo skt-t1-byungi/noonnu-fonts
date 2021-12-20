@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeeryuga",
+    "description": "어비 류가체 - 닭이 세계평화에 일조했다고 해도 과언이 아니다.",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 류가체",
+        "uhbeeryuga"
+    ],
+    "homepage": "https://noonnu.cc/font_page/186 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeeryuga"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/vitro-pride",
+    "description": "비트로 프라이드체 - 간결하고 명확한 비트로 프라이드체",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "비트로 프라이드체",
+        "vitro-pride"
+    ],
+    "homepage": "https://noonnu.cc/font_page/478 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/vitro-pride"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

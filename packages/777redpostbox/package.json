@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/777redpostbox",
+    "description": "빨간우체통 - 최근엔 우체통을 별로 보지 못했다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "빨간우체통",
+        "777redpostbox"
+    ],
+    "homepage": "https://noonnu.cc/font_page/268 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/777redpostbox"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sunbatang-medium",
+    "description": "순바탕Medium - 남의 돈 버는게 쉬운 일이 아니야",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "순바탕Medium",
+        "sunbatang-medium"
+    ],
+    "homepage": "https://noonnu.cc/font_page/290 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sunbatang-medium"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

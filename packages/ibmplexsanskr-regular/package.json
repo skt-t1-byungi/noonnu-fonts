@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ibmplexsanskr-regular",
+    "description": "IBM Plex Sans Regular - 바삭하게 튀기듯 부쳐진 감자전을 좋아합니다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "IBM Plex Sans Regular",
+        "ibmplexsanskr-regular"
+    ],
+    "homepage": "https://noonnu.cc/font_page/448 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ibmplexsanskr-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

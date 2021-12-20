@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bareundotum",
+    "description": "바른돋움체 - 시간은 물 흐르듯 지나간다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "바른돋움체",
+        "bareundotum"
+    ],
+    "homepage": "https://noonnu.cc/font_page/31 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bareundotum"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

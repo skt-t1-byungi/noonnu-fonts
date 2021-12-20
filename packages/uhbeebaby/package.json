@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeebaby",
+    "description": "어비 베이비체 - 맛있는 걸 먹으면 기분이 좋아진다.",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 베이비체",
+        "uhbeebaby"
+    ],
+    "homepage": "https://noonnu.cc/font_page/134 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeebaby"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

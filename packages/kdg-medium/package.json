@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kdg-medium",
+    "description": "솔뫼 김대건체 M - 붓글씨 느낌의 자유로운 필체",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "솔뫼 김대건체 M",
+        "kdg-medium"
+    ],
+    "homepage": "https://noonnu.cc/font_page/506 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kdg-medium"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

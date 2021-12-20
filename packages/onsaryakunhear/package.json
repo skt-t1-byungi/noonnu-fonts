@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/onsaryakunhear",
+    "description": "ON사략언해R - 디자인201에서는 폰트를 엄청 많이 만든다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ON사략언해R",
+        "onsaryakunhear"
+    ],
+    "homepage": "https://noonnu.cc/font_page/488 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/onsaryakunhear"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

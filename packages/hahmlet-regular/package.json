@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hahmlet-regular",
+    "description": "함렛 Regular - 세리프가 필요하다면 요거 어때",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "함렛 Regular",
+        "hahmlet-regular"
+    ],
+    "homepage": "https://noonnu.cc/font_page/757 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hahmlet-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

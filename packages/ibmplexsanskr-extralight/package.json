@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ibmplexsanskr-extralight",
+    "description": "IBM Plex Sans ExtraLight - 다국어 지원되는 폰트",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "IBM Plex Sans ExtraLight",
+        "ibmplexsanskr-extralight"
+    ],
+    "homepage": "https://noonnu.cc/font_page/445 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ibmplexsanskr-extralight"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

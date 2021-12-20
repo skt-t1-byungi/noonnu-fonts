@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ttjejugamgyulr",
+    "description": "제주감귤 - 제주도 한 달 살기 하고 싶다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "제주감귤",
+        "ttjejugamgyulr"
+    ],
+    "homepage": "https://noonnu.cc/font_page/284 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ttjejugamgyulr"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

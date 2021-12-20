@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeebongsik",
+    "description": "어비 봉식이체 - 봉식이라는 이름 참 친근하다..",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 봉식이체",
+        "uhbeebongsik"
+    ],
+    "homepage": "https://noonnu.cc/font_page/137 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeebongsik"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

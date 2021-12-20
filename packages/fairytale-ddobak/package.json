@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/fairytale-ddobak",
+    "description": "동화또박 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "동화또박",
+        "fairytale-ddobak"
+    ],
+    "homepage": "https://noonnu.cc/font_page/537 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/fairytale-ddobak"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

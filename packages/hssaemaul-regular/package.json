@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hssaemaul-regular",
+    "description": "HS새마을체 - 동글동글 예쁜 새마을체",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "HS새마을체",
+        "hssaemaul-regular"
+    ],
+    "homepage": "https://noonnu.cc/font_page/736 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hssaemaul-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

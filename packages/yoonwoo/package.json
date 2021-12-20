@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yoonwoo",
+    "description": "온글잎 윤우체 - 날씨 엄청 좋을때 바닷가 놀러가고 싶다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "온글잎 윤우체",
+        "yoonwoo"
+    ],
+    "homepage": "https://noonnu.cc/font_page/668 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yoonwoo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

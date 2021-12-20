@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/accchildrenfall",
+    "description": "ACC 어린이 하늘맑은체 - 가을하늘이 높으니까 입맛이 좋네",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ACC 어린이 하늘맑은체",
+        "accchildrenfall"
+    ],
+    "homepage": "https://noonnu.cc/font_page/787 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/accchildrenfall"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

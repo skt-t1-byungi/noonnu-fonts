@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/snbyulbyul",
+    "description": "sn별별정직 - 연인이 아닌 친구가 필요한거야",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sn별별정직",
+        "snbyulbyul"
+    ],
+    "homepage": "https://noonnu.cc/font_page/112 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/snbyulbyul"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

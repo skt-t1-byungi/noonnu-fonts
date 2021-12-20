@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/nanum-myeongjo",
+    "description": "나눔명조 - 세상은 성실하지 않은 자에게 관대하지 않지.",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "나눔명조",
+        "nanum-myeongjo"
+    ],
+    "homepage": "https://noonnu.cc/font_page/41 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/nanum-myeongjo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/netmarbleb",
+    "description": "넷마블체B - 넷마블 캐릭터 크크 귀엽더라",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "넷마블체B",
+        "netmarbleb"
+    ],
+    "homepage": "https://noonnu.cc/font_page/118 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/netmarbleb"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

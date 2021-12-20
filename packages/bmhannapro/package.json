@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bmhannapro",
+    "description": "한나체Pro - 치킨이라고 치면 칰이 나온대",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "한나체Pro",
+        "bmhannapro"
+    ],
+    "homepage": "https://noonnu.cc/font_page/216 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bmhannapro"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

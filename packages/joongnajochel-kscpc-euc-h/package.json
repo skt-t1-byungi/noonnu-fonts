@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/joongnajochel-kscpc-euc-h",
+    "description": "중나좋체 라이트 - 중고나라의 새로운 서체",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "중나좋체 라이트",
+        "joongnajochel-kscpc-euc-h"
+    ],
+    "homepage": "https://noonnu.cc/font_page/401 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/joongnajochel-kscpc-euc-h"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

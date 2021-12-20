@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/eland-choice_l",
+    "description": "이랜드 초이스체 L - 날이 추우니 따뜻한 코코아가 땡긴다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "이랜드 초이스체 L",
+        "eland-choice_l"
+    ],
+    "homepage": "https://noonnu.cc/font_page/501 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/eland-choice_l"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

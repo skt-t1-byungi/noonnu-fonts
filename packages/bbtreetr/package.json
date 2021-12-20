@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bbtreetr",
+    "description": "유토이미지나무R - 세상에는 폰트가 참 많아요",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "유토이미지나무R",
+        "bbtreetr"
+    ],
+    "homepage": "https://noonnu.cc/font_page/280 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bbtreetr"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

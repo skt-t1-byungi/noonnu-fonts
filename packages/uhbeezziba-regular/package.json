@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeezziba-regular",
+    "description": "어비 찌바체 - 달콤한걸 먹으면 기분이 좋다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 찌바체",
+        "uhbeezziba-regular"
+    ],
+    "homepage": "https://noonnu.cc/font_page/661 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeezziba-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

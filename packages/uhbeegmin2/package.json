@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeegmin2",
+    "description": "어비 지민2체 - 손글씨가 너무 많다...",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 지민2체",
+        "uhbeegmin2"
+    ],
+    "homepage": "https://noonnu.cc/font_page/148 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeegmin2"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

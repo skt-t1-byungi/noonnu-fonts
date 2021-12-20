@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/nanumbarungothic",
+    "description": "나눔바른고딕 - 무례한 사람에게 웃으면서 대처하는 법 ",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "나눔바른고딕",
+        "nanumbarungothic"
+    ],
+    "homepage": "https://noonnu.cc/font_page/36 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/nanumbarungothic"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

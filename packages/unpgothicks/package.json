@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/unpgothicks",
+    "description": "유앤피플 고딕체 - 특별한 사람들이 함께하는 곳",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "유앤피플 고딕체",
+        "unpgothicks"
+    ],
+    "homepage": "https://noonnu.cc/font_page/399 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/unpgothicks"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

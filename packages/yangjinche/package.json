@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yangjinche",
+    "description": "양진체 - 레트로하고 키치한 느낌의 서체",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "양진체",
+        "yangjinche"
+    ],
+    "homepage": "https://noonnu.cc/font_page/330 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yangjinche"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

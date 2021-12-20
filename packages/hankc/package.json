@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hankc",
+    "description": "한겨레결체 - 삶의 과정은 선택의 연속이다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "한겨레결체",
+        "hankc"
+    ],
+    "homepage": "https://noonnu.cc/font_page/24 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hankc"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

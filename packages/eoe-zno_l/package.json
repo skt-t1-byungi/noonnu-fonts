@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/eoe-zno_l",
+    "description": "남양주고딕L - 남양주에 놀러가고 싶다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "남양주고딕L",
+        "eoe-zno_l"
+    ],
+    "homepage": "https://noonnu.cc/font_page/295 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/eoe-zno_l"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bright",
+    "description": "밝은체 - 어제의 나를 때리고 싶다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "밝은체",
+        "bright"
+    ],
+    "homepage": "https://noonnu.cc/font_page/111 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bright"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/daehan-regular",
+    "description": "대한체 Regular - 아침에 일어나서 먹는 모닝빵 맛있다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "대한체 Regular",
+        "daehan-regular"
+    ],
+    "homepage": "https://noonnu.cc/font_page/335 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/daehan-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

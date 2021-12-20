@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yoonsdj",
+    "description": "Yoon 다정 - 자신의 성격이 드러나는 손글씨",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "Yoon 다정",
+        "yoonsdj"
+    ],
+    "homepage": "https://noonnu.cc/font_page/352 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yoonsdj"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

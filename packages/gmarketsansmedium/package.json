@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gmarketsansmedium",
+    "description": "Gmarket Sans M - 솔직히 이 폰트 진짜 괜찮은듯",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "Gmarket Sans M",
+        "gmarketsansmedium"
+    ],
+    "homepage": "https://noonnu.cc/font_page/366 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gmarketsansmedium"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

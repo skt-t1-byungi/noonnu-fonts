@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'BareunDotum';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./BareunDotumOTFPro2.woff2) format('woff2'), url(./BareunDotumOTFPro2.woff) format('woff');
+}

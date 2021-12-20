@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeemimi",
+    "description": "어비 미미체 - 일을 좋아하는 나는 너를 외롭게 만드는걸까",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 미미체",
+        "uhbeemimi"
+    ],
+    "homepage": "https://noonnu.cc/font_page/172 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeemimi"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

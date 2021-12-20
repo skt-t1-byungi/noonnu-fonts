@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeehyunjung",
+    "description": "어비 현정체 - 감기에 걸리니 머리가 아프고 힘들더라",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 현정체",
+        "uhbeehyunjung"
+    ],
+    "homepage": "https://noonnu.cc/font_page/155 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeehyunjung"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeejin-gun",
+    "description": "어비 진건체 - 퇴근하고 나서 집에 오니 기절잠",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 진건체",
+        "uhbeejin-gun"
+    ],
+    "homepage": "https://noonnu.cc/font_page/157 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeejin-gun"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

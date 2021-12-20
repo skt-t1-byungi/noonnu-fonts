@@ -1,0 +1,23 @@
+# @noonnu/{{name}}
+{{description}}
+
+## Install
+```sh
+npm i @noonnu/{{name}}
+```
+## Usage
+### cjs
+```js
+require("@noonnu/{{name}}")
+```
+### esm
+```js
+import "@noonnu/{{name}}"
+```
+### css-loader
+```css
+@import "~@noonnu/{{name}}/index.css"
+```
+
+## Link
+{{link}}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeemysen",
+    "description": "어비 마이센체 - 손으로 쓰는게 더 빠를때도 있어",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 마이센체",
+        "uhbeemysen"
+    ],
+    "homepage": "https://noonnu.cc/font_page/178 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeemysen"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

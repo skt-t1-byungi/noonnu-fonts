@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/binggraetaom",
+    "description": "따옴 - 맛과 영양이 담긴 따옴을 서체로!",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "따옴",
+        "binggraetaom"
+    ],
+    "homepage": "https://noonnu.cc/font_page/114 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/binggraetaom"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

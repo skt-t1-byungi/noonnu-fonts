@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kimjuim",
+    "description": "야근하는 김주인 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "야근하는 김주인",
+        "kimjuim"
+    ],
+    "homepage": "https://noonnu.cc/font_page/561 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kimjuim"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

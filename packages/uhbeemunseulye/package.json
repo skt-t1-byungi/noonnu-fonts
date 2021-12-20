@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeemunseulye",
+    "description": "어비 문슬예체 - 매일 점심 샐러드를 먹지만 다이어트를 하는건 아니다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 문슬예체",
+        "uhbeemunseulye"
+    ],
+    "homepage": "https://noonnu.cc/font_page/176 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeemunseulye"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

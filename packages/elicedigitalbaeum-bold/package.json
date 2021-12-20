@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/elicedigitalbaeum-bold",
+    "description": "엘리스디지털배움체B - 조용한 카페에서 작업하는거 좋아",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "엘리스디지털배움체B",
+        "elicedigitalbaeum-bold"
+    ],
+    "homepage": "https://noonnu.cc/font_page/671 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/elicedigitalbaeum-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

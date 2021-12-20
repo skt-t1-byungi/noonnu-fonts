@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/goyangdeogyang",
+    "description": "고양덕양체 - 덕양은 고양의 다른 이름이다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "고양덕양체",
+        "goyangdeogyang"
+    ],
+    "homepage": "https://noonnu.cc/font_page/80 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/goyangdeogyang"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

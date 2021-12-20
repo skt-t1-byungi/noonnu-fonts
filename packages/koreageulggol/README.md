@@ -1,0 +1,23 @@
+# @noonnu/koreageulggol
+고려글꼴 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴
+
+## Install
+```sh
+npm i @noonnu/koreageulggol
+```
+## Usage
+### cjs
+```js
+require("@noonnu/koreageulggol")
+```
+### esm
+```js
+import "@noonnu/koreageulggol"
+```
+### css-loader
+```css
+@import "~@noonnu/koreageulggol/index.css"
+```
+
+## Link
+https://noonnu.cc/font_page/564

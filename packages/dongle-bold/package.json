@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/dongle-bold",
+    "description": "동글Bold - 동글동글한 동글체",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "동글Bold",
+        "dongle-bold"
+    ],
+    "homepage": "https://noonnu.cc/font_page/746 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/dongle-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

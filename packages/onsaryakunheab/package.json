@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/onsaryakunheab",
+    "description": "ON사략언해B - 코로나가 괜찮아지면 해외여행 가고 싶다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ON사략언해B",
+        "onsaryakunheab"
+    ],
+    "homepage": "https://noonnu.cc/font_page/490 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/onsaryakunheab"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/cookierunotf-black",
+    "description": "쿠키런 Black - 쿠키런 게임 엄청 재밌지",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "쿠키런 Black",
+        "cookierunotf-black"
+    ],
+    "homepage": "https://noonnu.cc/font_page/323 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/cookierunotf-black"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

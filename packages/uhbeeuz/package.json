@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeeuz",
+    "description": "어비 유진체 - 고인돌에는 이끼가 끼기 마련이다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 유진체",
+        "uhbeeuz"
+    ],
+    "homepage": "https://noonnu.cc/font_page/199 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeeuz"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/daehan-bold",
+    "description": "대한체 Bold - 대한민국독립만세 눈누에 업데이트!",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "대한체 Bold",
+        "daehan-bold"
+    ],
+    "homepage": "https://noonnu.cc/font_page/334 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/daehan-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

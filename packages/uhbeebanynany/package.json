@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeebanynany",
+    "description": "어비 바니나니체 - 하늘에서 내려온 토끼가 하는 말",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 바니나니체",
+        "uhbeebanynany"
+    ],
+    "homepage": "https://noonnu.cc/font_page/135 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeebanynany"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

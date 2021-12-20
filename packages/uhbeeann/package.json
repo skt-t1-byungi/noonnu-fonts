@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeeann",
+    "description": "어비 앤체 - 치킨은 맛있었는데 속이 쓰리다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 앤체",
+        "uhbeeann"
+    ],
+    "homepage": "https://noonnu.cc/font_page/132 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeeann"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

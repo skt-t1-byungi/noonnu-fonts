@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/nexon-lv1-gothic-otf-light",
+    "description": "넥슨 Lv.1 고딕 Light - 코로나 때문에 수영장도 못간다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "넥슨 Lv.1 고딕 Light",
+        "nexon-lv1-gothic-otf-light"
+    ],
+    "homepage": "https://noonnu.cc/font_page/431 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/nexon-lv1-gothic-otf-light"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

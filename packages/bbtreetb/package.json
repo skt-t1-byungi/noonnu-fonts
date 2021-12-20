@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bbtreetb",
+    "description": "유토이미지나무B - 에그*랍 진짜 맛있어",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "유토이미지나무B",
+        "bbtreetb"
+    ],
+    "homepage": "https://noonnu.cc/font_page/278 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bbtreetb"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

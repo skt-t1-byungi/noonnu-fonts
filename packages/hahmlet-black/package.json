@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hahmlet-black",
+    "description": "함렛 Black - 윌리엄셰익스피어 William Shakespeare",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "함렛 Black",
+        "hahmlet-black"
+    ],
+    "homepage": "https://noonnu.cc/font_page/752 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hahmlet-black"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

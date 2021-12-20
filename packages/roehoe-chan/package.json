@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/roehoe-chan",
+    "description": "노회찬체 - 574번째 한글날을 기념해 만든 서체",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "노회찬체",
+        "roehoe-chan"
+    ],
+    "homepage": "https://noonnu.cc/font_page/468 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/roehoe-chan"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

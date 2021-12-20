@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeeyul",
+    "description": "어비 율체 - 새로 이사온 나의 자취방은 따뜻해서 기분이 좋았다.",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 율체",
+        "uhbeeyul"
+    ],
+    "homepage": "https://noonnu.cc/font_page/207 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeeyul"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/arita-buri-semibold",
+    "description": "아리따부리 - 바람이 불었으면 좋겠어",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "아리따부리",
+        "arita-buri-semibold"
+    ],
+    "homepage": "https://noonnu.cc/font_page/16 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/arita-buri-semibold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

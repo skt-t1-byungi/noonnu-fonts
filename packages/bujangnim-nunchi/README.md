@@ -1,0 +1,23 @@
+# @noonnu/bujangnim-nunchi
+부장님 눈치체 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴
+
+## Install
+```sh
+npm i @noonnu/bujangnim-nunchi
+```
+## Usage
+### cjs
+```js
+require("@noonnu/bujangnim-nunchi")
+```
+### esm
+```js
+import "@noonnu/bujangnim-nunchi"
+```
+### css-loader
+```css
+@import "~@noonnu/bujangnim-nunchi/index.css"
+```
+
+## Link
+https://noonnu.cc/font_page/522

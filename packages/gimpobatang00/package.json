@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gimpobatang00",
+    "description": "김포평화바탕 - 사람들이랑 만나서 재밌게 놀고 싶다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "김포평화바탕",
+        "gimpobatang00"
+    ],
+    "homepage": "https://noonnu.cc/font_page/439 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gimpobatang00"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ibmplexsanskr-light",
+    "description": "IBM Plex Sans Light - 기분이 우울한 날에는 맛있는 음식을 먹자",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "IBM Plex Sans Light",
+        "ibmplexsanskr-light"
+    ],
+    "homepage": "https://noonnu.cc/font_page/446 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ibmplexsanskr-light"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

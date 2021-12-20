@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/jsongmyung-regular-ko",
+    "description": "J송명 - 정갈한 명조체",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "J송명",
+        "jsongmyung-regular-ko"
+    ],
+    "homepage": "https://noonnu.cc/font_page/766 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/jsongmyung-regular-ko"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

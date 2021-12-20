@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yeolrinmyeongjo-light",
+    "description": "열린명조 Light - 아프지 말고 건강하자",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "열린명조 Light",
+        "yeolrinmyeongjo-light"
+    ],
+    "homepage": "https://noonnu.cc/font_page/357 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yeolrinmyeongjo-light"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

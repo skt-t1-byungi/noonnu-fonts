@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gonggothicbold",
+    "description": "이사만루 Bold - 이사만루 홈런의 짜릿한 승부",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "이사만루 Bold",
+        "gonggothicbold"
+    ],
+    "homepage": "https://noonnu.cc/font_page/464 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gonggothicbold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

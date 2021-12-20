@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/2yangpyeongm",
+    "description": "양평군체 M - 선선한 여름 저녁에 시원한 맥주",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "양평군체 M",
+        "2yangpyeongm"
+    ],
+    "homepage": "https://noonnu.cc/font_page/421 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/2yangpyeongm"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

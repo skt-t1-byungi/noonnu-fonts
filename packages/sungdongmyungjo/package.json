@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sungdongmyungjo",
+    "description": "성동명조 - 상업적으로 이용할 수 있는 폰트가 많았으면",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "성동명조",
+        "sungdongmyungjo"
+    ],
+    "homepage": "https://noonnu.cc/font_page/27 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sungdongmyungjo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

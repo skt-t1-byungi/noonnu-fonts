@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/cookierunotf-bold",
+    "description": "쿠키런 Bold - 쿠키 먹으면서 하는 게임",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "쿠키런 Bold",
+        "cookierunotf-bold"
+    ],
+    "homepage": "https://noonnu.cc/font_page/322 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/cookierunotf-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

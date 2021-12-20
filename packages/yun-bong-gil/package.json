@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yun-bong-gil",
+    "description": "윤봉길체 - 윤봉길 독립운동가의 글씨체",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "윤봉길체",
+        "yun-bong-gil"
+    ],
+    "homepage": "https://noonnu.cc/font_page/369 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yun-bong-gil"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

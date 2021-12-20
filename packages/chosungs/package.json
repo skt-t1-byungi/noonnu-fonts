@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chosungs",
+    "description": "조선궁서체 - 진지하니까 궁서체로 말한다.",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "조선궁서체",
+        "chosungs"
+    ],
+    "homepage": "https://noonnu.cc/font_page/416 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chosungs"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

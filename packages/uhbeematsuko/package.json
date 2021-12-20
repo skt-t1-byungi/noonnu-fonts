@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeematsuko",
+    "description": "어비 마츠코체 - 집순이는 일본여행보다 호캉스가 좋아",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 마츠코체",
+        "uhbeematsuko"
+    ],
+    "homepage": "https://noonnu.cc/font_page/171 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeematsuko"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

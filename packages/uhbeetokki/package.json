@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeetokki",
+    "description": "어비 톡기체 - 달에서 토끼가 떡을 만들고 있다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 톡기체",
+        "uhbeetokki"
+    ],
+    "homepage": "https://noonnu.cc/font_page/195 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeetokki"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

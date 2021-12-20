@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/eland-nice_m",
+    "description": "이랜드 나이스체 - 겨울엔 추워서 이불 밖은 위험해",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "이랜드 나이스체",
+        "eland-nice_m"
+    ],
+    "homepage": "https://noonnu.cc/font_page/504 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/eland-nice_m"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

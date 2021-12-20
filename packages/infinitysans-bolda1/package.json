@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/infinitysans-bolda1",
+    "description": "인피니티산스 Bold - 언제까지 마스크를 쓰고 살아야할까",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "인피니티산스 Bold",
+        "infinitysans-bolda1"
+    ],
+    "homepage": "https://noonnu.cc/font_page/424 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/infinitysans-bolda1"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

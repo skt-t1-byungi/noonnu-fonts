@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sangjudajungdagam",
+    "description": "상주다정다감체 - 감은 그냥 먹어도 맛있고 홍시도 맛있고",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "상주다정다감체",
+        "sangjudajungdagam"
+    ],
+    "homepage": "https://noonnu.cc/font_page/783 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sangjudajungdagam"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

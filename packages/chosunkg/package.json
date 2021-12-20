@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chosunkg",
+    "description": "조선굵은고딕 - 시간이 참 빠르다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "조선굵은고딕",
+        "chosunkg"
+    ],
+    "homepage": "https://noonnu.cc/font_page/413 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chosunkg"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

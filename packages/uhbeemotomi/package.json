@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeemotomi",
+    "description": "어비 모토미체 - 폰트는 가독성이 중요한 것 같다",
+    "version": "0.2.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 모토미체",
+        "uhbeemotomi"
+    ],
+    "homepage": "https://noonnu.cc/font_page/175 ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeemotomi"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}
