@@ -5,3 +5,4 @@ dist/
 *-lock.yaml
 *.lock
 *.log
+packags/**/*
