@@ -1,9 +1,12 @@
 {
     "private": true,
     "type": "module",
+    "noonnu": {
+        "version": "0.0.1"
+    },
     "scripts": {
         "start": "node ./update.js",
-        "watch": "nodemon ./update.js --ignore packages"
+        "watch": "nodemon ./update.js --ignore packages/**/*"
     },
     "devDependencies": {
         "nodemon": "^2.0.15",

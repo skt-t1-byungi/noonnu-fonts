@@ -9,7 +9,9 @@ import templite from 'templite'
 import pLimit from 'p-limit'
 import normalizeUrl from 'normalize-url'
 import isUrl from 'is-url'
+// import pkg from './package.json' assert { type: 'json' }
 
+const pkg = fs.readJSONSync('./package.json')
 const CSS_FONT_FACE_RE = /@font-face\s*{([^}]*)}/g
 const CSS_URL_RE = /url\(("|'?)((?:(?<=\\)\)|[^\)])*)\1\)/g
 const CSS_IMPORT_URL_RE = new RegExp(`@import\\s+${CSS_URL_RE.source};`)
@@ -44,7 +46,7 @@ async function main() {
                         {
                             name: `@noonnu/${name}`,
                             description,
-                            version: '0.2.0',
+                            version: pkg.noonnu.version,
                             main: 'index.css',
                             license: 'MIT',
                             keywords: ['noonnu', data.name, name],
