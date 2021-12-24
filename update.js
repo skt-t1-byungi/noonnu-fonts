@@ -94,7 +94,7 @@ async function main() {
         toArray(),
         mergeMap(async fonts => {
             const ws = fs.createWriteStream('fonts.md')
-            ws.write('# 폰트목록?!\n')
+            ws.write('# 폰트목록\n')
             fonts
                 .sort((a, b) => a.originalName.localeCompare(b.originalName))
                 .forEach(f =>
