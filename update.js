@@ -9,7 +9,7 @@ import templite from 'templite'
 import pLimit from 'p-limit'
 import normalizeUrl from 'normalize-url'
 import isUrl from 'is-url'
-import { from, map, lastValueFrom, toArray, mergeMap, of, shareReplay, merge, defer, pipe } from 'rxjs'
+import { from, map, lastValueFrom, toArray, mergeMap, merge, defer } from 'rxjs'
 import del from 'del'
 // import pkg from './package.json' assert { type: 'json' }
 
