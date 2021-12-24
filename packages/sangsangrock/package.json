@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sangsangrock",
+    "description": "정묵바위체 - 단단하고 우직한 캘리그라피 폰트",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "정묵바위체",
+        "sangsangrock"
+    ],
+    "homepage": "https://noonnu.cc/font_page/395",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sangsangrock"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

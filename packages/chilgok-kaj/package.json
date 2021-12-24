@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chilgok-kaj",
+    "description": "칠곡할매 권안자체 - 성인문해교육으로 한글을 배우신 어르신의 글씨",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "칠곡할매 권안자체",
+        "chilgok-kaj"
+    ],
+    "homepage": "https://noonnu.cc/font_page/682",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chilgok-kaj"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

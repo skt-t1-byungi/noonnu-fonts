@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/on-yeossihyang-yageonhael",
+    "description": "ON여씨향약언해L - 잘못을 서로 고쳐준다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ON여씨향약언해L",
+        "on-yeossihyang-yageonhael"
+    ],
+    "homepage": "https://noonnu.cc/font_page/315",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/on-yeossihyang-yageonhael"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hesom",
+    "description": "온글잎 해솜체 - 온글잎이 만든 무료 손글씨 폰트",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "온글잎 해솜체",
+        "hesom"
+    ],
+    "homepage": "https://noonnu.cc/font_page/664",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hesom"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

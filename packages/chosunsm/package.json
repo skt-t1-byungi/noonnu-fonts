@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chosunsm",
+    "description": "조선신명조 - 조선일보 창간 100주년 기념 폰트",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "조선신명조",
+        "chosunsm"
+    ],
+    "homepage": "https://noonnu.cc/font_page/418",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chosunsm"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

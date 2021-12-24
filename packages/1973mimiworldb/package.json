@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/1973mimiworldb",
+    "description": "1973미미월드B - 미미월드 좋은장난감",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "1973미미월드B",
+        "1973mimiworldb"
+    ],
+    "homepage": "https://noonnu.cc/font_page/679",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/1973mimiworldb"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

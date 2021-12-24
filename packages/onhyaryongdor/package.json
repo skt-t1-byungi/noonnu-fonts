@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/onhyaryongdor",
+    "description": "ON화룡도R - 쌍둥이도 글씨체는 다르다더라",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ON화룡도R",
+        "onhyaryongdor"
+    ],
+    "homepage": "https://noonnu.cc/font_page/494",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/onhyaryongdor"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

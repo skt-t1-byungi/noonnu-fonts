@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/independence-hall",
+    "description": "독립기념관체 - 마스크로부터 독립하는 날이 왔으면",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "독립기념관체",
+        "independence-hall"
+    ],
+    "homepage": "https://noonnu.cc/font_page/622",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/independence-hall"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

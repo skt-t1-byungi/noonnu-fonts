@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/on-yeossihyang-yageonhaeb",
+    "description": "ON여씨향약언해B - 좋은 일은 서로 권한다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ON여씨향약언해B",
+        "on-yeossihyang-yageonhaeb"
+    ],
+    "homepage": "https://noonnu.cc/font_page/316",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/on-yeossihyang-yageonhaeb"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

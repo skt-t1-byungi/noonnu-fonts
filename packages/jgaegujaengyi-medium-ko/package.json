@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/jgaegujaengyi-medium-ko",
+    "description": "J개구쟁이 Medium - 손글씨가 두께 세가지나 된다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "J개구쟁이 Medium",
+        "jgaegujaengyi-medium-ko"
+    ],
+    "homepage": "https://noonnu.cc/font_page/762",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/jgaegujaengyi-medium-ko"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/s-coredream-4regular",
+    "description": "에스코어드림Reg - 24일에 잠들어서 26일에 일어나야겠다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "에스코어드림Reg",
+        "s-coredream-4regular"
+    ],
+    "homepage": "https://noonnu.cc/font_page/231",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/s-coredream-4regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

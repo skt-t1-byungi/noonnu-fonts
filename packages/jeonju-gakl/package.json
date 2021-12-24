@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/jeonju-gakl",
+    "description": "전주완판본 각체L - 목각 완판본 글씨체",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "전주완판본 각체L",
+        "jeonju-gakl"
+    ],
+    "homepage": "https://noonnu.cc/font_page/624",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/jeonju-gakl"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

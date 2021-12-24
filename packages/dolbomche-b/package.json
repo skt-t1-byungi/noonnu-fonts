@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/dolbomche-b",
+    "description": "문화재돌봄체 Bold - 문화재를 돌봅시다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "문화재돌봄체 Bold",
+        "dolbomche-b"
+    ],
+    "homepage": "https://noonnu.cc/font_page/652",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/dolbomche-b"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

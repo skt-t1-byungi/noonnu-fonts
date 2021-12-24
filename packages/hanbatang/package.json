@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hanbatang",
+    "description": "함초롬바탕체 Regular - 피크닉하기 정말 좋은 날씨다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "함초롬바탕체 Regular",
+        "hanbatang"
+    ],
+    "homepage": "https://noonnu.cc/font_page/654",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hanbatang"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

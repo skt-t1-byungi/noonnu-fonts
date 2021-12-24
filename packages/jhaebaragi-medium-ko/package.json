@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/jhaebaragi-medium-ko",
+    "description": "J해바라기 Medium - 해바라기 꽃밭 놀러가고 싶다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "J해바라기 Medium",
+        "jhaebaragi-medium-ko"
+    ],
+    "homepage": "https://noonnu.cc/font_page/765",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/jhaebaragi-medium-ko"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

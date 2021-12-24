@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/drfont-daraehand",
+    "description": "다래손글씨체 - 아름다운 한글을 널리 퍼뜨리자",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "다래손글씨체",
+        "drfont-daraehand"
+    ],
+    "homepage": "https://noonnu.cc/font_page/90",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/drfont-daraehand"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

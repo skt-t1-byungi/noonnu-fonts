@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/jeju-myeongjo",
+    "description": "제주명조 - 사람은 왜 태어나고 죽는 건지 알 수 없어",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "제주명조",
+        "jeju-myeongjo"
+    ],
+    "homepage": "https://noonnu.cc/font_page/50",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/jeju-myeongjo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

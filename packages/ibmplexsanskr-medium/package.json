@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ibmplexsanskr-medium",
+    "description": "IBM Plex Sans Medium - IBM이 만든 깔끔하고 정갈한 폰트",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "IBM Plex Sans Medium",
+        "ibmplexsanskr-medium"
+    ],
+    "homepage": "https://noonnu.cc/font_page/447",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ibmplexsanskr-medium"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/jaemin",
+    "description": "한글재민체 - 입에 단 건 몸엔 안 좋지만 정신건강엔 좋다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "한글재민체",
+        "jaemin"
+    ],
+    "homepage": "https://noonnu.cc/font_page/479",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/jaemin"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

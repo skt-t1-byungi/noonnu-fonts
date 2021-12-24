@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hahmlet-extrabold",
+    "description": "함렛 ExtraBold - 이 폰트는 웨이트가 9가지나 된다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "함렛 ExtraBold",
+        "hahmlet-extrabold"
+    ],
+    "homepage": "https://noonnu.cc/font_page/754",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hahmlet-extrabold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

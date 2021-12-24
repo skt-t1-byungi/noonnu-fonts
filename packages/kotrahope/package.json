@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kotrahope",
+    "description": "코트라 희망체 - 동글동글 귀여운 손글씨",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "코트라 희망체",
+        "kotrahope"
+    ],
+    "homepage": "https://noonnu.cc/font_page/767",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kotrahope"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

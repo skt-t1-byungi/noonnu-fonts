@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'BareunBatang';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./BareunBatangOTFM.woff2) format('woff2'), url(./BareunBatangOTFM.woff) format('woff');
+}

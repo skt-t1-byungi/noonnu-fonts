@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gyungyoung",
+    "description": "온글잎 경영체 - 마라는 역시 맛있다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "온글잎 경영체",
+        "gyungyoung"
+    ],
+    "homepage": "https://noonnu.cc/font_page/663",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gyungyoung"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/accchildrensky",
+    "description": "ACC 어린이 가을담은체 - 하늘이 맑은날에는 하늘을 보자",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ACC 어린이 가을담은체",
+        "accchildrensky"
+    ],
+    "homepage": "https://noonnu.cc/font_page/789",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/accchildrensky"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

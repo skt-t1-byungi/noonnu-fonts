@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hssummer",
+    "description": "HS여름물빛체 - 무더운 밤, 잠은 오지 않고",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "HS여름물빛체",
+        "hssummer"
+    ],
+    "homepage": "https://noonnu.cc/font_page/46",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hssummer"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

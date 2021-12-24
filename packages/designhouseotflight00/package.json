@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/designhouseotflight00",
+    "description": "디자인하우스체 - 디자인 잘하고 싶다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "디자인하우스체",
+        "designhouseotflight00"
+    ],
+    "homepage": "https://noonnu.cc/font_page/89",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/designhouseotflight00"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

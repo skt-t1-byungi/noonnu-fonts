@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kopubdotummedium",
+    "description": "KoPub돋움 - 돌다리 열 번 두들겨도 발이 빠지는 법이야",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "KoPub돋움",
+        "kopubdotummedium"
+    ],
+    "homepage": "https://noonnu.cc/font_page/33",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kopubdotummedium"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

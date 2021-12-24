@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/cafe24syongsyong",
+    "description": "카페24 숑숑 - 구멍에서 바람이 숑숑",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "카페24 숑숑",
+        "cafe24syongsyong"
+    ],
+    "homepage": "https://noonnu.cc/font_page/346",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/cafe24syongsyong"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

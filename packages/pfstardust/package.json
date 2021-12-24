@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/pfstardust",
+    "description": "PF스타더스트 - 픽셀폰트풍 글씨체",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "PF스타더스트",
+        "pfstardust"
+    ],
+    "homepage": "https://noonnu.cc/font_page/393",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/pfstardust"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

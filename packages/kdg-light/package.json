@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kdg-light",
+    "description": "솔뫼 김대건체 L - 조선 최초의 가톨릭사제 김대건 신부",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "솔뫼 김대건체 L",
+        "kdg-light"
+    ],
+    "homepage": "https://noonnu.cc/font_page/505",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kdg-light"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

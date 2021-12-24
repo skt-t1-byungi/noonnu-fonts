@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chilgok-kyb",
+    "description": "칠곡할매 김영분체 - 여름은 덥고 겨울은 춥다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "칠곡할매 김영분체",
+        "chilgok-kyb"
+    ],
+    "homepage": "https://noonnu.cc/font_page/683",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chilgok-kyb"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

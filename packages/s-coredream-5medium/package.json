@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/s-coredream-5medium",
+    "description": "에스코어드림Md - 머리카락 털갈이 하는건가",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "에스코어드림Md",
+        "s-coredream-5medium"
+    ],
+    "homepage": "https://noonnu.cc/font_page/225",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/s-coredream-5medium"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

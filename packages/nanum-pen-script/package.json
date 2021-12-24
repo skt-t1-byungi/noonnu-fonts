@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/nanum-pen-script",
+    "description": "나눔손글씨펜 - 썸남 같은건 드라마 속에나 존재하는거 아니냐",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "나눔손글씨펜",
+        "nanum-pen-script"
+    ],
+    "homepage": "https://noonnu.cc/font_page/44",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/nanum-pen-script"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

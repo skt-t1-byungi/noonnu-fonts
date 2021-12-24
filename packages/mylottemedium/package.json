@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/mylottemedium",
+    "description": "My LOTTE체 M - 공항가면 면세점 쇼핑을 하지",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "My LOTTE체 M",
+        "mylottemedium"
+    ],
+    "homepage": "https://noonnu.cc/font_page/213",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/mylottemedium"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

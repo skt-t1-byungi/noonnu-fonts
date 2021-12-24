@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/nexen-tire_regular",
+    "description": "넥센타이어R - 하얀 눈이 내려올때면",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "넥센타이어R",
+        "nexen-tire_regular"
+    ],
+    "homepage": "https://noonnu.cc/font_page/236",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/nexen-tire_regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gimpotitle00",
+    "description": "김포평화제목 - 여러분 연애는 인생에 도움이 됩니다. 연애하세요~",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "김포평화제목",
+        "gimpotitle00"
+    ],
+    "homepage": "https://noonnu.cc/font_page/438",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gimpotitle00"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

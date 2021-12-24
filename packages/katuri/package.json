@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/katuri",
+    "description": "엄마까투리체 - 자연과 교감하며 성장하는 행복한 꿩병아리",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "엄마까투리체",
+        "katuri"
+    ],
+    "homepage": "https://noonnu.cc/font_page/397",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/katuri"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

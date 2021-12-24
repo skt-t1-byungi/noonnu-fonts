@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/lottemartdream",
+    "description": "롯데마트드림체 - 롯데마트 통큰서체가 돌아왔어요!",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "롯데마트드림체",
+        "lottemartdream"
+    ],
+    "homepage": "https://noonnu.cc/font_page/287",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/lottemartdream"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

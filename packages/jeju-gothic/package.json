@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/jeju-gothic",
+    "description": "제주고딕 - 여행을 많이 다니다 보면 알게 될거야",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "제주고딕",
+        "jeju-gothic"
+    ],
+    "homepage": "https://noonnu.cc/font_page/49",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/jeju-gothic"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

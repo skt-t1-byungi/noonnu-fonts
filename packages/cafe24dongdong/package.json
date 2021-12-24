@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/cafe24dongdong",
+    "description": "카페24 동동 - 추워서 발을 동동",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "카페24 동동",
+        "cafe24dongdong"
+    ],
+    "homepage": "https://noonnu.cc/font_page/341",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/cafe24dongdong"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

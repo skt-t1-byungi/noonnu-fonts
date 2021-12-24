@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Nanum Myeongjo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./9Btx3DZF0dXLMZlywRbVRNhxy2LscnA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nanum Myeongjo';
+  font-style: normal;
+  font-weight: 700;
+  src: url(./9Bty3DZF0dXLMZlywRbVRNhxy2pXV2Azr_Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nanum Myeongjo';
+  font-style: normal;
+  font-weight: 800;
+  src: url(./9Bty3DZF0dXLMZlywRbVRNhxy2pLVGAzr_Q.ttf) format('truetype');
+}
