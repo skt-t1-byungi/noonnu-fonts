@@ -69,9 +69,9 @@ async function main() {
                                     { stripHash: true }
                                 )
                                 const filePath = path.join(f.pkgDir, path.basename(fontUrl))
-                                await limitIO(() =>
+                                await limitIO(async () =>
                                     pipeline(
-                                        fetch(normalizeUrl(fontUrl)).then(r => r.body.stream),
+                                        await fetch(normalizeUrl(fontUrl)).then(r => r.body),
                                         fs.createWriteStream(filePath)
                                     )
                                 )
