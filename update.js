@@ -13,7 +13,7 @@ import { from, map, lastValueFrom, toArray, mergeMap, merge, defer, shareReplay 
 import del from 'del'
 // import pkg from './package.json' assert { type: 'json' }
 
-const pkg = fs.readJSONSync('./package.json')
+const NOONNU_META = fs.readJSONSync('./package.json').noonnu
 const CSS_FONT_FACE_RE = /@font-face\s*{([^}]*)}/g
 const CSS_URL_RE = /url\(("|'?)((?:(?<=\\)\)|[^\)])*)\1\)/g
 const CSS_IMPORT_URL_RE = new RegExp(`@import\\s+${CSS_URL_RE.source};`)
@@ -55,14 +55,14 @@ async function main() {
                 limitIO(() => writePkgFile(f)),
                 limitIO(() => writeReadmeFile(f)),
                 defer(async () => {
-                    const newCss = await generateCss(f.originalCssText)
-                    return limitIO(() => fs.writeFile(path.join(f.pkgDir, 'index.css'), newCss))
+                    const cssText = await generateCss(f.originalCssText)
+                    return limitIO(() => fs.writeFile(path.join(f.pkgDir, 'index.css'), cssText))
 
-                    async function generateCss(css, baseUrl) {
-                        return replaceCssImport(await replaceFonts(css, baseUrl))
+                    async function generateCss(cssText, baseUrl) {
+                        return replaceCssImport(await replaceFonts(cssText, baseUrl))
                     }
-                    function replaceFonts(css, baseUrl) {
-                        return replace(css, CSS_FONT_FACE_RE, body =>
+                    function replaceFonts(cssText, baseUrl) {
+                        return replace(cssText, CSS_FONT_FACE_RE, body =>
                             replace(body, CSS_URL_RE, async (_, __, fontUrl) => {
                                 fontUrl = normalizeUrl(
                                     isUrl(fontUrl) ? fontUrl : new URL(fontUrl, baseUrl).toString(),
@@ -76,13 +76,13 @@ async function main() {
                                     )
                                 )
                                 return `url(./${path.relative(f.pkgDir, filePath)}${
-                                    path.extname(fontUrl) === 'eot' ? '?#iefix' : ''
+                                    path.extname(fontUrl) === '.eot' ? '?#iefix' : ''
                                 })`
                             })
                         )
                     }
-                    function replaceCssImport(css) {
-                        return replace(css, CSS_IMPORT_URL_RE, async (_, __, cssUrl) => {
+                    function replaceCssImport(cssText) {
+                        return replace(cssText, CSS_IMPORT_URL_RE, async (_, __, cssUrl) => {
                             cssUrl = normalizeUrl(cssUrl, { stripHash: true })
                             const part = await limitIO(() => fetch(cssUrl).then(r => r.text()))
                             return generateCss(part, cssUrl)
@@ -126,7 +126,7 @@ function writePkgFile(f) {
         {
             name: `@noonnu/${f.pkgName}`,
             description: f.description,
-            version: pkg.noonnu.version,
+            version: NOONNU_META.version,
             main: 'index.css',
             license: 'MIT',
             keywords: ['noonnu', f.originalName, f.pkgName],
