@@ -5,18 +5,26 @@ J개구쟁이 Light - 귀여운 손글씨 폰트
 ```sh
 npm i @noonnu/jgaegujaengyi-light-ko
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/jgaegujaengyi-light-ko")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/jgaegujaengyi-light-ko"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/jgaegujaengyi-light-ko/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "JGaegujaengyi-Light-KO", serif;
+}
 ```
 
 ## Link

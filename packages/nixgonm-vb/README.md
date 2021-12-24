@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/nixgonm-vb
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/nixgonm-vb")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/nixgonm-vb"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/nixgonm-vb/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "NIXGONM-Vb", serif;
+}
 ```
 
 ## Link

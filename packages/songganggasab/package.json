@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/songganggasab",
+    "description": "송강가사 Bold - 굵고 힘있으며 유연한 획",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "송강가사 Bold",
+        "songganggasab"
+    ],
+    "homepage": "https://noonnu.cc/font_page/390",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/songganggasab"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

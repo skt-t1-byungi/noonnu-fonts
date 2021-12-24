@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/hahmlet-bold
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/hahmlet-bold")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/hahmlet-bold"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/hahmlet-bold/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Hahmlet-Bold", serif;
+}
 ```
 
 ## Link

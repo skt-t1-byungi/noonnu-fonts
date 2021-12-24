@@ -5,18 +5,26 @@ Gmarket Sans B - G마켓에서 만든 폰트인데 진짜 괜찮음
 ```sh
 npm i @noonnu/gmarketsansbold
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/gmarketsansbold")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/gmarketsansbold"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/gmarketsansbold/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "GmarketSansBold", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/jsarirangppuri-regular
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/jsarirangppuri-regular")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/jsarirangppuri-regular"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/jsarirangppuri-regular/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "JSArirangPPURI-Regular", serif;
+}
 ```
 
 ## Link

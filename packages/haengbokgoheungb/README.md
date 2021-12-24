@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/haengbokgoheungb
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/haengbokgoheungb")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/haengbokgoheungb"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/haengbokgoheungb/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "행복고흥B", serif;
+}
 ```
 
 ## Link

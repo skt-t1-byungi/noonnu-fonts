@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/ghanachoco
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/ghanachoco")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/ghanachoco"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/ghanachoco/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "ghanachoco", serif;
+}
 ```
 
 ## Link

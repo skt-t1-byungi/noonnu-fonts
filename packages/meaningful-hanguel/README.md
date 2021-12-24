@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/meaningful-hanguel
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/meaningful-hanguel")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/meaningful-hanguel"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/meaningful-hanguel/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Meaningful_hanguel", serif;
+}
 ```
 
 ## Link

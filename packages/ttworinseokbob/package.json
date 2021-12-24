@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ttworinseokbob",
+    "description": "ON월인석보B - 훈민정음 언해본 중 가장 오래된 판본",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ON월인석보B",
+        "ttworinseokbob"
+    ],
+    "homepage": "https://noonnu.cc/font_page/308",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ttworinseokbob"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

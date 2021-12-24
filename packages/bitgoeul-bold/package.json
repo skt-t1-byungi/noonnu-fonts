@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bitgoeul-bold",
+    "description": "빛고을광주체Bold - 광주는 대한민국의 서남부에 있는 광역시입니다.",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "빛고을광주체Bold",
+        "bitgoeul-bold"
+    ],
+    "homepage": "https://noonnu.cc/font_page/256",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bitgoeul-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

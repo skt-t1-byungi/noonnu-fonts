@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/establishroomno703otf
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/establishroomno703otf")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/establishroomno703otf"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/establishroomno703otf/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "establishRoomNo703OTF", serif;
+}
 ```
 
 ## Link

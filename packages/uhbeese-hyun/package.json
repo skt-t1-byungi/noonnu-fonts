@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeese-hyun",
+    "description": "어비 세현체 - 너가 사랑하는 일을 해라",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 세현체",
+        "uhbeese-hyun"
+    ],
+    "homepage": "https://noonnu.cc/font_page/187",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeese-hyun"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

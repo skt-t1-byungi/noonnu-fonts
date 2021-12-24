@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/mapohongdaefreedom
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/mapohongdaefreedom")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/mapohongdaefreedom"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/mapohongdaefreedom/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "MapoHongdaeFreedom", serif;
+}
 ```
 
 ## Link

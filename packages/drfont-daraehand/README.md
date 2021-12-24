@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/drfont-daraehand
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/drfont-daraehand")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/drfont-daraehand"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/drfont-daraehand/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "drfont_daraehand", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/deagwang-mirror
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/deagwang-mirror")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/deagwang-mirror"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/deagwang-mirror/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Deagwang_mirror", serif;
+}
 ```
 
 ## Link

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeeham",
+    "description": "어비 햄체 - 햄 냠냠 먹고 싶다 소시지 햄 좋아",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 햄체",
+        "uhbeeham"
+    ],
+    "homepage": "https://noonnu.cc/font_page/149",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeeham"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/korea-hero
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/korea-hero")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/korea-hero"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/korea-hero/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Korea_hero", serif;
+}
 ```
 
 ## Link

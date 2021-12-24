@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/brra-r",
+    "description": "배스킨라빈스R - 이한치한으로 겨울에 아이스크림",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "배스킨라빈스R",
+        "brra-r"
+    ],
+    "homepage": "https://noonnu.cc/font_page/245",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/brra-r"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/s-coredream-2extralight",
+    "description": "에스코어드림EL - 이번 생은 망했으니 다음 생에 잘하자",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "에스코어드림EL",
+        "s-coredream-2extralight"
+    ],
+    "homepage": "https://noonnu.cc/font_page/230",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/s-coredream-2extralight"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

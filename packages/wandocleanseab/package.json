@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/wandocleanseab",
+    "description": "완도청정바다체 Bold - 완도에는 장보고 유적지가 유명하다고 해",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "완도청정바다체 Bold",
+        "wandocleanseab"
+    ],
+    "homepage": "https://noonnu.cc/font_page/470",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/wandocleanseab"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/kalguksu
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/kalguksu")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/kalguksu"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/kalguksu/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Kalguksu", serif;
+}
 ```
 
 ## Link

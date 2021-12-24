@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/mapoagape
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/mapoagape")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/mapoagape"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/mapoagape/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "MapoAgape", serif;
+}
 ```
 
 ## Link

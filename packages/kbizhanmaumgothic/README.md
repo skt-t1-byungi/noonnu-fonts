@@ -5,18 +5,26 @@ KBIZ한마음고딕체 - 폰트가 진짜 엄청 많네
 ```sh
 npm i @noonnu/kbizhanmaumgothic
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/kbizhanmaumgothic")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/kbizhanmaumgothic"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/kbizhanmaumgothic/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "KBIZHanmaumGothic", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/sangsangflowerroad
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/sangsangflowerroad")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/sangsangflowerroad"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/sangsangflowerroad/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "SangSangFlowerRoad", serif;
+}
 ```
 
 ## Link

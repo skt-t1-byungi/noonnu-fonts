@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/flower-tree
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/flower-tree")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/flower-tree"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/flower-tree/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Flower_tree", serif;
+}
 ```
 
 ## Link

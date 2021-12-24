@@ -5,18 +5,26 @@ ON화룡도L - 커리어가 중요하지만 내가 뭘 하고 싶은지도 중�
 ```sh
 npm i @noonnu/onhyaryongdol
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/onhyaryongdol")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/onhyaryongdol"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/onhyaryongdol/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "ONHyaryongdoL", serif;
+}
 ```
 
 ## Link

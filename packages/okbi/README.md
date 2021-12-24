@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/okbi
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/okbi")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/okbi"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/okbi/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Okbi", serif;
+}
 ```
 
 ## Link

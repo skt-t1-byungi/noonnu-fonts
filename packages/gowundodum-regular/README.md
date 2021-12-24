@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/gowundodum-regular
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/gowundodum-regular")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/gowundodum-regular"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/gowundodum-regular/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "GowunDodum-Regular", serif;
+}
 ```
 
 ## Link

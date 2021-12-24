@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/nexon-lv2-gothic-bold
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/nexon-lv2-gothic-bold")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/nexon-lv2-gothic-bold"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/nexon-lv2-gothic-bold/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "NEXON Lv2 Gothic Bold", serif;
+}
 ```
 
 ## Link

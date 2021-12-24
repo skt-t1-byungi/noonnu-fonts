@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/i-survive
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/i-survive")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/i-survive"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/i-survive/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "I_survive", serif;
+}
 ```
 
 ## Link

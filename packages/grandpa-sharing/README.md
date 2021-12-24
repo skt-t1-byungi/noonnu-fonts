@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/grandpa-sharing
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/grandpa-sharing")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/grandpa-sharing"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/grandpa-sharing/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Grandpa_sharing", serif;
+}
 ```
 
 ## Link

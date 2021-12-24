@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/mapobackpacking
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/mapobackpacking")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/mapobackpacking"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/mapobackpacking/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "MapoBackpacking", serif;
+}
 ```
 
 ## Link

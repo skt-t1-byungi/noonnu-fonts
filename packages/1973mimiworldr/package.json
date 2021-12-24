@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/1973mimiworldr",
+    "description": "1973미미월드R - 장난감코너에서 드러누워보자",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "1973미미월드R",
+        "1973mimiworldr"
+    ],
+    "homepage": "https://noonnu.cc/font_page/680",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/1973mimiworldr"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

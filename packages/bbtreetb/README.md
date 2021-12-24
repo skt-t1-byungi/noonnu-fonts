@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/bbtreetb
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/bbtreetb")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/bbtreetb"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/bbtreetb/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "BBTreeTB", serif;
+}
 ```
 
 ## Link

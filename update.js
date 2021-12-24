@@ -9,7 +9,7 @@ import templite from 'templite'
 import pLimit from 'p-limit'
 import normalizeUrl from 'normalize-url'
 import isUrl from 'is-url'
-import { from, map, lastValueFrom, toArray, mergeMap, merge, defer } from 'rxjs'
+import { from, map, lastValueFrom, toArray, mergeMap, merge, defer, shareReplay } from 'rxjs'
 import del from 'del'
 // import pkg from './package.json' assert { type: 'json' }
 
@@ -31,7 +31,7 @@ async function main() {
     del.sync('packages/**/*')
 
     const fonts$ = from(iterFontDatas()).pipe(
-        map((data, i) => {
+        map(data => {
             const pkgName = slugify(romaja.romanize(data.font_family_token))
                 .trim()
                 .replace('_', '-')
@@ -39,12 +39,14 @@ async function main() {
             return {
                 pkgName,
                 pkgDir: path.resolve(`packages/${pkgName}`),
+                familyName: data.font_family_token,
                 originalName: data.name,
                 originalCssText: data.cdn_server_html,
                 description: `${data.name} - ${data.ph_content}`,
                 link: `https://noonnu.cc/font_page/${data.id}`,
             }
-        })
+        }),
+        shareReplay()
     )
     const updatePkgs$ = fonts$.pipe(
         mergeMap(f => limitIO(() => fs.ensureDir(f.pkgDir)).then(() => f)),
@@ -151,6 +153,7 @@ function writeReadmeFile(f) {
             name: f.pkgName,
             description: f.description,
             link: f.link,
+            familyName: f.familyName,
         })
     )
 }

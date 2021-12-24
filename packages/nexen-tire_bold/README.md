@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/nexen-tire_bold
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/nexen-tire_bold")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/nexen-tire_bold"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/nexen-tire_bold/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "NEXEN_TIRE_Bold", serif;
+}
 ```
 
 ## Link

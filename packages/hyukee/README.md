@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/hyukee
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/hyukee")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/hyukee"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/hyukee/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Hyukee", serif;
+}
 ```
 
 ## Link

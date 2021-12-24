@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/love-son
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/love-son")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/love-son"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/love-son/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Love_son", serif;
+}
 ```
 
 ## Link

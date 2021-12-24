@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/binggraemelona",
+    "description": "빙그레 메로나체 - 올 때 메로나",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "빙그레 메로나체",
+        "binggraemelona"
+    ],
+    "homepage": "https://noonnu.cc/font_page/319",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/binggraemelona"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -5,18 +5,26 @@ Gmarket Sans M - 솔직히 이 폰트 진짜 괜찮은듯
 ```sh
 npm i @noonnu/gmarketsansmedium
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/gmarketsansmedium")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/gmarketsansmedium"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/gmarketsansmedium/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "GmarketSansMedium", serif;
+}
 ```
 
 ## Link

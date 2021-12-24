@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/hahmlet-extralight
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/hahmlet-extralight")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/hahmlet-extralight"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/hahmlet-extralight/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Hahmlet-ExtraLight", serif;
+}
 ```
 
 ## Link

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeemiwan",
+    "description": "어비 미완체 - 눈누에 회원가입을 하면 매주 폰트 메일을 보내드려요.",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 미완체",
+        "uhbeemiwan"
+    ],
+    "homepage": "https://noonnu.cc/font_page/174",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeemiwan"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

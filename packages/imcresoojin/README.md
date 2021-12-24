@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/imcresoojin
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/imcresoojin")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/imcresoojin"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/imcresoojin/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "ImcreSoojin", serif;
+}
 ```
 
 ## Link

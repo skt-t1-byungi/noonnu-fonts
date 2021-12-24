@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/polar-star
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/polar-star")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/polar-star"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/polar-star/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Polar_Star", serif;
+}
 ```
 
 ## Link

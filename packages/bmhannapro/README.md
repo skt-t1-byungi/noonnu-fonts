@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/bmhannapro
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/bmhannapro")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/bmhannapro"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/bmhannapro/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "BMHANNAPro", serif;
+}
 ```
 
 ## Link

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/wandohoper",
+    "description": "완도희망체 Regular - 청정하고 넉넉한 바다를 닮은 서체",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "완도희망체 Regular",
+        "wandohoper"
+    ],
+    "homepage": "https://noonnu.cc/font_page/471",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/wandohoper"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

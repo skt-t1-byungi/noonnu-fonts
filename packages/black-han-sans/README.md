@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/black-han-sans
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/black-han-sans")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/black-han-sans"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/black-han-sans/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Black Han Sans", serif;
+}
 ```
 
 ## Link

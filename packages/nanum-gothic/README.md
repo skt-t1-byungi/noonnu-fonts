@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/nanum-gothic
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/nanum-gothic")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/nanum-gothic"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/nanum-gothic/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Nanum Gothic", serif;
+}
 ```
 
 ## Link

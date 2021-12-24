@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeeringring",
+    "description": "어비 링링체 - 링딩동링딩동 링디기딩디기딩딩딩 링딩동링딩동",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 링링체",
+        "uhbeeringring"
+    ],
+    "homepage": "https://noonnu.cc/font_page/185",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeeringring"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

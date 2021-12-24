@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/seoulhangangm",
+    "description": "서울한강체 - 이상하게 요즘엔 그냥 쉬운게 좋아",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "서울한강체",
+        "seoulhangangm"
+    ],
+    "homepage": "https://noonnu.cc/font_page/60",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/seoulhangangm"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

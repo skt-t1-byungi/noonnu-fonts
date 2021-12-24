@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/mapoflowerisland
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/mapoflowerisland")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/mapoflowerisland"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/mapoflowerisland/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "MapoFlowerIsland", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/bud-tree
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/bud-tree")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/bud-tree"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/bud-tree/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Bud_tree", serif;
+}
 ```
 
 ## Link

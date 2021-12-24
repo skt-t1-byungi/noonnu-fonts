@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yisunshindotumm",
+    "description": "이순신돋움체 - 하늘 아래 초록이 예쁘더라",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "이순신돋움체",
+        "yisunshindotumm"
+    ],
+    "homepage": "https://noonnu.cc/font_page/66",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yisunshindotumm"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

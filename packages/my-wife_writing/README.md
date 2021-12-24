@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/my-wife_writing
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/my-wife_writing")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/my-wife_writing"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/my-wife_writing/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "My_wife_writing", serif;
+}
 ```
 
 ## Link

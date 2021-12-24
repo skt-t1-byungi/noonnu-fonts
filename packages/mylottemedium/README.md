@@ -5,18 +5,26 @@ My LOTTE체 M - 공항가면 면세점 쇼핑을 하지
 ```sh
 npm i @noonnu/mylottemedium
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/mylottemedium")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/mylottemedium"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/mylottemedium/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "MyLotteMedium", serif;
+}
 ```
 
 ## Link

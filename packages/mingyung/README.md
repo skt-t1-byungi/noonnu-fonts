@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/mingyung
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/mingyung")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/mingyung"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/mingyung/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Mingyung", serif;
+}
 ```
 
 ## Link

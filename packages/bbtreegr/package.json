@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bbtreegr",
+    "description": "유토이미지고딕R - 달달한 케이크가 먹고 싶다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "유토이미지고딕R",
+        "bbtreegr"
+    ],
+    "homepage": "https://noonnu.cc/font_page/277",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bbtreegr"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/global-hangul
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/global-hangul")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/global-hangul"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/global-hangul/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Global_Hangul", serif;
+}
 ```
 
 ## Link

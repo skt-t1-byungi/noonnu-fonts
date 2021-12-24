@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeewyum",
+    "description": "어비 위윰체 - 위염에 걸려서 하루종일 아무것도 못 먹었다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 위윰체",
+        "uhbeewyum"
+    ],
+    "homepage": "https://noonnu.cc/font_page/201",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeewyum"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

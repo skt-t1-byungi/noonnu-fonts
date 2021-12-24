@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/tlabshin",
+    "description": "신영복체 - 어쩐지 익숙하더라니 처음처럼 서체였다.",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "신영복체",
+        "tlabshin"
+    ],
+    "homepage": "https://noonnu.cc/font_page/119",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/tlabshin"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/gyungyoung
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/gyungyoung")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/gyungyoung"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/gyungyoung/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Gyungyoung", serif;
+}
 ```
 
 ## Link

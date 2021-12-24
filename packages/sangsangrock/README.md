@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/sangsangrock
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/sangsangrock")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/sangsangrock"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/sangsangrock/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "SangSangRock", serif;
+}
 ```
 
 ## Link

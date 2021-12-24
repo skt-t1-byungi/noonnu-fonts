@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeeyehee",
+    "description": "어비 예희체 - 새로운 다짐으로 살기로 했습니다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 예희체",
+        "uhbeeyehee"
+    ],
+    "homepage": "https://noonnu.cc/font_page/203",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeeyehee"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

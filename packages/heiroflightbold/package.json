@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/heiroflightbold",
+    "description": "빛의계승자체 Bold - 날카로운 게임에 잘 어울리는 세리프 폰트",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "빛의계승자체 Bold",
+        "heiroflightbold"
+    ],
+    "homepage": "https://noonnu.cc/font_page/442",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/heiroflightbold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/chilgok-cye
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/chilgok-cye")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/chilgok-cye"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/chilgok-cye/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Chilgok_Cye", serif;
+}
 ```
 
 ## Link

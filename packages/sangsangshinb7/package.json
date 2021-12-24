@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sangsangshinb7",
+    "description": "신비는일곱살 - 일곱살 꼬마아이의 감성",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "신비는일곱살",
+        "sangsangshinb7"
+    ],
+    "homepage": "https://noonnu.cc/font_page/95",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sangsangshinb7"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

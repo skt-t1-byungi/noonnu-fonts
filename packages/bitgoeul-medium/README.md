@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/bitgoeul-medium
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/bitgoeul-medium")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/bitgoeul-medium"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/bitgoeul-medium/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Bitgoeul_Medium", serif;
+}
 ```
 
 ## Link

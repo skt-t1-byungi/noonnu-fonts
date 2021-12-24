@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/gothic-goding
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/gothic-goding")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/gothic-goding"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/gothic-goding/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Gothic_Goding", serif;
+}
 ```
 
 ## Link

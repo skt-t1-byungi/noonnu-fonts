@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/dosuguan
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/dosuguan")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/dosuguan"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/dosuguan/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Dosuguan", serif;
+}
 ```
 
 ## Link

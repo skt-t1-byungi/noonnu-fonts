@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/binggrae",
+    "description": "빙그레체 - #마음이 고플땐 사랑해맛 우유",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "빙그레체",
+        "binggrae"
+    ],
+    "homepage": "https://noonnu.cc/font_page/5",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/binggrae"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

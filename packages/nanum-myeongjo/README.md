@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/nanum-myeongjo
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/nanum-myeongjo")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/nanum-myeongjo"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/nanum-myeongjo/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Nanum Myeongjo", serif;
+}
 ```
 
 ## Link

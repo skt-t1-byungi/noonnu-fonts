@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/s-coredream-8heavy
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/s-coredream-8heavy")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/s-coredream-8heavy"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/s-coredream-8heavy/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "S-CoreDream-8Heavy", serif;
+}
 ```
 
 ## Link

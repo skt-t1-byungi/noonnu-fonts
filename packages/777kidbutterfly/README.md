@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/777kidbutterfly
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/777kidbutterfly")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/777kidbutterfly"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/777kidbutterfly/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "777Kidbutterfly", serif;
+}
 ```
 
 ## Link

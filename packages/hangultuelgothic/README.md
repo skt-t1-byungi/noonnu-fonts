@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/hangultuelgothic
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/hangultuelgothic")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/hangultuelgothic"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/hangultuelgothic/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "HangultuelGothic", serif;
+}
 ```
 
 ## Link

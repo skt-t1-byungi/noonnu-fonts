@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/rokamedium
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/rokamedium")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/rokamedium"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/rokamedium/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "ROKAMedium", serif;
+}
 ```
 
 ## Link

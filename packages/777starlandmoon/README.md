@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/777starlandmoon
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/777starlandmoon")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/777starlandmoon"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/777starlandmoon/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "777Starlandmoon", serif;
+}
 ```
 
 ## Link

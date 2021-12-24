@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/future-tree
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/future-tree")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/future-tree"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/future-tree/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Future_tree", serif;
+}
 ```
 
 ## Link

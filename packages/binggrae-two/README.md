@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/binggrae-two
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/binggrae-two")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/binggrae-two"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/binggrae-two/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Binggrae-Two", serif;
+}
 ```
 
 ## Link

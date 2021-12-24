@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/dokrip
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/dokrip")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/dokrip"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/dokrip/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Dokrip", serif;
+}
 ```
 
 ## Link

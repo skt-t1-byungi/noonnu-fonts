@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/dosgothic
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/dosgothic")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/dosgothic"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/dosgothic/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "DOSGothic", serif;
+}
 ```
 
 ## Link

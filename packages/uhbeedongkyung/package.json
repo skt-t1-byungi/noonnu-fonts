@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeedongkyung",
+    "description": "어비 동경체 - 끈기가 있어야 다이어트를 하지..",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 동경체",
+        "uhbeedongkyung"
+    ],
+    "homepage": "https://noonnu.cc/font_page/143",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeedongkyung"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

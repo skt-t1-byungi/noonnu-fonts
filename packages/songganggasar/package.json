@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/songganggasar",
+    "description": "송강가사 Regular - 조선 중기 문신인 정철",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "송강가사 Regular",
+        "songganggasar"
+    ],
+    "homepage": "https://noonnu.cc/font_page/392",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/songganggasar"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

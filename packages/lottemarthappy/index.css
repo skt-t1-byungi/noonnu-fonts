@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'LotteMartHappy';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./LotteMartHappyMedium.woff2) format('woff2'), url(./LotteMartHappyMedium.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'LotteMartHappy';
+  font-style: normal;
+  font-weight: 700;
+  src: url(./LotteMartHappyBold.woff2) format('woff2'), url(./LotteMartHappyBold.woff) format('woff');
+}
+
+.lottemarthappy * {
+ font-family: 'LotteMartHappy', sans-serif;
+}

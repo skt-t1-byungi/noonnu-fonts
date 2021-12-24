@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/openas
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/openas")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/openas"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/openas/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Openas", serif;
+}
 ```
 
 ## Link

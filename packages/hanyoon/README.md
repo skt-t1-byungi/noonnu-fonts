@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/hanyoon
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/hanyoon")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/hanyoon"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/hanyoon/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Hanyoon", serif;
+}
 ```
 
 ## Link

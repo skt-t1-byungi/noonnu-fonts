@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bazzi",
+    "description": "넥슨 배찌체 - 한손은 물풍선을 잡고, 한손은 핸들을 잡고",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "넥슨 배찌체",
+        "bazzi"
+    ],
+    "homepage": "https://noonnu.cc/font_page/423",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bazzi"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/pride-jiu
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/pride-jiu")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/pride-jiu"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/pride-jiu/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Pride_jiu", serif;
+}
 ```
 
 ## Link

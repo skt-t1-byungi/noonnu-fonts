@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/hahmlet-thin
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/hahmlet-thin")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/hahmlet-thin"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/hahmlet-thin/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Hahmlet-Thin", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/become-one
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/become-one")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/become-one"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/become-one/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Become_one", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/infinitysans-condbolda1
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/infinitysans-condbolda1")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/infinitysans-condbolda1"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/infinitysans-condbolda1/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "InfinitySans-CondBoldA1", serif;
+}
 ```
 
 ## Link

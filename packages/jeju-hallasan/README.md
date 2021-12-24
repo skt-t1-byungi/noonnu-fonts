@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/jeju-hallasan
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/jeju-hallasan")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/jeju-hallasan"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/jeju-hallasan/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Jeju Hallasan", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/gonggothicmedium
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/gonggothicmedium")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/gonggothicmedium"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/gonggothicmedium/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "GongGothicMedium", serif;
+}
 ```
 
 ## Link

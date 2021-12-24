@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/nanumbarungothic
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/nanumbarungothic")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/nanumbarungothic"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/nanumbarungothic/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "NanumBarunGothic", serif;
+}
 ```
 
 ## Link

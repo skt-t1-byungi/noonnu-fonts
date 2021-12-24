@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/bbtreegb
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/bbtreegb")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/bbtreegb"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/bbtreegb/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "BBTreeGB", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/malssami815
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/malssami815")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/malssami815"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/malssami815/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Malssami815", serif;
+}
 ```
 
 ## Link

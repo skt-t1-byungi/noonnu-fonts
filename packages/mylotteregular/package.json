@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/mylotteregular",
+    "description": "My LOTTE체 R - 면세점에서 쇼핑하려고 했는데 돈이 없네",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "My LOTTE체 R",
+        "mylotteregular"
+    ],
+    "homepage": "https://noonnu.cc/font_page/214",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/mylotteregular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

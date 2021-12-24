@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/hana-handwriting
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/hana-handwriting")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/hana-handwriting"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/hana-handwriting/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Hana_handwriting", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@ HS가을생각체 - 슬픔은 간이역의 코스모스로 피고
 ```sh
 npm i @noonnu/hsgaeulsenggak
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/hsgaeulsenggak")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/hsgaeulsenggak"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/hsgaeulsenggak/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "HSGaeulsenggak", serif;
+}
 ```
 
 ## Link

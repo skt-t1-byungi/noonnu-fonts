@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/katuri
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/katuri")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/katuri"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/katuri/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Katuri", serif;
+}
 ```
 
 ## Link

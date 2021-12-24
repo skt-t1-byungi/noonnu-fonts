@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/s-coredream-7extrabold
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/s-coredream-7extrabold")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/s-coredream-7extrabold"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/s-coredream-7extrabold/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "S-CoreDream-7ExtraBold", serif;
+}
 ```
 
 ## Link

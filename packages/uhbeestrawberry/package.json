@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeestrawberry",
+    "description": "어비 스트로베리체 - 딸기는 통통하고 빨간게 맛있지",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 스트로베리체",
+        "uhbeestrawberry"
+    ],
+    "homepage": "https://noonnu.cc/font_page/193",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeestrawberry"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

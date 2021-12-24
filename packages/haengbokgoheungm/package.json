@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/haengbokgoheungm",
+    "description": "행복고흥M - 고흥군의 진취적인 기상을 표현",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "행복고흥M",
+        "haengbokgoheungm"
+    ],
+    "homepage": "https://noonnu.cc/font_page/332",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/haengbokgoheungm"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

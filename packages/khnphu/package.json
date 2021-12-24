@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/khnphu",
+    "description": "한수원 한울림체 - 당신의 창에 반딧불을 보낼게요",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "한수원 한울림체",
+        "khnphu"
+    ],
+    "homepage": "https://noonnu.cc/font_page/10",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/khnphu"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

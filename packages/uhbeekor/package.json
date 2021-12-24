@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeekor",
+    "description": "어비 코르체 - 어비폰트에는 다양한 폰트가 있습니다.",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 코르체",
+        "uhbeekor"
+    ],
+    "homepage": "https://noonnu.cc/font_page/168",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeekor"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

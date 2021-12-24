@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/chilgok-lws
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/chilgok-lws")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/chilgok-lws"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/chilgok-lws/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Chilgok_lws", serif;
+}
 ```
 
 ## Link

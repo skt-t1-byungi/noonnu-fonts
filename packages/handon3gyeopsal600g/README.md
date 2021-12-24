@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/handon3gyeopsal600g
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/handon3gyeopsal600g")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/handon3gyeopsal600g"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/handon3gyeopsal600g/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Handon3gyeopsal600g", serif;
+}
 ```
 
 ## Link

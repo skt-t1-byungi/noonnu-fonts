@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/eoe-zno_l
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/eoe-zno_l")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/eoe-zno_l"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/eoe-zno_l/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Eoe_Zno_L", serif;
+}
 ```
 
 ## Link

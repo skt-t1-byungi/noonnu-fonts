@@ -5,18 +5,26 @@ IBM Plex Sans Medium - IBM이 만든 깔끔하고 정갈한 폰트
 ```sh
 npm i @noonnu/ibmplexsanskr-medium
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/ibmplexsanskr-medium")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/ibmplexsanskr-medium"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/ibmplexsanskr-medium/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "IBMPlexSansKR-Medium", serif;
+}
 ```
 
 ## Link

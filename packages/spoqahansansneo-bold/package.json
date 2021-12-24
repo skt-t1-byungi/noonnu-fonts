@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/spoqahansansneo-bold",
+    "description": "스포카한산스네오Bold - 폰트가 계속 발전한다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "스포카한산스네오Bold",
+        "spoqahansansneo-bold"
+    ],
+    "homepage": "https://noonnu.cc/font_page/741",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/spoqahansansneo-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

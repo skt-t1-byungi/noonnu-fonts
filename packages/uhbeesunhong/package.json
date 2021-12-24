@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeesunhong",
+    "description": "어비 선홍체 - 오늘은 날씨가 이상한 날이었다.",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 선홍체",
+        "uhbeesunhong"
+    ],
+    "homepage": "https://noonnu.cc/font_page/194",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeesunhong"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeehyeki",
+    "description": "어비 혜키체 - 한 잔하고 알딸딸하고 기분이 좋고",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 혜키체",
+        "uhbeehyeki"
+    ],
+    "homepage": "https://noonnu.cc/font_page/153",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeehyeki"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

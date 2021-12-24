@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/grandma-wring
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/grandma-wring")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/grandma-wring"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/grandma-wring/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Grandma_wring", serif;
+}
 ```
 
 ## Link

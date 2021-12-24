@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/restart
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/restart")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/restart"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/restart/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Restart", serif;
+}
 ```
 
 ## Link

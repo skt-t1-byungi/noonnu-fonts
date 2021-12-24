@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/jayoo
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/jayoo")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/jayoo"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/jayoo/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Jayoo", serif;
+}
 ```
 
 ## Link

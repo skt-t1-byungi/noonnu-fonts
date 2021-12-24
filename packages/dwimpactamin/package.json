@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/dwimpactamin",
+    "description": "DW임팩타민체 - 비타민B가 부족하면 임팩타민",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "DW임팩타민체",
+        "dwimpactamin"
+    ],
+    "homepage": "https://noonnu.cc/font_page/410",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/dwimpactamin"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

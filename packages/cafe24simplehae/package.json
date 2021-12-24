@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/cafe24simplehae",
+    "description": "카페24 심플해 - 둥글둥글 심플한 글씨체",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "카페24 심플해",
+        "cafe24simplehae"
+    ],
+    "homepage": "https://noonnu.cc/font_page/344",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/cafe24simplehae"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

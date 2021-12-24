@@ -5,18 +5,26 @@ ON화룡도R - 쌍둥이도 글씨체는 다르다더라
 ```sh
 npm i @noonnu/onhyaryongdor
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/onhyaryongdor")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/onhyaryongdor"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/onhyaryongdor/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "ONHyaryongdoR", serif;
+}
 ```
 
 ## Link

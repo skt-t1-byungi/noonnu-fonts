@@ -5,18 +5,26 @@ HS가을생각체2.0 - 가을단풍구경 하고 싶다
 ```sh
 npm i @noonnu/hsgaeulsenggak20
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/hsgaeulsenggak20")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/hsgaeulsenggak20"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/hsgaeulsenggak20/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "HSGaeulSenggak20", serif;
+}
 ```
 
 ## Link

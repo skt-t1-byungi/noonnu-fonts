@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/gungripbangmulgwanmunhwajaedankeullaesikb
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/gungripbangmulgwanmunhwajaedankeullaesikb")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/gungripbangmulgwanmunhwajaedankeullaesikb"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/gungripbangmulgwanmunhwajaedankeullaesikb/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "국립박물관문화재단클래식B", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/netmarblel
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/netmarblel")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/netmarblel"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/netmarblel/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "netmarbleL", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/galmetgol
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/galmetgol")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/galmetgol"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/galmetgol/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Galmetgol", serif;
+}
 ```
 
 ## Link

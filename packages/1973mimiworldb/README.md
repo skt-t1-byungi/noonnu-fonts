@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/1973mimiworldb
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/1973mimiworldb")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/1973mimiworldb"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/1973mimiworldb/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "1973MimiWorldB", serif;
+}
 ```
 
 ## Link

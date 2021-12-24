@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeesimplegirl",
+    "description": "어비 단순그녀체 - 무슨 일이든 끝이 있기 마련이다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 단순그녀체",
+        "uhbeesimplegirl"
+    ],
+    "homepage": "https://noonnu.cc/font_page/189",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeesimplegirl"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

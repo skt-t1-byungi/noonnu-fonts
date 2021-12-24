@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/ridibatang
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/ridibatang")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/ridibatang"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/ridibatang/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "RIDIBatang", serif;
+}
 ```
 
 ## Link

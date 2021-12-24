@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yg-jalnan",
+    "description": "여기어때 잘난체 - 쓰면 쓸수록 매력만점 잘난체",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "여기어때 잘난체",
+        "yg-jalnan"
+    ],
+    "homepage": "https://noonnu.cc/font_page/115",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yg-jalnan"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

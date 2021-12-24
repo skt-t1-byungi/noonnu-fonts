@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/bujangnim-nunchi
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/bujangnim-nunchi")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/bujangnim-nunchi"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/bujangnim-nunchi/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Bujangnim_nunchi", serif;
+}
 ```
 
 ## Link

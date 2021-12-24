@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/mago
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/mago")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/mago"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/mago/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Mago", serif;
+}
 ```
 
 ## Link

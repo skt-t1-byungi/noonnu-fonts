@@ -5,18 +5,26 @@ J송명 - 정갈한 명조체
 ```sh
 npm i @noonnu/jsongmyung-regular-ko
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/jsongmyung-regular-ko")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/jsongmyung-regular-ko"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/jsongmyung-regular-ko/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "JSongMyung-Regular-KO", serif;
+}
 ```
 
 ## Link

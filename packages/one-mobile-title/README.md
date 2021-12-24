@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/one-mobile-title
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/one-mobile-title")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/one-mobile-title"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/one-mobile-title/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "ONE-Mobile-Title", serif;
+}
 ```
 
 ## Link

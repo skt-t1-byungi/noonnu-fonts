@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/mapomaponaru
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/mapomaponaru")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/mapomaponaru"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/mapomaponaru/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "MapoMaponaru", serif;
+}
 ```
 
 ## Link

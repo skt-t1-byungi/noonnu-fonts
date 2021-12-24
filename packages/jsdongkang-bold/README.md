@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/jsdongkang-bold
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/jsdongkang-bold")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/jsdongkang-bold"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/jsdongkang-bold/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "JSDongkang-Bold", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/independence-hall
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/independence-hall")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/independence-hall"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/independence-hall/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Independence_hall", serif;
+}
 ```
 
 ## Link

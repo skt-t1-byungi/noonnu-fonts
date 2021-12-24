@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/gonggothicbold
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/gonggothicbold")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/gonggothicbold"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/gonggothicbold/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "GongGothicBold", serif;
+}
 ```
 
 ## Link

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bitgoeul-light",
+    "description": "빛고을광주체Light - 5.18 민주화운동 모르는 사람 없겠지?",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "빛고을광주체Light",
+        "bitgoeul-light"
+    ],
+    "homepage": "https://noonnu.cc/font_page/254",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bitgoeul-light"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

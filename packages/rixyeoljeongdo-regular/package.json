@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/rixyeoljeongdo-regular",
+    "description": "Rix열정도체 - 열정이 밥먹여주나 모르겠다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "Rix열정도체",
+        "rixyeoljeongdo-regular"
+    ],
+    "homepage": "https://noonnu.cc/font_page/630",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/rixyeoljeongdo-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

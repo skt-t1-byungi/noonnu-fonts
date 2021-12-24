@@ -5,18 +5,26 @@ IBM Plex Sans Regular - 바삭하게 튀기듯 부쳐진 감자전을 좋아합�
 ```sh
 npm i @noonnu/ibmplexsanskr-regular
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/ibmplexsanskr-regular")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/ibmplexsanskr-regular"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/ibmplexsanskr-regular/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "IBMPlexSansKR-Regular", serif;
+}
 ```
 
 ## Link

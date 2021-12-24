@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/777lovespring
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/777lovespring")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/777lovespring"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/777lovespring/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "777Lovespring", serif;
+}
 ```
 
 ## Link

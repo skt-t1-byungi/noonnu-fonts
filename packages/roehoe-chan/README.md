@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/roehoe-chan
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/roehoe-chan")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/roehoe-chan"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/roehoe-chan/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "ROEHOE-CHAN", serif;
+}
 ```
 
 ## Link

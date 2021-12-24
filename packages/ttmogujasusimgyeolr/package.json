@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ttmogujasusimgyeolr",
+    "description": "ON목우자수심결R - 글꼴을 재해석한 현대적인 디자인",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ON목우자수심결R",
+        "ttmogujasusimgyeolr"
+    ],
+    "homepage": "https://noonnu.cc/font_page/313",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ttmogujasusimgyeolr"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

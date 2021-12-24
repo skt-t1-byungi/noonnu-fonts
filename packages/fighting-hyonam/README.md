@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/fighting-hyonam
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/fighting-hyonam")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/fighting-hyonam"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/fighting-hyonam/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Fighting_hyonam", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/dossaemmul
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/dossaemmul")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/dossaemmul"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/dossaemmul/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "DOSSaemmul", serif;
+}
 ```
 
 ## Link

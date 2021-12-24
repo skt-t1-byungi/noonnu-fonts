@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/establishnaneunyahaeginsaotf",
+    "description": "나는야핵인싸체 최서연 - 동글동글한 폰트",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "나는야핵인싸체 최서연",
+        "establishnaneunyahaeginsaotf"
+    ],
+    "homepage": "https://noonnu.cc/font_page/774",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/establishnaneunyahaeginsaotf"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

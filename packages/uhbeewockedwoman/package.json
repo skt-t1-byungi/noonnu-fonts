@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeewockedwoman",
+    "description": "어비 못된여자체 - 나쁜 사람이 되면 살기 편해질거야",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 못된여자체",
+        "uhbeewockedwoman"
+    ],
+    "homepage": "https://noonnu.cc/font_page/200",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeewockedwoman"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

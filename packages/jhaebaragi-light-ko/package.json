@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/jhaebaragi-light-ko",
+    "description": "J해바라기 Light - 해바라기 노랗고 예쁘지",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "J해바라기 Light",
+        "jhaebaragi-light-ko"
+    ],
+    "homepage": "https://noonnu.cc/font_page/764",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/jhaebaragi-light-ko"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

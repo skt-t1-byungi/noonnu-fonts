@@ -5,18 +5,26 @@ ON사략언해B - 코로나가 괜찮아지면 해외여행 가고 싶다
 ```sh
 npm i @noonnu/onsaryakunheab
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/onsaryakunheab")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/onsaryakunheab"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/onsaryakunheab/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "ONSaryakunheaB", serif;
+}
 ```
 
 ## Link

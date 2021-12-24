@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/s-coredream-4regular
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/s-coredream-4regular")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/s-coredream-4regular"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/s-coredream-4regular/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "S-CoreDream-4Regular", serif;
+}
 ```
 
 ## Link

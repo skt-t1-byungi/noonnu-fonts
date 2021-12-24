@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/dolbomche-b
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/dolbomche-b")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/dolbomche-b"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/dolbomche-b/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Dolbomche_B", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@ J개구쟁이 Medium - 손글씨가 두께 세가지나 된다
 ```sh
 npm i @noonnu/jgaegujaengyi-medium-ko
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/jgaegujaengyi-medium-ko")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/jgaegujaengyi-medium-ko"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/jgaegujaengyi-medium-ko/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "JGaegujaengyi-Medium-KO", serif;
+}
 ```
 
 ## Link

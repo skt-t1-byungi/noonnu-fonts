@@ -5,18 +5,26 @@ KoPub돋움 - 돌다리 열 번 두들겨도 발이 빠지는 법이야
 ```sh
 npm i @noonnu/kopubdotummedium
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/kopubdotummedium")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/kopubdotummedium"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/kopubdotummedium/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "KoPubDotumMedium", serif;
+}
 ```
 
 ## Link

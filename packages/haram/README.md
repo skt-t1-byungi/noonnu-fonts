@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/haram
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/haram")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/haram"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/haram/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Haram", serif;
+}
 ```
 
 ## Link

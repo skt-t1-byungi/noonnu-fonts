@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/nanum-pen-script
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/nanum-pen-script")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/nanum-pen-script"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/nanum-pen-script/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Nanum Pen Script", serif;
+}
 ```
 
 ## Link

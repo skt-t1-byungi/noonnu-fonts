@@ -5,18 +5,26 @@ EBS훈민정음 - 훈민정음을 만드는 건 어려웠을거야
 ```sh
 npm i @noonnu/ebshunminjeongeumsba
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/ebshunminjeongeumsba")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/ebshunminjeongeumsba"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/ebshunminjeongeumsba/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "EBSHunminjeongeumSBA", serif;
+}
 ```
 
 ## Link

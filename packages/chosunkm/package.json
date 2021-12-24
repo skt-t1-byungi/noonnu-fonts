@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chosunkm",
+    "description": "조선굵은명조 - 아무것도 안하고 싶다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "조선굵은명조",
+        "chosunkm"
+    ],
+    "homepage": "https://noonnu.cc/font_page/411",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chosunkm"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

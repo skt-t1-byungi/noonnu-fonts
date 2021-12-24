@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/paybooc-light
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/paybooc-light")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/paybooc-light"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/paybooc-light/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "paybooc-Light", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/daughter-handwriting
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/daughter-handwriting")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/daughter-handwriting"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/daughter-handwriting/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Daughter_handwriting", serif;
+}
 ```
 
 ## Link

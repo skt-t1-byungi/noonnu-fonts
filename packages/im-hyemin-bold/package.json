@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/im-hyemin-bold",
+    "description": "IM혜민체 Bold - 동글동글 모서리 금융을 더 말랑하게",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "IM혜민체 Bold",
+        "im-hyemin-bold"
+    ],
+    "homepage": "https://noonnu.cc/font_page/686",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/im-hyemin-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Hankc';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./Hankc.woff2) format('woff2'), url(./Hankc.woff) format('woff');
+}
+
+.hankc * {
+ font-family: 'Hankc', serif;
+}

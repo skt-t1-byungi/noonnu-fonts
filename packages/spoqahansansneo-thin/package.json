@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/spoqahansansneo-thin",
+    "description": "스포카한산스네오Thin - 다 그렇게 사는거지 뭐",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "스포카한산스네오Thin",
+        "spoqahansansneo-thin"
+    ],
+    "homepage": "https://noonnu.cc/font_page/745",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/spoqahansansneo-thin"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

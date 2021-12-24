@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/sangjudajungdagam
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/sangjudajungdagam")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/sangjudajungdagam"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/sangjudajungdagam/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "SANGJUDajungdagam", serif;
+}
 ```
 
 ## Link

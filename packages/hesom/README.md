@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/hesom
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/hesom")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/hesom"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/hesom/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Hesom", serif;
+}
 ```
 
 ## Link

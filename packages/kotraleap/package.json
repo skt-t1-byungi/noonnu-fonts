@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kotraleap",
+    "description": "코트라 도약체 - 굵직한 세리프체",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "코트라 도약체",
+        "kotraleap"
+    ],
+    "homepage": "https://noonnu.cc/font_page/768",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kotraleap"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

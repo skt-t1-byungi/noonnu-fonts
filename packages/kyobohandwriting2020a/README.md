@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/kyobohandwriting2020a
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/kyobohandwriting2020a")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/kyobohandwriting2020a"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/kyobohandwriting2020a/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "KyoboHandwriting2020A", serif;
+}
 ```
 
 ## Link

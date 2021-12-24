@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/establishretrosansotf
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/establishretrosansotf")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/establishretrosansotf"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/establishretrosansotf/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "establishRetrosansOTF", serif;
+}
 ```
 
 ## Link

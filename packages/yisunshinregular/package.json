@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yisunshinregular",
+    "description": "이순신체 - 침착하게 태산처럼 무겁게 행동하라",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "이순신체",
+        "yisunshinregular"
+    ],
+    "homepage": "https://noonnu.cc/font_page/65",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yisunshinregular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

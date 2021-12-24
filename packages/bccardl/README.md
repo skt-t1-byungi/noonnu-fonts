@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/bccardl
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/bccardl")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/bccardl"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/bccardl/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "BCcardL", serif;
+}
 ```
 
 ## Link

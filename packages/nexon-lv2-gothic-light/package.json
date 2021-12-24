@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/nexon-lv2-gothic-light",
+    "description": "넥슨 Lv.2 고딕 Light - 한강에서 돗자리 깔고 치맥이 짱",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "넥슨 Lv.2 고딕 Light",
+        "nexon-lv2-gothic-light"
+    ],
+    "homepage": "https://noonnu.cc/font_page/434",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/nexon-lv2-gothic-light"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

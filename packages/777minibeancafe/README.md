@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/777minibeancafe
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/777minibeancafe")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/777minibeancafe"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/777minibeancafe/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "777Minibeancafe", serif;
+}
 ```
 
 ## Link

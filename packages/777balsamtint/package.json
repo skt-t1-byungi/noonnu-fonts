@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/777balsamtint",
+    "description": "봉숭아틴트 - 요즘 봉숭아 물들이는 애들이 있나?",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "봉숭아틴트",
+        "777balsamtint"
+    ],
+    "homepage": "https://noonnu.cc/font_page/259",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/777balsamtint"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/777flowerbear
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/777flowerbear")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/777flowerbear"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/777flowerbear/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "777Flowerbear", serif;
+}
 ```
 
 ## Link

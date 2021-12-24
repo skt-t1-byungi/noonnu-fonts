@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/nanum-brush-script
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/nanum-brush-script")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/nanum-brush-script"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/nanum-brush-script/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Nanum Brush Script", serif;
+}
 ```
 
 ## Link

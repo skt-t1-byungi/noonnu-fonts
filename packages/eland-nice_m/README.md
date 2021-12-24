@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/eland-nice_m
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/eland-nice_m")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/eland-nice_m"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/eland-nice_m/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "ELAND_Nice_M", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@ IM혜민체 Regular - 놓칠수 없는 금융정보를 명확하게
 ```sh
 npm i @noonnu/im-hyemin-regular
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/im-hyemin-regular")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/im-hyemin-regular"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/im-hyemin-regular/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "IM_Hyemin-Regular", serif;
+}
 ```
 
 ## Link

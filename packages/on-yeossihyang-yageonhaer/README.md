@@ -5,18 +5,26 @@ ON여씨향약언해R - 서로 사귐에 있어 예를 지킨다
 ```sh
 npm i @noonnu/on-yeossihyang-yageonhaer
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/on-yeossihyang-yageonhaer")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/on-yeossihyang-yageonhaer"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/on-yeossihyang-yageonhaer/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "ON-여씨향약언해R", serif;
+}
 ```
 
 ## Link

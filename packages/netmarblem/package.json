@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/netmarblem",
+    "description": "넷마블체M - 일 그만하고 넷마블 게임하고 싶다..",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "넷마블체M",
+        "netmarblem"
+    ],
+    "homepage": "https://noonnu.cc/font_page/117",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/netmarblem"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

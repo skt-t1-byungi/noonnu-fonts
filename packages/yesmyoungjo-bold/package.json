@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yesmyoungjo-bold",
+    "description": "예스 명조 Bold - 전통적이면서 현대적인",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "예스 명조 Bold",
+        "yesmyoungjo-bold"
+    ],
+    "homepage": "https://noonnu.cc/font_page/405",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yesmyoungjo-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

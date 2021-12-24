@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/fairytale-ddobak
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/fairytale-ddobak")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/fairytale-ddobak"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/fairytale-ddobak/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Fairytale_ddobak", serif;
+}
 ```
 
 ## Link

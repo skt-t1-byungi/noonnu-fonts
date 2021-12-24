@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/sangjugyeongcheonisland
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/sangjugyeongcheonisland")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/sangjugyeongcheonisland"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/sangjugyeongcheonisland/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "SANGJUGyeongcheonIsland", serif;
+}
 ```
 
 ## Link

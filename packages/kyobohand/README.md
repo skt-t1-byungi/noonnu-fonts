@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/kyobohand
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/kyobohand")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/kyobohand"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/kyobohand/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "KyoboHand", serif;
+}
 ```
 
 ## Link

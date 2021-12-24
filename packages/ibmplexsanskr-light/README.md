@@ -5,18 +5,26 @@ IBM Plex Sans Light - 기분이 우울한 날에는 맛있는 음식을 먹자
 ```sh
 npm i @noonnu/ibmplexsanskr-light
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/ibmplexsanskr-light")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/ibmplexsanskr-light"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/ibmplexsanskr-light/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "IBMPlexSansKR-Light", serif;
+}
 ```
 
 ## Link

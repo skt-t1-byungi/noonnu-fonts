@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/lottemartdream
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/lottemartdream")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/lottemartdream"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/lottemartdream/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "LotteMartDream", serif;
+}
 ```
 
 ## Link

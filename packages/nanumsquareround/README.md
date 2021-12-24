@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/nanumsquareround
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/nanumsquareround")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/nanumsquareround"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/nanumsquareround/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "NanumSquareRound", serif;
+}
 ```
 
 ## Link

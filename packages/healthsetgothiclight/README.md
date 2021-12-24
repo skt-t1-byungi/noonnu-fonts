@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/healthsetgothiclight
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/healthsetgothiclight")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/healthsetgothiclight"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/healthsetgothiclight/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "HealthsetGothicLight", serif;
+}
 ```
 
 ## Link

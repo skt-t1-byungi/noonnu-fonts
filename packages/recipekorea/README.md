@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/recipekorea
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/recipekorea")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/recipekorea"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/recipekorea/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Recipekorea", serif;
+}
 ```
 
 ## Link

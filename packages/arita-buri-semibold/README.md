@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/arita-buri-semibold
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/arita-buri-semibold")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/arita-buri-semibold"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/arita-buri-semibold/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Arita-buri-SemiBold", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@ KCC김훈체 - 눈꽃의 화음에 귀를 적신다
 ```sh
 npm i @noonnu/kcc-kimhoon
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/kcc-kimhoon")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/kcc-kimhoon"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/kcc-kimhoon/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "KCC-Kimhoon", serif;
+}
 ```
 
 ## Link

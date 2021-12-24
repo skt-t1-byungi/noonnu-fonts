@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/dache-love
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/dache-love")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/dache-love"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/dache-love/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Dache_love", serif;
+}
 ```
 
 ## Link

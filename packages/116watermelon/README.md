@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/116watermelon
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/116watermelon")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/116watermelon"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/116watermelon/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "116watermelon", serif;
+}
 ```
 
 ## Link

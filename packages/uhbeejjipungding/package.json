@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeejjipungding",
+    "description": "어비 찌풍딩체 - 솜사탕을 한입 베어무니까 세상 그렇게 행복할 수가 없더라",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 찌풍딩체",
+        "uhbeejjipungding"
+    ],
+    "homepage": "https://noonnu.cc/font_page/161",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeejjipungding"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

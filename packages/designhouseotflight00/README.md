@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/designhouseotflight00
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/designhouseotflight00")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/designhouseotflight00"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/designhouseotflight00/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "designhouseOTFLight00", serif;
+}
 ```
 
 ## Link

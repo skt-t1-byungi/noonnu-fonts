@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/bisang
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/bisang")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/bisang"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/bisang/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Bisang", serif;
+}
 ```
 
 ## Link

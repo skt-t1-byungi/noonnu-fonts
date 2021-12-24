@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/jeju-gothic
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/jeju-gothic")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/jeju-gothic"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/jeju-gothic/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Jeju Gothic", serif;
+}
 ```
 
 ## Link

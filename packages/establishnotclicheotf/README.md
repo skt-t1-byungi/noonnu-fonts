@@ -5,18 +5,26 @@ notcliche체 이현준 - 어제보다 행복한 오늘
 ```sh
 npm i @noonnu/establishnotclicheotf
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/establishnotclicheotf")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/establishnotclicheotf"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/establishnotclicheotf/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "establishNotClicheOTF", serif;
+}
 ```
 
 ## Link

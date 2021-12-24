@@ -5,18 +5,26 @@ Gmarket Sans L - 나는 얇은걸 좋아하긴 하는데 Bold도 좋음
 ```sh
 npm i @noonnu/gmarketsanslight
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/gmarketsanslight")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/gmarketsanslight"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/gmarketsanslight/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "GmarketSansLight", serif;
+}
 ```
 
 ## Link

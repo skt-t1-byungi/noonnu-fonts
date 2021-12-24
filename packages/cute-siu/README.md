@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/cute-siu
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/cute-siu")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/cute-siu"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/cute-siu/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Cute_siu", serif;
+}
 ```
 
 ## Link

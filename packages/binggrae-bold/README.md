@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/binggrae-bold
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/binggrae-bold")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/binggrae-bold"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/binggrae-bold/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Binggrae-Bold", serif;
+}
 ```
 
 ## Link

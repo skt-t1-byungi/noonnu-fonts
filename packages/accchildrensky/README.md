@@ -5,18 +5,26 @@ ACC 어린이 가을담은체 - 하늘이 맑은날에는 하늘을 보자
 ```sh
 npm i @noonnu/accchildrensky
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/accchildrensky")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/accchildrensky"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/accchildrensky/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "ACCchildrensky", serif;
+}
 ```
 
 ## Link

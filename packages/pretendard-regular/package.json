@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/pretendard-regular",
+    "description": "프리텐다드 - 세상에 이런 폰트가 나오다니 천재인듯",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "프리텐다드",
+        "pretendard-regular"
+    ],
+    "homepage": "https://noonnu.cc/font_page/694",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/pretendard-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

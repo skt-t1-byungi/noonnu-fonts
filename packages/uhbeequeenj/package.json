@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeequeenj",
+    "description": "어비 퀸제이체 - 아무말 쓰다보면 아무생각이 안든다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 퀸제이체",
+        "uhbeequeenj"
+    ],
+    "homepage": "https://noonnu.cc/font_page/182",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeequeenj"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

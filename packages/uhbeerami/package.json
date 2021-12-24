@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeerami",
+    "description": "어비 라미체 - 큼직큼직하게 글씨를 씁니다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 라미체",
+        "uhbeerami"
+    ],
+    "homepage": "https://noonnu.cc/font_page/183",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeerami"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

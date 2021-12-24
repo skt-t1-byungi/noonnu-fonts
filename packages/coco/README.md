@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/coco
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/coco")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/coco"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/coco/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Coco", serif;
+}
 ```
 
 ## Link

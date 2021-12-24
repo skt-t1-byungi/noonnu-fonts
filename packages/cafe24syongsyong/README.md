@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/cafe24syongsyong
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/cafe24syongsyong")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/cafe24syongsyong"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/cafe24syongsyong/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Cafe24Syongsyong", serif;
+}
 ```
 
 ## Link

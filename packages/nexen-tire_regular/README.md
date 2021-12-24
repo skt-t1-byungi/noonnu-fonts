@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/nexen-tire_regular
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/nexen-tire_regular")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/nexen-tire_regular"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/nexen-tire_regular/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "NEXEN_TIRE_Regular", serif;
+}
 ```
 
 ## Link

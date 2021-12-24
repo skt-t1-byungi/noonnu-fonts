@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/bright
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/bright")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/bright"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/bright/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Bright", serif;
+}
 ```
 
 ## Link

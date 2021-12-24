@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uhbeecharming",
+    "description": "어비 챠밍체 - 폰트가 많은데 뭘 써야할지 모르겠다",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "어비 챠밍체",
+        "uhbeecharming"
+    ],
+    "homepage": "https://noonnu.cc/font_page/139",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uhbeecharming"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

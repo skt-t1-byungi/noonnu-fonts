@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/cookierunotf-black
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/cookierunotf-black")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/cookierunotf-black"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/cookierunotf-black/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "CookieRunOTF-Black", serif;
+}
 ```
 
 ## Link

@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/minguk-regular
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/minguk-regular")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/minguk-regular"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/minguk-regular/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Minguk-Regular", serif;
+}
 ```
 
 ## Link

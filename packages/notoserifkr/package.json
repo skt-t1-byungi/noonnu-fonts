@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/notoserifkr",
+    "description": "본명조 - 5년 뒤의 난 뭘 하고 있을까?",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "본명조",
+        "notoserifkr"
+    ],
+    "homepage": "https://noonnu.cc/font_page/35",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/notoserifkr"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

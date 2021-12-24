@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/elicedigitalbaeum-bold
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/elicedigitalbaeum-bold")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/elicedigitalbaeum-bold"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/elicedigitalbaeum-bold/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "EliceDigitalBaeum_Bold", serif;
+}
 ```
 
 ## Link

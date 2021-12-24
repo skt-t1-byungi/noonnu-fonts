@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/d2coding",
+    "description": "D2Coding - $(window).scroll(function(){ });",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "D2Coding",
+        "d2coding"
+    ],
+    "homepage": "https://noonnu.cc/font_page/92",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/d2coding"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

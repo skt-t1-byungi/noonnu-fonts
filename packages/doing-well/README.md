@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/doing-well
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/doing-well")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/doing-well"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/doing-well/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Doing_well", serif;
+}
 ```
 
 ## Link

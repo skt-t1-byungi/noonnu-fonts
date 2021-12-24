@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/jungeun",
+    "description": "정은체 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "정은체",
+        "jungeun"
+    ],
+    "homepage": "https://noonnu.cc/font_page/557",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/jungeun"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

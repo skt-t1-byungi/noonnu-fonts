@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/father-handwriting
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/father-handwriting")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/father-handwriting"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/father-handwriting/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Father_handwriting", serif;
+}
 ```
 
 ## Link

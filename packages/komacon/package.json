@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/komacon",
+    "description": "만화진흥원체 - 웹툰보다가 밤샌적 있는 사람 손",
+    "version": "0.0.1",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "만화진흥원체",
+        "komacon"
+    ],
+    "homepage": "https://noonnu.cc/font_page/253",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/komacon"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

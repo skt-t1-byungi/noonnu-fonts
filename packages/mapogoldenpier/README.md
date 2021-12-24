@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/mapogoldenpier
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/mapogoldenpier")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/mapogoldenpier"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/mapogoldenpier/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "MapoGoldenPier", serif;
+}
 ```
 
 ## Link

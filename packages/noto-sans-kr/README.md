@@ -5,18 +5,26 @@
 ```sh
 npm i @noonnu/noto-sans-kr
 ```
-## Usage
-### cjs
+## Import
+### CJS
 ```js
 require("@noonnu/noto-sans-kr")
 ```
-### esm
+### ESM
 ```js
 import "@noonnu/noto-sans-kr"
 ```
-### css (with [css-loader](https://github.com/webpack-contrib/css-loader))
+### CSS 
 ```css
 @import "~@noonnu/noto-sans-kr/index.css"
+```
+> [css-loader](https://github.com/webpack-contrib/css-loader) are required.
+
+## Usage
+```css
+body {
+    font-family: "Noto Sans KR", serif;
+}
 ```
 
 ## Link
