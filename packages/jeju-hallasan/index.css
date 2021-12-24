@@ -5,8 +5,8 @@
   font-family: 'Jeju Hallasan';
   font-style: normal;
   font-weight: 400;
-  src: url(./JejuHallasan-Regular.eot);
-  src: url(./JejuHallasan-Regular.eot) format('embedded-opentype'),
+  src: url(./JejuHallasan-Regular.eot?#iefix);
+  src: url(./JejuHallasan-Regular.eot?#iefix) format('embedded-opentype'),
        url(./JejuHallasan-Regular.woff2) format('woff2'),
        url(./JejuHallasan-Regular.woff) format('woff'),
        url(./JejuHallasan-Regular.ttf) format('truetype');

@@ -6,8 +6,8 @@
   font-family: 'Iropke Batang';
   font-style: normal;
   font-weight: 400;
-  src: url(./IropkeBatangM.eot);
-  src: url(./IropkeBatangM.eot) format('embedded-opentype'),
+  src: url(./IropkeBatangM.eot?#iefix);
+  src: url(./IropkeBatangM.eot?#iefix) format('embedded-opentype'),
        url(./IropkeBatangM.woff) format('woff'),
        url(./IropkeBatangM.ttf) format('truetype');
 }

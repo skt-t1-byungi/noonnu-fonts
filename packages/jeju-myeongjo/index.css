@@ -5,8 +5,8 @@
   font-family: 'Jeju Myeongjo';
   font-style: normal;
   font-weight: 400;
-  src: url(./JejuMyeongjo-Regular.eot);
-  src: url(./JejuMyeongjo-Regular.eot) format('embedded-opentype'),
+  src: url(./JejuMyeongjo-Regular.eot?#iefix);
+  src: url(./JejuMyeongjo-Regular.eot?#iefix) format('embedded-opentype'),
        url(./JejuMyeongjo-Regular.woff2) format('woff2'),
        url(./JejuMyeongjo-Regular.woff) format('woff'),
        url(./JejuMyeongjo-Regular.ttf) format('truetype');

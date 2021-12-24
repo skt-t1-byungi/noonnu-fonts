@@ -5,8 +5,8 @@
   font-family: 'KoPub Batang';
   font-style: normal;
   font-weight: 300;
-  src: url(./KoPubBatang-Light.eot);
-  src: url(./KoPubBatang-Light.eot) format('embedded-opentype'),
+  src: url(./KoPubBatang-Light.eot?#iefix);
+  src: url(./KoPubBatang-Light.eot?#iefix) format('embedded-opentype'),
        url(./KoPubBatang-Light.woff2) format('woff2'),
        url(./KoPubBatang-Light.woff) format('woff'),
        url(./KoPubBatang-Light.ttf) format('truetype');
@@ -15,8 +15,8 @@
   font-family: 'KoPub Batang';
   font-style: normal;
   font-weight: 400;
-  src: url(./KoPubBatang-Regular.eot);
-  src: url(./KoPubBatang-Regular.eot) format('embedded-opentype'),
+  src: url(./KoPubBatang-Regular.eot?#iefix);
+  src: url(./KoPubBatang-Regular.eot?#iefix) format('embedded-opentype'),
        url(./KoPubBatang-Regular.woff2) format('woff2'),
        url(./KoPubBatang-Regular.woff) format('woff'),
        url(./KoPubBatang-Regular.ttf) format('truetype');
@@ -25,8 +25,8 @@
   font-family: 'KoPub Batang';
   font-style: normal;
   font-weight: 700;
-  src: url(./KoPubBatang-Bold.eot);
-  src: url(./KoPubBatang-Bold.eot) format('embedded-opentype'),
+  src: url(./KoPubBatang-Bold.eot?#iefix);
+  src: url(./KoPubBatang-Bold.eot?#iefix) format('embedded-opentype'),
        url(./KoPubBatang-Bold.woff2) format('woff2'),
        url(./KoPubBatang-Bold.woff) format('woff'),
        url(./KoPubBatang-Bold.ttf) format('truetype');
