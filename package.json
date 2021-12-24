@@ -5,19 +5,23 @@
         "version": "0.0.1"
     },
     "scripts": {
-        "start": "node ./update.js",
-        "watch": "nodemon ./update.js --ignore packages/**/*"
+        "update": "node ./update.js",
+        "publish": "node ./publish.js",
+        "dev": "nodemon ./publish.js --ignore packages/**/*"
     },
     "devDependencies": {
         "nodemon": "^2.0.15",
         "prettier": "^2.5.1"
     },
     "dependencies": {
+        "dotenv": "^10.0.0",
         "fs-extra": "^10.0.0",
         "is-url": "^1.2.4",
+        "libnpmaccess": "^4.0.3",
         "normalize-url": "^7.0.2",
         "p-limit": "^4.0.0",
         "romaja": "^0.2.9",
+        "rxjs": "^7.4.0",
         "slugify": "^1.6.4",
         "string-replace-async": "^3.0.2",
         "templite": "^1.1.0",
