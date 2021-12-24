@@ -53,9 +53,8 @@ async function main() {
                 limitIO(() => writePkgFile(f)),
                 limitIO(() => writeReadmeFile(f)),
                 defer(async () => {
-                    const css = await generateCss(f.originalCssText)
-                    throw new Error()
-                    return limitIO(async () => fs.writeFile(path.join(f.pkgDir, 'index.css'), css))
+                    const newCss = await generateCss(f.originalCssText)
+                    return limitIO(async () => fs.writeFile(path.join(f.pkgDir, 'index.css'), newCss))
 
                     async function generateCss(css, baseUrl) {
                         return replaceCssImport(await replaceFonts(css, baseUrl))
