@@ -13,7 +13,7 @@ const limit = pLimit(10)
 main()
 
 async function main() {
-    const token = getAuthToken().token
+    const { token } = getAuthToken()
     const [prevPkgs, nextPkgDirs] = await all([
         access.lsPackages('@noonnu', { token }).then(o => Object.keys(o ?? {})),
         fs.readdir('packages'),
