@@ -1,4 +1,4 @@
-import path, { format } from 'node:path'
+import path from 'node:path'
 import { pipeline } from 'node:stream/promises'
 import { fetch } from 'undici'
 import replace from 'string-replace-async'
@@ -19,12 +19,9 @@ const CSS_URL_RE = /url\(("|'?)((?:(?<=\\)\)|[^\)])*)\1\)/g
 const CSS_IMPORT_URL_RE = new RegExp(`@import\\s+${CSS_URL_RE.source};`)
 const PKG_README_TEMPLATE = fs.readFileSync('pkg_readme_template', 'utf8')
 
-const limitIO = pLimit(10)
+const limit = pLimit(10)
 
-main().catch(err => {
-    console.error(err)
-    process.exit(1)
-})
+main()
 
 async function main() {
     fs.ensureDirSync('packages')
@@ -49,14 +46,14 @@ async function main() {
         shareReplay()
     )
     const updatePkgs$ = fonts$.pipe(
-        mergeMap(f => limitIO(() => fs.ensureDir(f.pkgDir)).then(() => f)),
+        mergeMap(f => fs.ensureDir(f.pkgDir).then(() => f)),
         mergeMap(f =>
             merge(
-                limitIO(() => writePkgFile(f)),
-                limitIO(() => writeReadmeFile(f)),
+                writePkgFile(f),
+                writeReadmeFile(f),
                 defer(async () => {
                     const cssText = await generateCss(f.originalCssText)
-                    return limitIO(() => fs.writeFile(path.join(f.pkgDir, 'index.css'), cssText))
+                    return fs.writeFile(path.join(f.pkgDir, 'index.css'), cssText)
 
                     async function generateCss(cssText, baseUrl) {
                         return replaceCssImport(await replaceFonts(cssText, baseUrl))
@@ -69,11 +66,8 @@ async function main() {
                                     { stripHash: true }
                                 )
                                 const filePath = path.join(f.pkgDir, path.basename(fontUrl))
-                                await limitIO(async () =>
-                                    pipeline(
-                                        await fetch(normalizeUrl(fontUrl)).then(r => r.body),
-                                        fs.createWriteStream(filePath)
-                                    )
+                                await limit(async () =>
+                                    pipeline(await fetch(fontUrl).then(r => r.body), fs.createWriteStream(filePath))
                                 )
                                 return `url(./${path.relative(f.pkgDir, filePath)}${
                                     path.extname(fontUrl) === '.eot' ? '?#iefix' : ''
@@ -84,7 +78,7 @@ async function main() {
                     function replaceCssImport(cssText) {
                         return replace(cssText, CSS_IMPORT_URL_RE, async (_, __, cssUrl) => {
                             cssUrl = normalizeUrl(cssUrl, { stripHash: true })
-                            const part = await limitIO(() => fetch(cssUrl).then(r => r.text()))
+                            const part = await limit(() => fetch(cssUrl).then(r => r.text()))
                             return generateCss(part, cssUrl)
                         })
                     }
@@ -115,7 +109,7 @@ async function* iterFontDatas() {
     let page = 1,
         data
     do {
-        data = await limitIO(() => fetch(`https://noonnu.cc/font_page.json?page=${page++}`).then(r => r.json()))
+        data = await limit(() => fetch(`https://noonnu.cc/font_page.json?page=${page++}`).then(r => r.json()))
         yield* data.fonts
     } while (!data.is_last_page)
 }
