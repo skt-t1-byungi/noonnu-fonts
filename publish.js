@@ -26,14 +26,20 @@ async function main() {
         nextPkgDirs.map(async d => {
             const relativePath = `./packages/${d}`
             const [manifest, tarball] = await all([pacote.manifest(relativePath), pacote.tarball(relativePath)])
-            return limit(() => publish(manifest, tarball, { token }))
+            await limit(() =>
+                publish(manifest, tarball, {
+                    access: 'public',
+                    headers: { authorization: `Bearer ${token}` },
+                })
+            )
+            console.log(`${d} published`)
         })
     )
     await all(
         deprecatePkgs.map(async pkg => {
             const data = await limit(() => npmFetch.json(`/${pkg}`))
             Object.keys(data.versions).forEach(k => (data.versions[k].deprecated = 'Deprecated'))
-            return limit(() =>
+            await limit(() =>
                 npmFetch
                     .json(`/${pkg.replace('/', '%2f')}`, {
                         body: data,
@@ -44,6 +50,7 @@ async function main() {
                     })
                     .catch(noop)
             )
+            console.log(`${pkg} deprecated`)
         })
     )
 }

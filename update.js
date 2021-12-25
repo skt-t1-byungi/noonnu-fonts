@@ -53,7 +53,8 @@ async function main() {
                 writeReadmeFile(f),
                 defer(async () => {
                     const cssText = await generateCss(f.originalCssText)
-                    return fs.writeFile(path.join(f.pkgDir, 'index.css'), cssText)
+                    await fs.writeFile(path.join(f.pkgDir, 'index.css'), cssText)
+                    console.log(`${f.pkgName} updated`)
 
                     async function generateCss(cssText, baseUrl) {
                         return replaceCssImport(await replaceFonts(cssText, baseUrl))
