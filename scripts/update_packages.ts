@@ -42,7 +42,7 @@ async function main() {
                 const pkgDir = `${PACKAGES_DIR}/${pkg}`
                 await del(`${pkgDir}/{fonts,index.css,example.png}`)
                 await generatePkgFontAsset(data.cdn_server_html, pkgDir)
-            })
+            }, 8)
         )
     )
 
@@ -183,12 +183,12 @@ class FontExamGenSever {
         return new FontExamGenSever(server, browser, page)
     }
 
-    private pRunning = Promise.resolve()
+    private pQueue = Promise.resolve()
 
     private constructor(private server: Server, private browser: Browser, private page: Page) {}
 
     generate({ cssImportPath, familyName, savePath }: { cssImportPath: string; familyName: string; savePath: string }) {
-        return (this.pRunning = this.pRunning.then(async () => {
+        return (this.pQueue = this.pQueue.then(async () => {
             await this.page.setContent(
                 `
                 <html>
@@ -199,10 +199,12 @@ class FontExamGenSever {
                                 font-size: 42px;
                                 font-family: '${familyName}';
                                 color: #222;
+                                line-height: 1;
                             }
                             div{
                                 padding: 20px;
                                 width: max-content;
+                                height: max-content;
                             }
                             p{
                                 font-weight: var(--w);
@@ -222,7 +224,7 @@ class FontExamGenSever {
                     </body>
                 </html>
                 `,
-                { waitUntil: 'load' }
+                { waitUntil: 'networkidle0' }
             )
             await (await this.page.$('div'))!.screenshot({ path: savePath })
         }))
