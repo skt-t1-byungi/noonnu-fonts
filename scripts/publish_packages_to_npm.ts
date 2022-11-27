@@ -1,9 +1,6 @@
-import { spawn, exec as _exec } from 'node:child_process'
-import process from 'node:process'
-import { pipeline } from 'node:stream'
+import { exec as _exec } from 'node:child_process'
 import { promisify } from 'node:util'
-import { difference } from 'ramda'
-import { filter, from, lastValueFrom, mergeMap } from 'rxjs'
+import { defaultIfEmpty, filter, from, lastValueFrom, mergeMap } from 'rxjs'
 import { CPUS_LEN, log } from './_utils.js'
 
 const exec = promisify(_exec)
@@ -23,7 +20,8 @@ async function main() {
             mergeMap(async pkg => {
                 await exec(`pnpm unpublish ${pkg} --dry-run -f`)
                 log('~>', pkg)
-            }, CPUS_LEN)
+            }, CPUS_LEN),
+            defaultIfEmpty(null)
         )
     )
 }
