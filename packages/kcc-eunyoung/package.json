@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kcc-eunyoung",
+    "description": "kcc-eunyoung - KCC은영체 - 들판을 가르는 푸른 바람처럼",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kcc-eunyoung",
+        "KCC은영체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/85",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kcc-eunyoung"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

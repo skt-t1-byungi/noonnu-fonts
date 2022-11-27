@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kanginhan",
+    "description": "kanginhan - 강인한 위로 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kanginhan",
+        "강인한 위로"
+    ],
+    "homepage": "https://noonnu.cc/font_page/560",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kanginhan"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

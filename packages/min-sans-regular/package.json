@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/min-sans-regular",
+    "description": "min-sans-regular - 민산스 - 사람 눈치 안보고 살고 싶다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "min-sans-regular",
+        "민산스"
+    ],
+    "homepage": "https://noonnu.cc/font_page/828",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/min-sans-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bb-tree-tl",
+    "description": "bb-tree-tl - 유토이미지나무 - 응급실 가기 전에 건강을 챙겨야해요",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "bb-tree-tl",
+        "유토이미지나무"
+    ],
+    "homepage": "https://noonnu.cc/font_page/279",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bb-tree-tl"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

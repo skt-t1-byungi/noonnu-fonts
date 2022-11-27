@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/healthset-bamboo-std",
+    "description": "healthset-bamboo-std - 헬스셋 조릿대체 - 운동도 하고 그래야지 계속 앉아만 있으면 안돼",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "healthset-bamboo-std",
+        "헬스셋 조릿대체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/124",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/healthset-bamboo-std"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

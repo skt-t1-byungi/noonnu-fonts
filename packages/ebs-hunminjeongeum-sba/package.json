@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ebs-hunminjeongeum-sba",
+    "description": "ebs-hunminjeongeum-sba - EBS훈민정음 - 훈민정음을 만드는 건 어려웠을거야",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ebs-hunminjeongeum-sba",
+        "EBS훈민정음"
+    ],
+    "homepage": "https://noonnu.cc/font_page/76",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ebs-hunminjeongeum-sba"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

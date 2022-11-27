@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sun-batang-light",
+    "description": "sun-batang-light - 순바탕 - 바람이 산들산들 불고 하늘이 파란 날",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sun-batang-light",
+        "순바탕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/289",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sun-batang-light"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

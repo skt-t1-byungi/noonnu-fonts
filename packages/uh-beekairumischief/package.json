@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-beekairumischief",
+    "description": "uh-beekairumischief - 어비 카이루장난체 - 장난이 누구에겐 상처가 될 수 있는거야",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-beekairumischief",
+        "어비 카이루장난체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/165",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-beekairumischief"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

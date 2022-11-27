@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kcc-jeongbeom",
+    "description": "kcc-jeongbeom - KCC정범체 - 졸리면 리듬이 빠른 음악을 들어야지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kcc-jeongbeom",
+        "KCC정범체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/858",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kcc-jeongbeom"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

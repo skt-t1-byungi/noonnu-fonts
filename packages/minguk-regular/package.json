@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/minguk-regular",
+    "description": "minguk-regular - 민국체 - 다들 적게 일하고 많이 버세요",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "minguk-regular",
+        "민국체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/337",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/minguk-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

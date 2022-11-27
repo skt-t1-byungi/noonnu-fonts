@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/mapo-golden-pier",
+    "description": "mapo-golden-pier - 마포금빛나루 - 노을빛으로 물든 마포나루",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "mapo-golden-pier",
+        "마포금빛나루"
+    ],
+    "homepage": "https://noonnu.cc/font_page/382",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/mapo-golden-pier"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

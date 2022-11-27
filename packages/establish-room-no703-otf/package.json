@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/establish-room-no703-otf",
+    "description": "establish-room-no703-otf - 칠백삼체 유서연 - 슈크림 붕어빵이 맛있습니다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "establish-room-no703-otf",
+        "칠백삼체 유서연"
+    ],
+    "homepage": "https://noonnu.cc/font_page/777",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/establish-room-no703-otf"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

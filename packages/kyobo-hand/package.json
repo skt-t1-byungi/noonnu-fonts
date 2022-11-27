@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kyobo-hand",
+    "description": "kyobo-hand - 교보손글씨 - 동글동글 귀여운 12살 어린이의 글씨",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kyobo-hand",
+        "교보손글씨"
+    ],
+    "homepage": "https://noonnu.cc/font_page/419",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kyobo-hand"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

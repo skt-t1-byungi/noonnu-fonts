@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/62570che",
+    "description": "62570che - 62570체 - 역사를 올바르게 인식하고 기억하자",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "62570che",
+        "62570체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/440",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/62570che"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

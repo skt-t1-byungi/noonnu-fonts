@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yanolja-yache-r",
+    "description": "yanolja-yache-r - 야놀자야체 - 가끔 가벼운 여행은 활력이 되지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "yanolja-yache-r",
+        "야놀자야체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/64",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yanolja-yache-r"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

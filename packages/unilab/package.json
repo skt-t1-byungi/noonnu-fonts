@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/unilab",
+    "description": "unilab - 안될과학 유니랩장체 - 지구는 우주라는 거대한 극장의 아주 작은 무대입니다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "unilab",
+        "안될과학 유니랩장체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/916",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/unilab"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kohi-baeum-otf",
+    "description": "kohi-baeum-otf - KOHI배움 - 의무교육은 중요한거다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kohi-baeum-otf",
+        "KOHI배움"
+    ],
+    "homepage": "https://noonnu.cc/font_page/813",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kohi-baeum-otf"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

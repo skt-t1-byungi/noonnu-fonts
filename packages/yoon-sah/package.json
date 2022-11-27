@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yoon-sah",
+    "description": "yoon-sah - Yoon 아혜 - 아무것도 하기 싫은 날",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "yoon-sah",
+        "Yoon 아혜"
+    ],
+    "homepage": "https://noonnu.cc/font_page/353",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yoon-sah"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

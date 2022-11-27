@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yes-myoungjo-regular",
+    "description": "yes-myoungjo-regular - 예스 명조 - 책 속에서 만날 수 있는 깊은 정보",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "yes-myoungjo-regular",
+        "예스 명조"
+    ],
+    "homepage": "https://noonnu.cc/font_page/406",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yes-myoungjo-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

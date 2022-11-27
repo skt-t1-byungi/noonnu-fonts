@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/y-spotlight",
+    "description": "y-spotlight - Y 너만을 비춤체 - 귀여운 이모티콘도 있는 폰트다 왇 왘",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "y-spotlight",
+        "Y 너만을 비춤체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/500",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/y-spotlight"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

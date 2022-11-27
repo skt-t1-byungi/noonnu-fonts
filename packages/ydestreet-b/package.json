@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ydestreet-b",
+    "description": "ydestreet-b - Y이드스트릿체 - 개성넘치는 와이드 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ydestreet-b",
+        "Y이드스트릿체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/771",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ydestreet-b"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

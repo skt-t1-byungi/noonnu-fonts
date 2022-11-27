@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/jal-haru",
+    "description": "jal-haru - 잘풀리는하루체 - 이 폰트를 사용하면 왠지 하루가 잘 풀릴 것 같다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "jal-haru",
+        "잘풀리는하루체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/498",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/jal-haru"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

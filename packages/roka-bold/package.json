@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/roka-bold",
+    "description": "roka-bold - 강한육군 - 우리나라 육군은 강하다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "roka-bold",
+        "강한육군"
+    ],
+    "homepage": "https://noonnu.cc/font_page/659",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/roka-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

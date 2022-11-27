@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/cafe24-dangdanghae",
+    "description": "cafe24-dangdanghae - 카페24 당당해 - 어깨펴고 당당하게 살아보자",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "cafe24-dangdanghae",
+        "카페24 당당해"
+    ],
+    "homepage": "https://noonnu.cc/font_page/371",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/cafe24-dangdanghae"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

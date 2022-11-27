@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/mice-gothic-bold",
+    "description": "mice-gothic-bold - MICE고딕 - 파릇파릇 이파리가 많이 나온다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "mice-gothic-bold",
+        "MICE고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/932",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/mice-gothic-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

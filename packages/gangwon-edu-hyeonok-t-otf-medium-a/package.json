@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gangwon-edu-hyeonok-t-otf-medium-a",
+    "description": "gangwon-edu-hyeonok-t-otf-medium-a - 강원교육현옥샘체 - 치킨은 언제나 옳아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gangwon-edu-hyeonok-t-otf-medium-a",
+        "강원교육현옥샘체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/804",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gangwon-edu-hyeonok-t-otf-medium-a"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

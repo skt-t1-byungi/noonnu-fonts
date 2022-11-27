@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/dalseo-healing-bold",
+    "description": "dalseo-healing-bold - 달서힐링체 - 안되는건 돈이 부족해서 그래",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "dalseo-healing-bold",
+        "달서힐링체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/958",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/dalseo-healing-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

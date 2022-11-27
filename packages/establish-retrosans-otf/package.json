@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/establish-retrosans-otf",
+    "description": "establish-retrosans-otf - 설립체 유건욱 - 하늘은 파란데 너무 추워",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "establish-retrosans-otf",
+        "설립체 유건욱"
+    ],
+    "homepage": "https://noonnu.cc/font_page/776",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/establish-retrosans-otf"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ef-yoony",
+    "description": "ef-yoony - 유니폰트 - 나들이가기엔 너무 더운 날씨다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ef-yoony",
+        "유니폰트"
+    ],
+    "homepage": "https://noonnu.cc/font_page/931",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ef-yoony"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

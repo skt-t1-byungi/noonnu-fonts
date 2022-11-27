@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gimhae-gaya-r",
+    "description": "gimhae-gaya-r - 김해가야체 - 올려야할 폰트는 여전히 많습니다..",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gimhae-gaya-r",
+        "김해가야체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/867",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gimhae-gaya-r"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

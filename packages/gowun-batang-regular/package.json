@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gowun-batang-regular",
+    "description": "gowun-batang-regular - 고운바탕 - 단정하고 고운 글씨체",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gowun-batang-regular",
+        "고운바탕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/733",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gowun-batang-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

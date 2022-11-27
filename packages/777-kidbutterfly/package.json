@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/777-kidbutterfly",
+    "description": "777-kidbutterfly - 꼬마나비 - 나비가 날아다니면 봄이 온거라고 하던데",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "777-kidbutterfly",
+        "꼬마나비"
+    ],
+    "homepage": "https://noonnu.cc/font_page/263",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/777-kidbutterfly"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

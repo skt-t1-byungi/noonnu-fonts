@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/my-haemalgeun-sangsang",
+    "description": "my-haemalgeun-sangsang - 밀양해맑은상상체 - 예쁜구름이 다 비구름이었나",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "my-haemalgeun-sangsang",
+        "밀양해맑은상상체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/943",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/my-haemalgeun-sangsang"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

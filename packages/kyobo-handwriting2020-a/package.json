@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kyobo-handwriting2020-a",
+    "description": "kyobo-handwriting2020-a - 교보손글씨 2020 박도연 - 간식을 좋아하니 살이 찌지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kyobo-handwriting2020-a",
+        "교보손글씨 2020 박도연"
+    ],
+    "homepage": "https://noonnu.cc/font_page/782",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kyobo-handwriting2020-a"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

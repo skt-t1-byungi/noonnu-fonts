@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/puradak-gentle-gothic-r",
+    "description": "puradak-gentle-gothic-r - 푸라닭 젠틀 고딕 - 치킨은 훌륭한 야식입니다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "puradak-gentle-gothic-r",
+        "푸라닭 젠틀 고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1057",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/puradak-gentle-gothic-r"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

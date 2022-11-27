@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/paybooc-bold",
+    "description": "paybooc-bold - 페이북 글꼴 - 상큼한 사과에이드 마시고 싶다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "paybooc-bold",
+        "페이북 글꼴"
+    ],
+    "homepage": "https://noonnu.cc/font_page/452",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/paybooc-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

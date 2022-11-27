@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gabia-bombaram",
+    "description": "gabia-bombaram - 가비아 봄바람체 - 흐름은 바뀌기 마련이다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gabia-bombaram",
+        "가비아 봄바람체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/70",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gabia-bombaram"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

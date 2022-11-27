@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/okgung",
+    "description": "okgung - 읏궁체 - 독특한 글씨체가 많다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "okgung",
+        "읏궁체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/947",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/okgung"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

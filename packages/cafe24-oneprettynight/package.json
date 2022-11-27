@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/cafe24-oneprettynight",
+    "description": "cafe24-oneprettynight - 카페24 고운밤 - 반짝반짝 작은 별이 빛나는 밤",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "cafe24-oneprettynight",
+        "카페24 고운밤"
+    ],
+    "homepage": "https://noonnu.cc/font_page/342",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/cafe24-oneprettynight"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

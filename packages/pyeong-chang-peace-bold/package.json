@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/pyeong-chang-peace-bold",
+    "description": "pyeong-chang-peace-bold - 평창평화체 - 예쁘고 독특한 별모양 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "pyeong-chang-peace-bold",
+        "평창평화체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/950",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/pyeong-chang-peace-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kofih-dr-leejwttf-b",
+    "description": "kofih-dr-leejwttf-b - KOFIH이종욱체 - 기분좋은 가을의 산책길",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kofih-dr-leejwttf-b",
+        "KOFIH이종욱체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1040",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kofih-dr-leejwttf-b"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

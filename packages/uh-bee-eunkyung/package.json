@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-eunkyung",
+    "description": "uh-bee-eunkyung - 어비 은경체 - 귀엽게 보이기 시작했다면 덕질에 출구는 없다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-eunkyung",
+        "어비 은경체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/146",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-eunkyung"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

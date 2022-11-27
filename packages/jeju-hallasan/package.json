@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/jeju-hallasan",
+    "description": "jeju-hallasan - 제주한라산 - 제주에서 마셔봔마씨? 한라산",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "jeju-hallasan",
+        "제주한라산"
+    ],
+    "homepage": "https://noonnu.cc/font_page/51",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/jeju-hallasan"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

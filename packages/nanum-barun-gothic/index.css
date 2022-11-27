@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/nanumbarungothic-400.eot');
+    src: url('./fonts/nanumbarungothic-400.eot') format('embedded-opentype'),
+        url('./fonts/nanumbarungothic-400.woff') format('woff'),
+        url('./fonts/nanumbarungothic-400.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./fonts/nanumbarungothic-700.eot');
+    src: url('./fonts/nanumbarungothic-700.eot') format('embedded-opentype'),
+        url('./fonts/nanumbarungothic-700.woff') format('woff'),
+        url('./fonts/nanumbarungothic-700.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./fonts/nanumbarungothic-300.eot');
+    src: url('./fonts/nanumbarungothic-300.eot') format('embedded-opentype'),
+        url('./fonts/nanumbarungothic-300.woff') format('woff'),
+        url('./fonts/nanumbarungothic-300.ttf') format('truetype');
+}
+
+.nanumbarungothic * {
+    font-family: 'NanumBarunGothic', sans-serif;
+}

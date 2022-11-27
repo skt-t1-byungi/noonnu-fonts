@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/tt-together",
+    "description": "tt-together - TT투게더 - 디자이너와 함께하는 투게더",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "tt-together",
+        "TT투게더"
+    ],
+    "homepage": "https://noonnu.cc/font_page/407",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/tt-together"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

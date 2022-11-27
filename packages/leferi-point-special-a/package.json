@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/leferi-point-special-a",
+    "description": "leferi-point-special-a - 레페리포인트 Special - 대충 살아도 되면 좋겠다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "leferi-point-special-a",
+        "레페리포인트 Special"
+    ],
+    "homepage": "https://noonnu.cc/font_page/820",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/leferi-point-special-a"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/recipekorea",
+    "description": "recipekorea - 레코체 - 레시피코리아에서 만든 제목용 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "recipekorea",
+        "레코체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/394",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/recipekorea"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

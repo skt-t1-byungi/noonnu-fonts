@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/joongnajoche-m-ks-cpc-euc-h",
+    "description": "joongnajoche-m-ks-cpc-euc-h - 중나좋체 - 오늘도 평화로운 중고나라",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "joongnajoche-m-ks-cpc-euc-h",
+        "중나좋체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/400",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/joongnajoche-m-ks-cpc-euc-h"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

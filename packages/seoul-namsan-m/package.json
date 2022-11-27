@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/seoul-namsan-m",
+    "description": "seoul-namsan-m - 서울남산체 - 가을 아침은 내게 커다란 기쁨이야",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "seoul-namsan-m",
+        "서울남산체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/59",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/seoul-namsan-m"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

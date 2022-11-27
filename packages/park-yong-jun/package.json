@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/park-yong-jun",
+    "description": "park-yong-jun - 박용준투사회보체 - 살아남은자의 가슴속에 영원히 기억되오리다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "park-yong-jun",
+        "박용준투사회보체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/921",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/park-yong-jun"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

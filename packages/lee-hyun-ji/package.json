@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/lee-hyun-ji",
+    "description": "lee-hyun-ji - 이숲체 - 지구가 둥글다는건 아무도 믿지 않았어",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "lee-hyun-ji",
+        "이숲체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/23",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/lee-hyun-ji"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

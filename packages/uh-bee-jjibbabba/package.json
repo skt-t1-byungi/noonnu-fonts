@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-jjibbabba",
+    "description": "uh-bee-jjibbabba - 어비 찌빠빠체 - 그 아이는 항상 묵찌빠를 하면 첫번째는 묵이었다.",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-jjibbabba",
+        "어비 찌빠빠체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/160",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-jjibbabba"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

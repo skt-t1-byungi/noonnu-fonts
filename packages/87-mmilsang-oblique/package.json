@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/87-mmilsang-oblique",
+    "description": "87-mmilsang-oblique - 팔칠엠엠 일상 기울임 - 호떡을 먹기 어려운 요즘",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "87-mmilsang-oblique",
+        "팔칠엠엠 일상 기울임"
+    ],
+    "homepage": "https://noonnu.cc/font_page/790",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/87-mmilsang-oblique"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

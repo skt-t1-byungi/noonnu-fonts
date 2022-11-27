@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/solinsunny-r",
+    "description": "solinsunny-r - 솔인써니체 - 갑자기 여름이 찾아왔다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "solinsunny-r",
+        "솔인써니체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/409",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/solinsunny-r"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

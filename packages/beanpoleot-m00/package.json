@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/beanpoleot-m00",
+    "description": "beanpoleot-m00 - 빈폴체 - 추운겨울에 따뜻한 귤먹기",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "beanpoleot-m00",
+        "빈폴체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/797",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/beanpoleot-m00"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

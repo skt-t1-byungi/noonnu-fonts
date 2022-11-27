@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hoengseong-hanu",
+    "description": "hoengseong-hanu - 횡성한우체 - 유자청으로 에이드를 만들어 마시니 맛있다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "hoengseong-hanu",
+        "횡성한우체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/854",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hoengseong-hanu"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

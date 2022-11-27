@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hs-gyoulnoonkot",
+    "description": "hs-gyoulnoonkot - HS겨울눈꽃체 - 지금 올해의 첫눈꽃을 바라보며",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "hs-gyoulnoonkot",
+        "HS겨울눈꽃체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/48",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hs-gyoulnoonkot"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

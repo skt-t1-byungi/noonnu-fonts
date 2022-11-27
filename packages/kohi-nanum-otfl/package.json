@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kohi-nanum-otfl",
+    "description": "kohi-nanum-otfl - KOHI나눔 - 돈을 벌어도 벌어도 부족하다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kohi-nanum-otfl",
+        "KOHI나눔"
+    ],
+    "homepage": "https://noonnu.cc/font_page/815",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kohi-nanum-otfl"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

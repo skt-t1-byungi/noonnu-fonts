@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/nexen-tire-bold",
+    "description": "nexen-tire-bold - 넥센타이어 - 눈길엔 안전운전해야해요",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "nexen-tire-bold",
+        "넥센타이어"
+    ],
+    "homepage": "https://noonnu.cc/font_page/237",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/nexen-tire-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

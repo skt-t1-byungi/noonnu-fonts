@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/dovemayo-medium",
+    "description": "dovemayo-medium - 둘기마요 - 둘기마요는 좀 그렇고 치킨마요 먹고 싶다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "dovemayo-medium",
+        "둘기마요"
+    ],
+    "homepage": "https://noonnu.cc/font_page/122",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/dovemayo-medium"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

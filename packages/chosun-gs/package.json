@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chosun-gs",
+    "description": "chosun-gs - 조선궁서체 - 진지하니까 궁서체로 말한다.",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "chosun-gs",
+        "조선궁서체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/416",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chosun-gs"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

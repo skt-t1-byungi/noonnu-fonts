@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sang-sang-youngest-daughter",
+    "description": "sang-sang-youngest-daughter - 꽃집막내딸 - 폰트 올리는거 이게 끝인가?",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sang-sang-youngest-daughter",
+        "꽃집막내딸"
+    ],
+    "homepage": "https://noonnu.cc/font_page/863",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sang-sang-youngest-daughter"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/dos-kor",
+    "description": "dos-kor - 도스한글 - 삶은 원래 외로운거야",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "dos-kor",
+        "도스한글"
+    ],
+    "homepage": "https://noonnu.cc/font_page/938",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/dos-kor"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

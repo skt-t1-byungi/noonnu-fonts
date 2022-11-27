@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/777-starlandmoon",
+    "description": "777-starlandmoon - 별나라달님 - 연구에 따르면 별나라에 달님이 있다고 한다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "777-starlandmoon",
+        "별나라달님"
+    ],
+    "homepage": "https://noonnu.cc/font_page/269",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/777-starlandmoon"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

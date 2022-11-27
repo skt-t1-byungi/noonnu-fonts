@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sang-sang-shinb7",
+    "description": "sang-sang-shinb7 - 신비는일곱살 - 일곱살 꼬마아이의 감성",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sang-sang-shinb7",
+        "신비는일곱살"
+    ],
+    "homepage": "https://noonnu.cc/font_page/95",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sang-sang-shinb7"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

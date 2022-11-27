@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/knps-kkomi-regular00",
+    "description": "knps-kkomi-regular00 - 국립공원 꼬미 - 아기 반달가슴곰 꼬미",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "knps-kkomi-regular00",
+        "국립공원 꼬미"
+    ],
+    "homepage": "https://noonnu.cc/font_page/812",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/knps-kkomi-regular00"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

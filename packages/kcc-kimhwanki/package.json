@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kcc-kimhwanki",
+    "description": "kcc-kimhwanki - KCC김환기체 - 간식은 맛있지만 너무 많이 먹으면 안좋아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kcc-kimhwanki",
+        "KCC김환기체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/859",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kcc-kimhwanki"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

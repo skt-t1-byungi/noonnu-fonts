@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/jeon-hwaseon",
+    "description": "jeon-hwaseon - 전화선체 - 사람은 항상 변하는 존재다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "jeon-hwaseon",
+        "전화선체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/871",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/jeon-hwaseon"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

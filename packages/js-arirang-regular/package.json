@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/js-arirang-regular",
+    "description": "js-arirang-regular - 정선아리랑체 - 아리랑 아리랑 아라리요",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "js-arirang-regular",
+        "정선아리랑체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/372",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/js-arirang-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

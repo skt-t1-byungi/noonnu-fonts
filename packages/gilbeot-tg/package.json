@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gilbeot-tg",
+    "description": "gilbeot-tg - 길벗체 TG - 겨울은 역시 호떡이지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gilbeot-tg",
+        "길벗체 TG"
+    ],
+    "homepage": "https://noonnu.cc/font_page/781",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gilbeot-tg"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

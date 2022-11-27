@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/js-arirang-hon-regular",
+    "description": "js-arirang-hon-regular - 정선아리랑혼체 - 아리랑 고개 고개로 날 넘겨주게",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "js-arirang-hon-regular",
+        "정선아리랑혼체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/373",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/js-arirang-hon-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

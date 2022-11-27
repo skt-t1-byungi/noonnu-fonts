@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/shilla-culture-b-bold",
+    "description": "shilla-culture-b-bold - 신라문화체 - 멋드러진 붓글씨체다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "shilla-culture-b-bold",
+        "신라문화체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/952",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/shilla-culture-b-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/cafe24-classic-type-regular",
+    "description": "cafe24-classic-type-regular - 카페24 클래식타입 - 나는 역시 멋있어 최고야",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "cafe24-classic-type-regular",
+        "카페24 클래식타입"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1035",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/cafe24-classic-type-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

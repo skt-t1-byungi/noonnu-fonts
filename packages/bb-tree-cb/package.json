@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bb-tree-cb",
+    "description": "bb-tree-cb - 유토이미지손글씨 - 글씨를 많이 쓰다보면 갈겨쓰게 된다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "bb-tree-cb",
+        "유토이미지손글씨"
+    ],
+    "homepage": "https://noonnu.cc/font_page/270",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bb-tree-cb"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

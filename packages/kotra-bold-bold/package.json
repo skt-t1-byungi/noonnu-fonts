@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kotra-bold-bold",
+    "description": "kotra-bold-bold - 코트라 볼드체 - 가을이 너무 금방 추워져버렸다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kotra-bold-bold",
+        "코트라 볼드체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/485",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kotra-bold-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gangwon-edu-otf-bold-a",
+    "description": "gangwon-edu-otf-bold-a - 강원교육모두체 - 일 안하고 잠만 자고 싶다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gangwon-edu-otf-bold-a",
+        "강원교육모두체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/802",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gangwon-edu-otf-bold-a"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ef-chuckchuck",
+    "description": "ef-chuckchuck - 척척고딕 - 척척고딕 척척박사",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ef-chuckchuck",
+        "척척고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/924",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ef-chuckchuck"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

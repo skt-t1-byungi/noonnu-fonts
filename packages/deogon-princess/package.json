@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/deogon-princess",
+    "description": "deogon-princess - 덕온공주체 - 나무가 푸르러지는 계절이다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "deogon-princess",
+        "덕온공주체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/885",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/deogon-princess"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

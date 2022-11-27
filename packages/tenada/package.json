@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/tenada",
+    "description": "tenada - 태나다체 - 뭐든지 잘해볼 수 있을 것 같은 기분",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "tenada",
+        "태나다체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1042",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/tenada"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

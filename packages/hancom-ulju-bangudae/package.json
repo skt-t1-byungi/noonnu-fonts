@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hancom-ulju-bangudae",
+    "description": "hancom-ulju-bangudae - 한컴 울주 반구대 암각화체 - 무이네에서 망고주스 마시고 싶다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "hancom-ulju-bangudae",
+        "한컴 울주 반구대 암각화체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/914",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hancom-ulju-bangudae"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sf-hambak-snow",
+    "description": "sf-hambak-snow - 함박눈체 - 눈이 펑펑 오면 너무 춥다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sf-hambak-snow",
+        "함박눈체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/690",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sf-hambak-snow"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

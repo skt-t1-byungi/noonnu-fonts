@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/my-yeongnamnu",
+    "description": "my-yeongnamnu - 밀양영남루체 - 월요일은 피곤할 수 밖에",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "my-yeongnamnu",
+        "밀양영남루체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/944",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/my-yeongnamnu"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

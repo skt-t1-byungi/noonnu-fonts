@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kbiz-hanmaum-gothic",
+    "description": "kbiz-hanmaum-gothic - KBIZ한마음고딕체 - 폰트가 진짜 엄청 많네",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kbiz-hanmaum-gothic",
+        "KBIZ한마음고딕체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/11",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kbiz-hanmaum-gothic"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

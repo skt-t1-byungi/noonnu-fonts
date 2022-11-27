@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kbiz-hanmaum-myungjo",
+    "description": "kbiz-hanmaum-myungjo - KBIZ한마음명조체 - 포기하면 편하다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kbiz-hanmaum-myungjo",
+        "KBIZ한마음명조체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/12",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kbiz-hanmaum-myungjo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

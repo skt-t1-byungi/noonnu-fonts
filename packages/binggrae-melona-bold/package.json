@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/binggrae-melona-bold",
+    "description": "binggrae-melona-bold - 빙그레 메로나체 - 메로나 맛있지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "binggrae-melona-bold",
+        "빙그레 메로나체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/320",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/binggrae-melona-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

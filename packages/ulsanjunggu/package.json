@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ulsanjunggu",
+    "description": "ulsanjunggu - 울산중구전용서체 - 독특하고 멋드러진 붓글씨",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ulsanjunggu",
+        "울산중구전용서체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/955",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ulsanjunggu"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/j-song-myung-regular-ko",
+    "description": "j-song-myung-regular-ko - J송명 - 정갈한 명조체",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "j-song-myung-regular-ko",
+        "J송명"
+    ],
+    "homepage": "https://noonnu.cc/font_page/766",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/j-song-myung-regular-ko"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

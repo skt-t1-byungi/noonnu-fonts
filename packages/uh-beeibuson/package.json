@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-beeibuson",
+    "description": "uh-beeibuson - 어비 이부손체 - 늦었다고 생각할 때가 늦었을 때다. 지각이야",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-beeibuson",
+        "어비 이부손체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/156",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-beeibuson"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-beesong",
+    "description": "uh-beesong - 어비 송송체 - 신이 난다면 노래를 불러보자",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-beesong",
+        "어비 송송체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/191",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-beesong"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

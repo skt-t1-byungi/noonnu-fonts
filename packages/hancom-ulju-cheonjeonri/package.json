@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hancom-ulju-cheonjeonri",
+    "description": "hancom-ulju-cheonjeonri - 한컴 울주 천전리 각석체 - 만들 수 있어야 비로소 알게된다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "hancom-ulju-cheonjeonri",
+        "한컴 울주 천전리 각석체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/915",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hancom-ulju-cheonjeonri"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

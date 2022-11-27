@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ot-enjoystories-ba",
+    "description": "ot-enjoystories-ba - 즐거운이야기체 - 거친 돌이 다듬어져 조각이 되듯",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ot-enjoystories-ba",
+        "즐거운이야기체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/82",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ot-enjoystories-ba"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

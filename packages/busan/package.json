@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/busan",
+    "description": "busan - 부산체 - 부산의 앞바다는 정말 파래서 좋다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "busan",
+        "부산체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/29",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/busan"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

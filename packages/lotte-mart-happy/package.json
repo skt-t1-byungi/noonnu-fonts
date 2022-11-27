@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/lotte-mart-happy",
+    "description": "lotte-mart-happy - 롯데마트행복체 - 웃으면 복이 와요 ... 돈은 안와요",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "lotte-mart-happy",
+        "롯데마트행복체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/288",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/lotte-mart-happy"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

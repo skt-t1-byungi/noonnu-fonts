@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-zigle",
+    "description": "uh-bee-zigle - 어비 지글체 - 지글지글 보글보글 찌게가 끓는다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-zigle",
+        "어비 지글체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/208",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-zigle"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

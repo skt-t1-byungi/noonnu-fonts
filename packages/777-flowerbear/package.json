@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/777-flowerbear",
+    "description": "777-flowerbear - 꽃보다곰팅 - 곰돌이는 안고 자면 심신에 좋습니다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "777-flowerbear",
+        "꽃보다곰팅"
+    ],
+    "homepage": "https://noonnu.cc/font_page/262",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/777-flowerbear"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

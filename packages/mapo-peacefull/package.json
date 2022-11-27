@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/mapo-peacefull",
+    "description": "mapo-peacefull - 마포한아름 - 평화의 메시지를 나타내는 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "mapo-peacefull",
+        "마포한아름"
+    ],
+    "homepage": "https://noonnu.cc/font_page/385",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/mapo-peacefull"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/one-mobile-regular",
+    "description": "one-mobile-regular - 원스토어 모바일고딕 본문체 - 따뜻한 밀크티를 마시고 자자",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "one-mobile-regular",
+        "원스토어 모바일고딕 본문체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/677",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/one-mobile-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ylee-mortal-heart-immortal-memory",
+    "description": "ylee-mortal-heart-immortal-memory - ylee 추억은 잠들지 않는다 - 아이스아메리카노 이제 잘 마셔",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ylee-mortal-heart-immortal-memory",
+        "ylee 추억은 잠들지 않는다"
+    ],
+    "homepage": "https://noonnu.cc/font_page/913",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ylee-mortal-heart-immortal-memory"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

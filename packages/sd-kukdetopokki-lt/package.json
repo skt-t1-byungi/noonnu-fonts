@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sd-kukdetopokki-lt",
+    "description": "sd-kukdetopokki-lt - 산돌국대떡볶이체 - 떡복이는 밀떡보다 쌀떡을 더 좋아함",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sd-kukdetopokki-lt",
+        "산돌국대떡볶이체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/396",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sd-kukdetopokki-lt"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

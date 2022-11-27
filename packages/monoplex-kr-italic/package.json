@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/monoplex-kr-italic",
+    "description": "monoplex-kr-italic - 모노플렉스KR Italic - IBM Plex 폰트를 활용한 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "monoplex-kr-italic",
+        "모노플렉스KR Italic"
+    ],
+    "homepage": "https://noonnu.cc/font_page/968",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/monoplex-kr-italic"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/environment-r",
+    "description": "environment-r - 환경체 - 천둥번개가 왜이렇게 치지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "environment-r",
+        "환경체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/939",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/environment-r"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

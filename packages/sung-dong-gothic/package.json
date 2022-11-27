@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sung-dong-gothic",
+    "description": "sung-dong-gothic - 성동고딕 - 여행갔다 돌아와선 현타맞음",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sung-dong-gothic",
+        "성동고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/26",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sung-dong-gothic"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

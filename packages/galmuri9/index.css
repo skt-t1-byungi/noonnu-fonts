@@ -1,0 +1,61 @@
+/**
+ * Copyright (c) 2019-2022 Minseo Lee (itoupluk427@gmail.com),
+ * with Reserved Font Name "Galmuri".
+ *
+ * This Font Software is licensed under the SIL Open Font License, Version 1.1.
+ * This license is available with a FAQ at: https://scripts.sil.org/OFL
+ */
+@font-face {
+    font-family: Galmuri14;
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Galmuri14 Regular'), url('./fonts/galmuri14-400.woff2') format('woff2'),
+        url('./fonts/galmuri14-400.ttf') format('truetype');
+}
+@font-face {
+    font-family: Galmuri11;
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Galmuri11 Regular'), url('./fonts/galmuri11-400.woff2') format('woff2'),
+        url('./fonts/galmuri11-400.ttf') format('truetype');
+}
+@font-face {
+    font-family: Galmuri11;
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local('Galmuri11 Bold'), url('./fonts/galmuri11-700.woff2') format('woff2'),
+        url('./fonts/galmuri11-700.ttf') format('truetype');
+}
+@font-face {
+    font-family: Galmuri11;
+    font-style: normal;
+    font-stretch: condensed;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Galmuri11 Condensed'), url('./fonts/galmuri11-400.woff2') format('woff2'),
+        url('./fonts/galmuri11-400.ttf') format('truetype');
+}
+@font-face {
+    font-family: Galmuri9;
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Galmuri9 Regular'), url('./fonts/galmuri9-400.woff2') format('woff2'),
+        url('./fonts/galmuri9-400.ttf') format('truetype');
+}
+@font-face {
+    font-family: Galmuri7;
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Galmuri7 Regular'), url('./fonts/galmuri7-400.woff2') format('woff2'),
+        url('./fonts/galmuri7-400.ttf') format('truetype');
+}

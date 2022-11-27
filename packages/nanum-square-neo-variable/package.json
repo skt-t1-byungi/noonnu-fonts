@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/nanum-square-neo-variable",
+    "description": "nanum-square-neo-variable - 나눔스퀘어 네오 - 하늘을 헤엄치는 구름처럼",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "nanum-square-neo-variable",
+        "나눔스퀘어 네오"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1053",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/nanum-square-neo-variable"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

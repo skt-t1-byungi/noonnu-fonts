@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ef-hyunydororong",
+    "description": "ef-hyunydororong - 혀니도로롱 - 고양이 코고는 소리는 도로롱",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ef-hyunydororong",
+        "혀니도로롱"
+    ],
+    "homepage": "https://noonnu.cc/font_page/925",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ef-hyunydororong"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

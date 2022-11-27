@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ot-welcome-ra",
+    "description": "ot-welcome-ra - 웰컴체 - 왜 자도자도 피곤하지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ot-welcome-ra",
+        "웰컴체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/770",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ot-welcome-ra"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

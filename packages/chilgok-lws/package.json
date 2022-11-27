@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chilgok-lws",
+    "description": "chilgok-lws - 칠곡할매 이원순체 - 아기자기 귀여운 손글씨",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "chilgok-lws",
+        "칠곡할매 이원순체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/685",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chilgok-lws"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

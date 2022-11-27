@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/happiness-sans-title",
+    "description": "happiness-sans-title - 해피니스 산스 Title - 제주도에서 유채꽃밭을 보고 싶어",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "happiness-sans-title",
+        "해피니스 산스 Title"
+    ],
+    "homepage": "https://noonnu.cc/font_page/902",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/happiness-sans-title"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

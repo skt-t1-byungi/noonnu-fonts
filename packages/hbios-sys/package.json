@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hbios-sys",
+    "description": "hbios-sys - HBIOS-SYS - 내 취향을 알면 휘둘리지 않아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "hbios-sys",
+        "HBIOS-SYS"
+    ],
+    "homepage": "https://noonnu.cc/font_page/960",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hbios-sys"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

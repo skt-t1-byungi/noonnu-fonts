@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bb-tree-cr",
+    "description": "bb-tree-cr - 유토이미지손글씨R - 봄비가 내리는걸 보니 봄이 오려나보다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "bb-tree-cr",
+        "유토이미지손글씨R"
+    ],
+    "homepage": "https://noonnu.cc/font_page/286",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bb-tree-cr"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

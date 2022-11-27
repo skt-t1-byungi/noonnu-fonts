@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sunmoonuniversity",
+    "description": "sunmoonuniversity - 선문대체 - 활기가 돌아오는 대학교",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sunmoonuniversity",
+        "선문대체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1054",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sunmoonuniversity"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

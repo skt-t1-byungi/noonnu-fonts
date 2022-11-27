@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gen-k-jwajin-otf-rg",
+    "description": "gen-k-jwajin-otf-rg - 김좌진장군체 - 창문이 커서 해가 잘 들어서 좋아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gen-k-jwajin-otf-rg",
+        "김좌진장군체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/808",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gen-k-jwajin-otf-rg"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/miwon",
+    "description": "miwon - 미원체 - 감칠맛의 비법은 미원",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "miwon",
+        "미원체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/980",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/miwon"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

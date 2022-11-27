@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-beeeun-d",
+    "description": "uh-beeeun-d - 어비 은디체 - 원래 인생 마음대로 안돼ㅋㅋ 포기하는게 편해",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-beeeun-d",
+        "어비 은디체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/145",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-beeeun-d"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

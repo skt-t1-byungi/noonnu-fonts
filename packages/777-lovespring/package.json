@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/777-lovespring",
+    "description": "777-lovespring - 봄이조아 - 봄 여어어어름 갈 겨어어어어울",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "777-lovespring",
+        "봄이조아"
+    ],
+    "homepage": "https://noonnu.cc/font_page/265",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/777-lovespring"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

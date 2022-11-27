@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gyeonggi-title-m",
+    "description": "gyeonggi-title-m - 경기천년제목 - 먼저 가는건 순서 없다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gyeonggi-title-m",
+        "경기천년제목"
+    ],
+    "homepage": "https://noonnu.cc/font_page/14",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gyeonggi-title-m"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

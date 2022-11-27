@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/777-flower",
+    "description": "777-flower - 플라워 - 요즘 꽃집이 많이 보이는 것 같아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "777-flower",
+        "플라워"
+    ],
+    "homepage": "https://noonnu.cc/font_page/261",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/777-flower"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

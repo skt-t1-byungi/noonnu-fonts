@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/seoul-hangang-m",
+    "description": "seoul-hangang-m - 서울한강체 - 이상하게 요즘엔 그냥 쉬운게 좋아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "seoul-hangang-m",
+        "서울한강체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/60",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/seoul-hangang-m"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

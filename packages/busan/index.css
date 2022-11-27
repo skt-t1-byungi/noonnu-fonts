@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Busan';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/busan-400.woff2') format('woff2'), url('./fonts/busan-400.woff') format('woff');
+}
+
+.busan * {
+    font-family: 'Busan', sans-serif;
+}

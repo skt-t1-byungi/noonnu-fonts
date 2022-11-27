@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/my-arirang-medium",
+    "description": "my-arirang-medium - 밀양아리랑체 - 아무것도 안하고 쉴 수 있을까",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "my-arirang-medium",
+        "밀양아리랑체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/942",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/my-arirang-medium"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

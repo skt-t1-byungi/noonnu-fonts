@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-bong-sik",
+    "description": "uh-bee-bong-sik - 어비 봉식이체 - 봉식이라는 이름 참 친근하다..",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-bong-sik",
+        "어비 봉식이체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/137",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-bong-sik"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

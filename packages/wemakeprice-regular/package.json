@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/wemakeprice-regular",
+    "description": "wemakeprice-regular - 위메프체 - 위메프에서 쇼핑을 합시다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "wemakeprice-regular",
+        "위메프체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/480",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/wemakeprice-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

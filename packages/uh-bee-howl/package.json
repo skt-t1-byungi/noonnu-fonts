@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-howl",
+    "description": "uh-bee-howl - 어비 하울체 - 하울의 움직이는 성에서 음악이 참 좋더라",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-howl",
+        "어비 하울체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/152",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-howl"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

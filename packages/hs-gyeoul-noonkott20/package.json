@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hs-gyeoul-noonkott20",
+    "description": "hs-gyeoul-noonkott20 - HS겨울눈꽃체2.0 - 이 폰트 진짜 신기하다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "hs-gyeoul-noonkott20",
+        "HS겨울눈꽃체2.0"
+    ],
+    "homepage": "https://noonnu.cc/font_page/810",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hs-gyeoul-noonkott20"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

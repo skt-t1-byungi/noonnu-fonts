@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Youth';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/youth-400.woff2') format('woff2'), url('./fonts/youth-400.woff') format('woff');
+}
+
+.youth * {
+    font-family: 'Youth', sans-serif;
+}

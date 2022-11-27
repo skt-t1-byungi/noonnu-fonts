@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bareun-batang",
+    "description": "bareun-batang - 바른바탕체 - 무엇이든지 하려고 하면 돈이 드는 법이다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "bareun-batang",
+        "바른바탕체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/30",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bareun-batang"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

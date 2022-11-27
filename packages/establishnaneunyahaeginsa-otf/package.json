@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/establishnaneunyahaeginsa-otf",
+    "description": "establishnaneunyahaeginsa-otf - 나는야핵인싸체 최서연 - 동글동글한 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "establishnaneunyahaeginsa-otf",
+        "나는야핵인싸체 최서연"
+    ],
+    "homepage": "https://noonnu.cc/font_page/774",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/establishnaneunyahaeginsa-otf"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

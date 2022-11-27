@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yoon-ssh",
+    "description": "yoon-ssh - Yoon 세희 - 윤디자인이 공모전으로 만든 손글씨체",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "yoon-ssh",
+        "Yoon 세희"
+    ],
+    "homepage": "https://noonnu.cc/font_page/347",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yoon-ssh"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'SungDongMyungjo';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/sungdongmyungjo-400.woff2') format('woff2'),
+        url('./fonts/sungdongmyungjo-400.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SungDongMyungjo';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./fonts/sungdongmyungjo-700.woff2') format('woff2'),
+        url('./fonts/sungdongmyungjo-700.woff') format('woff');
+}
+
+.sungdongmyungjo * {
+    font-family: 'SungDongMyungjo', serif;
+}

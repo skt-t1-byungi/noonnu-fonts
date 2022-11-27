@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/dung-geun-mo",
+    "description": "dung-geun-mo - 둥근모꼴+ Fixedsys - 90년대 PC통신에 쓰이던 고전 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "dung-geun-mo",
+        "둥근모꼴+ Fixedsys"
+    ],
+    "homepage": "https://noonnu.cc/font_page/250",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/dung-geun-mo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

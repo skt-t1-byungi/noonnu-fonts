@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/won-batang",
+    "description": "won-batang - 한둥근바탕 - 호의가 계속되면 둘리인줄 알지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "won-batang",
+        "한둥근바탕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/19",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/won-batang"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

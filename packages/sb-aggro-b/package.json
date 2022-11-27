@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sb-aggro-b",
+    "description": "sb-aggro-b - 어그로체 - 어그로가 필요한 순간엔 어그로체를",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sb-aggro-b",
+        "어그로체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/738",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sb-aggro-b"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

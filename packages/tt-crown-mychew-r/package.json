@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/tt-crown-mychew-r",
+    "description": "tt-crown-mychew-r - 마이쮸체 - 마이쮸 어릴때 참 많이 먹었었지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "tt-crown-mychew-r",
+        "마이쮸체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/908",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/tt-crown-mychew-r"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

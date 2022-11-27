@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/rokaf-slab-serif-medium",
+    "description": "rokaf-slab-serif-medium - 강한공군체 - 내 멘탈도 건강하고 강해졌으면",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "rokaf-slab-serif-medium",
+        "강한공군체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/851",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/rokaf-slab-serif-medium"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

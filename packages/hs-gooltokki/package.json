@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hs-gooltokki",
+    "description": "hs-gooltokki - HS굴토끼체 - 명불허전 토끼네활자공장의 귀여운 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "hs-gooltokki",
+        "HS굴토끼체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1038",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hs-gooltokki"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

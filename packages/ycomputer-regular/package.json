@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ycomputer-regular",
+    "description": "ycomputer-regular - Y콤퓨타체 - 컴퓨터 오래보면 눈 아프다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ycomputer-regular",
+        "Y콤퓨타체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1056",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ycomputer-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

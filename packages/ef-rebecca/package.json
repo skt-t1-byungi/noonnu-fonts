@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ef-rebecca",
+    "description": "ef-rebecca - 레베카체 - 커튼같이 고급져보이는 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ef-rebecca",
+        "레베카체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1033",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ef-rebecca"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/nelna-lizzy-chae",
+    "description": "nelna-lizzy-chae - 낼나 리지체 - 폰트가 많이 나오는게 좋으면서 힘들다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "nelna-lizzy-chae",
+        "낼나 리지체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/904",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/nelna-lizzy-chae"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

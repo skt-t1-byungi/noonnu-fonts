@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kcc-imkwontaek",
+    "description": "kcc-imkwontaek - KCC임권택체 - 눈은 좋지만 겨울은 추워서 싫어",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kcc-imkwontaek",
+        "KCC임권택체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/860",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kcc-imkwontaek"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

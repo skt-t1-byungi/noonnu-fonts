@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gyeonggi-batang",
+    "description": "gyeonggi-batang - 경기천년바탕 - 동정할거면 돈으로 줘요",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gyeonggi-batang",
+        "경기천년바탕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/13",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gyeonggi-batang"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

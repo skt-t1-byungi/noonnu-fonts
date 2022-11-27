@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/okchan",
+    "description": "okchan - 읏찬체 - 물을 많이 마셔야하는데",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "okchan",
+        "읏찬체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/945",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/okchan"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

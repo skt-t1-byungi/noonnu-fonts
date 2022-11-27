@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/mapo-hongdae-freedom",
+    "description": "mapo-hongdae-freedom - 마포홍대프리덤 - 홍대에는 사람이 너무 많아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "mapo-hongdae-freedom",
+        "마포홍대프리덤"
+    ],
+    "homepage": "https://noonnu.cc/font_page/383",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/mapo-hongdae-freedom"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

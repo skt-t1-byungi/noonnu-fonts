@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/cookie-run-regular",
+    "description": "cookie-run-regular - 쿠키런 - 오 쿠키런 폰트 Regular도 나왔다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "cookie-run-regular",
+        "쿠키런"
+    ],
+    "homepage": "https://noonnu.cc/font_page/364",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/cookie-run-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

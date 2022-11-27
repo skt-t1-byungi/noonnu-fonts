@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sd-mi-saeng",
+    "description": "sd-mi-saeng - 미생체 - 나는 더이상 에너지를 쏟지 않기로 했다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sd-mi-saeng",
+        "미생체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/62",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sd-mi-saeng"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

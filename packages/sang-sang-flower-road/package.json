@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sang-sang-flower-road",
+    "description": "sang-sang-flower-road - 꽃길 - 사방간데 넘실대는 꽃길처럼",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sang-sang-flower-road",
+        "꽃길"
+    ],
+    "homepage": "https://noonnu.cc/font_page/91",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sang-sang-flower-road"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

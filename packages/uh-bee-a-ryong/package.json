@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-a-ryong",
+    "description": "uh-bee-a-ryong - 어비 아롱체 - 갑작스레 추워진 날씨는 뼈 속까지 스미었다.",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-a-ryong",
+        "어비 아롱체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/133",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-a-ryong"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

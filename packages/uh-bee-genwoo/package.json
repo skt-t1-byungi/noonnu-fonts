@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-genwoo",
+    "description": "uh-bee-genwoo - 어비 뒤죽박죽체 - 폰트가 너무 많아서 혼란스럽다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-genwoo",
+        "어비 뒤죽박죽체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/147",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-genwoo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

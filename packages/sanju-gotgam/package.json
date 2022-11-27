@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sanju-gotgam",
+    "description": "sanju-gotgam - 상주곶감체 - 곶감은 반건조가 맛있지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sanju-gotgam",
+        "상주곶감체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/786",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sanju-gotgam"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

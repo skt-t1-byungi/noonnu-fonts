@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-minidori",
+    "description": "uh-bee-minidori - 어비 미니도리체 - 바다는 들어가는 것보다 보는게 더 좋아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-minidori",
+        "어비 미니도리체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/173",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-minidori"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

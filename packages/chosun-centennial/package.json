@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chosun-centennial",
+    "description": "chosun-centennial - 조선100년체 - 1920년대 지면의 글꼴",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "chosun-centennial",
+        "조선100년체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/937",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chosun-centennial"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

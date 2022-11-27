@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ko-pub-batang",
+    "description": "ko-pub-batang - KoPub바탕 - 나는 펜의 사각거리는 소리가 참 좋았어",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ko-pub-batang",
+        "KoPub바탕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/32",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ko-pub-batang"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

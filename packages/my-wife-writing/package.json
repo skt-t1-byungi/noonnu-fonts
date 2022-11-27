@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/my-wife-writing",
+    "description": "my-wife-writing - 나의 아내 손글씨 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "my-wife-writing",
+        "나의 아내 손글씨"
+    ],
+    "homepage": "https://noonnu.cc/font_page/577",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/my-wife-writing"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

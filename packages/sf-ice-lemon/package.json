@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sf-ice-lemon",
+    "description": "sf-ice-lemon - 레몬빙수 - 레몬빙수 상큼하고 맛있겠네",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sf-ice-lemon",
+        "레몬빙수"
+    ],
+    "homepage": "https://noonnu.cc/font_page/691",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sf-ice-lemon"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

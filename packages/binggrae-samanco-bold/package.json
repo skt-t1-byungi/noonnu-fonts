@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/binggrae-samanco-bold",
+    "description": "binggrae-samanco-bold - 빙그레 싸만코체 - 온 가족이 좋아하는 팥 아이스크림",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "binggrae-samanco-bold",
+        "빙그레 싸만코체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/461",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/binggrae-samanco-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/goseonggeumgangnuri",
+    "description": "goseonggeumgangnuri - 고성금강누리체 - 너무 많은 걸 바라면 아무것도 얻을 수가 없어",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "goseonggeumgangnuri",
+        "고성금강누리체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/890",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/goseonggeumgangnuri"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

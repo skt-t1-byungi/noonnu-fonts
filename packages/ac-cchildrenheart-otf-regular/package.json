@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ac-cchildrenheart-otf-regular",
+    "description": "ac-cchildrenheart-otf-regular - ACC 어린이 마음고운체 - 순진하다는건 칭찬이 아니다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ac-cchildrenheart-otf-regular",
+        "ACC 어린이 마음고운체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/788",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ac-cchildrenheart-otf-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

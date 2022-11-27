@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ef-cucumbersalad",
+    "description": "ef-cucumbersalad - 오이냉체 - 기이일쭉한 오오이 같은 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ef-cucumbersalad",
+        "오이냉체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1030",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ef-cucumbersalad"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-kang-ja",
+    "description": "uh-bee-kang-ja - 어비 깡자체 - 따뜻한 물에 몸을 담그고 잠시 눈을 감았다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-kang-ja",
+        "어비 깡자체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/166",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-kang-ja"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

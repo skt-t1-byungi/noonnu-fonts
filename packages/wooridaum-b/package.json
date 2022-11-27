@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/wooridaum-b",
+    "description": "wooridaum-b - 우리다움체 - 우리다움, 나다움이라는게 뭘까",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "wooridaum-b",
+        "우리다움체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/910",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/wooridaum-b"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

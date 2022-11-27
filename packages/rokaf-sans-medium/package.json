@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/rokaf-sans-medium",
+    "description": "rokaf-sans-medium - 바른공군체 - 뭘 만들어먹으면 뿌듯하더라",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "rokaf-sans-medium",
+        "바른공군체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/849",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/rokaf-sans-medium"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

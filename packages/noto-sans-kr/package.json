@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/noto-sans-kr",
+    "description": "noto-sans-kr - 본고딕 (Noto Sans) - 니편내편이 어딨어 세상 다 혼자 사는거지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "noto-sans-kr",
+        "본고딕 (Noto Sans)"
+    ],
+    "homepage": "https://noonnu.cc/font_page/34",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/noto-sans-kr"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

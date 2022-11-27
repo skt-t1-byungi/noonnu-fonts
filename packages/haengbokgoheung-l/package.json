@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/haengbokgoheung-l",
+    "description": "haengbokgoheung-l - 행복고흥 - 지붕없는 미술관 고흥",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "haengbokgoheung-l",
+        "행복고흥"
+    ],
+    "homepage": "https://noonnu.cc/font_page/331",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/haengbokgoheung-l"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

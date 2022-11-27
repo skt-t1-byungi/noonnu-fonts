@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/nanum-brush-script",
+    "description": "nanum-brush-script - 나눔손글씨붓 - 눈치 안보는 척하는 것도 눈치인 거야",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "nanum-brush-script",
+        "나눔손글씨붓"
+    ],
+    "homepage": "https://noonnu.cc/font_page/43",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/nanum-brush-script"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

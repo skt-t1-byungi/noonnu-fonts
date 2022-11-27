@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/mapo-dppa",
+    "description": "mapo-dppa - 마포당인리발전소 - 당인리 발전소 굴뚝 레터링",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "mapo-dppa",
+        "마포당인리발전소"
+    ],
+    "homepage": "https://noonnu.cc/font_page/380",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/mapo-dppa"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

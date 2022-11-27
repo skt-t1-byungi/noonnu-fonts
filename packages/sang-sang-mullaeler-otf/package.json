@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sang-sang-mullaeler-otf",
+    "description": "sang-sang-mullaeler-otf - 문래러 - 손글씨가 정말 많아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sang-sang-mullaeler-otf",
+        "문래러"
+    ],
+    "homepage": "https://noonnu.cc/font_page/862",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sang-sang-mullaeler-otf"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

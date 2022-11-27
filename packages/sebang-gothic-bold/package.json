@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sebang-gothic-bold",
+    "description": "sebang-gothic-bold - 세방고딕 - 날씨가 좋으면 도시락 싸서 공원 가고 싶다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sebang-gothic-bold",
+        "세방고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/656",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sebang-gothic-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

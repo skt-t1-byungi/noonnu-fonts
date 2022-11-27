@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/round-destiny",
+    "description": "round-destiny - 둥근인연 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "round-destiny",
+        "둥근인연"
+    ],
+    "homepage": "https://noonnu.cc/font_page/587",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/round-destiny"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

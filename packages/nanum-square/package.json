@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/nanum-square",
+    "description": "nanum-square - 나눔스퀘어 - 너도 떠나보면 나를 알게 될거야",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "nanum-square",
+        "나눔스퀘어"
+    ],
+    "homepage": "https://noonnu.cc/font_page/37",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/nanum-square"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

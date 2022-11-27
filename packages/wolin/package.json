@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/wolin",
+    "description": "wolin - 월인석보체 - 옛말 맞는 거 하나도 없더라",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "wolin",
+        "월인석보체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/107",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/wolin"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

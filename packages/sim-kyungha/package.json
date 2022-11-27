@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sim-kyungha",
+    "description": "sim-kyungha - 심경하체 - 사람들에게 인정받고 싶다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sim-kyungha",
+        "심경하체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/873",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sim-kyungha"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Nanum Gothic Coding';
+    font-style: normal;
+    font-weight: 400;
+    src: url(./fonts/nanum-gothic-coding-400.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Nanum Gothic Coding';
+    font-style: normal;
+    font-weight: 700;
+    src: url(./fonts/nanum-gothic-coding-700.ttf) format('truetype');
+}

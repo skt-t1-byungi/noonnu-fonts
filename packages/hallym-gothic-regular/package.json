@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hallym-gothic-regular",
+    "description": "hallym-gothic-regular - 한림고딕체 - 따뜻한 봄이 지나가고 있다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "hallym-gothic-regular",
+        "한림고딕체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/877",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hallym-gothic-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

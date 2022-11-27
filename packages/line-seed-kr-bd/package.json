@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/line-seed-kr-bd",
+    "description": "line-seed-kr-bd - LINE Seed - 라인의 첫 글꼴",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "line-seed-kr-bd",
+        "LINE Seed"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1050",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/line-seed-kr-bd"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

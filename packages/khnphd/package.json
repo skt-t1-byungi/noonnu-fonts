@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/khnphd",
+    "description": "khnphd - 한수원 한돋움체 - 아침 잘 챙겨먹고 다녀",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "khnphd",
+        "한수원 한돋움체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/9",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/khnphd"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

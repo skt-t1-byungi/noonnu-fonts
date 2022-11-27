@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/mapo-dacapo",
+    "description": "mapo-dacapo - 마포다카포 - 눈누 폰트 올리는거 좀 귀찮긴 하지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "mapo-dacapo",
+        "마포다카포"
+    ],
+    "homepage": "https://noonnu.cc/font_page/379",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/mapo-dacapo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

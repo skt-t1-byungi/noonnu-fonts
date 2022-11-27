@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/maru-buri-regular",
+    "description": "maru-buri-regular - 마루 부리 - 명조체의 돌기인 마루 부리",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "maru-buri-regular",
+        "마루 부리"
+    ],
+    "homepage": "https://noonnu.cc/font_page/487",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/maru-buri-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

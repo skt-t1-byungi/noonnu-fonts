@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gangwon-edu-saeeum-otf-medium-a",
+    "description": "gangwon-edu-saeeum-otf-medium-a - 강원교육새음체 - 폰트는 왜 이렇게 많이 나올까",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gangwon-edu-saeeum-otf-medium-a",
+        "강원교육새음체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/806",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gangwon-edu-saeeum-otf-medium-a"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

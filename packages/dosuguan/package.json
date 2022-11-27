@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/dosuguan",
+    "description": "dosuguan - 도서관체 - 다 먹고 살자고 하는 일인데",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "dosuguan",
+        "도서관체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/87",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/dosuguan"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

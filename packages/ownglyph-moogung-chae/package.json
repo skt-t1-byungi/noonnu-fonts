@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ownglyph-moogung-chae",
+    "description": "ownglyph-moogung-chae - 온글잎 무궁체 - 열심히 사는 것과 잘 사는것은 비례하지 않다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ownglyph-moogung-chae",
+        "온글잎 무궁체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/861",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ownglyph-moogung-chae"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'MonoplexKRWideNerd-BoldItalic';
+    src: url('./fonts/monoplexkrwidenerd-bolditalic-700.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}

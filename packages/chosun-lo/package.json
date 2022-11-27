@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chosun-lo",
+    "description": "chosun-lo - 조선로고체 - 이걸로 조선일보쓰면 조선일보 로고",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "chosun-lo",
+        "조선로고체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/417",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chosun-lo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

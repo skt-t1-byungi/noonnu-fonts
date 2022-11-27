@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bohyun",
+    "description": "bohyun - 온글잎 보현체 - 얼그레이스콘은 달달",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "bohyun",
+        "온글잎 보현체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/662",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bohyun"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

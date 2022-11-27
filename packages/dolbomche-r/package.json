@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/dolbomche-r",
+    "description": "dolbomche-r - 문화재돌봄체 - 문화재청은 문화재를 돌봅니다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "dolbomche-r",
+        "문화재돌봄체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/653",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/dolbomche-r"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/wolyeonggyo",
+    "description": "wolyeonggyo - 월영교체 - 국내에서 가장 긴 목책 인도교인 월영교",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "wolyeonggyo",
+        "월영교체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/398",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/wolyeonggyo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

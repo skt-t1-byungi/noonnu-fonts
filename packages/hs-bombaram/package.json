@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hs-bombaram",
+    "description": "hs-bombaram - HS봄바람체 2.0 - 꽃송이가 꽃송이가 그래 그래 피었네",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "hs-bombaram",
+        "HS봄바람체 2.0"
+    ],
+    "homepage": "https://noonnu.cc/font_page/45",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hs-bombaram"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

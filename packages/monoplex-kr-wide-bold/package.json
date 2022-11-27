@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/monoplex-kr-wide-bold",
+    "description": "monoplex-kr-wide-bold - 모노플렉스Wide - IBM Plex 폰트를 활용한 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "monoplex-kr-wide-bold",
+        "모노플렉스Wide"
+    ],
+    "homepage": "https://noonnu.cc/font_page/997",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/monoplex-kr-wide-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

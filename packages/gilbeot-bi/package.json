@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gilbeot-bi",
+    "description": "gilbeot-bi - 길벗체 BI - 주말에 회사일 하지말자",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gilbeot-bi",
+        "길벗체 BI"
+    ],
+    "homepage": "https://noonnu.cc/font_page/779",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gilbeot-bi"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

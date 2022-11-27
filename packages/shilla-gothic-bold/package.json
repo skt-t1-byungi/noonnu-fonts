@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/shilla-gothic-bold",
+    "description": "shilla-gothic-bold - 신라고딕체 - 푹신푹신 달달한 카스테라",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "shilla-gothic-bold",
+        "신라고딕체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/954",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/shilla-gothic-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

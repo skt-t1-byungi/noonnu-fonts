@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/cafe24-danjunghae",
+    "description": "cafe24-danjunghae - 카페24 단정해 - 겨울에는 슈크림 붕어빵이 맛있지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "cafe24-danjunghae",
+        "카페24 단정해"
+    ],
+    "homepage": "https://noonnu.cc/font_page/340",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/cafe24-danjunghae"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

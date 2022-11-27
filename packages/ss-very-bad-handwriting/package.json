@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ss-very-bad-handwriting",
+    "description": "ss-very-bad-handwriting - 순악필여사 - 하루에 끝에 하이볼 한잔 좋아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ss-very-bad-handwriting",
+        "순악필여사"
+    ],
+    "homepage": "https://noonnu.cc/font_page/865",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ss-very-bad-handwriting"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

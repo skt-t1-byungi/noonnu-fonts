@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-beeyoongdi",
+    "description": "uh-beeyoongdi - 어비 융디체 - 카펫에 누워있으니 포근한 느낌이었다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-beeyoongdi",
+        "어비 융디체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/206",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-beeyoongdi"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

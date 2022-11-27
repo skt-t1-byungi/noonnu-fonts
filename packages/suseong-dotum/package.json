@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/suseong-dotum",
+    "description": "suseong-dotum - 수성돋움체 - 탄산음료는 마실때 목이 따가워",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "suseong-dotum",
+        "수성돋움체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/906",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/suseong-dotum"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

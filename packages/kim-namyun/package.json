@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kim-namyun",
+    "description": "kim-namyun - 김남윤체 - 변화는 당신으로부터 이루어져요",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kim-namyun",
+        "김남윤체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/22",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kim-namyun"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

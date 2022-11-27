@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/happiness-sans-bold",
+    "description": "happiness-sans-bold - 해피니스 산스 - 빠른 음악을 들어야 일이 빨리 돼",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "happiness-sans-bold",
+        "해피니스 산스"
+    ],
+    "homepage": "https://noonnu.cc/font_page/900",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/happiness-sans-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

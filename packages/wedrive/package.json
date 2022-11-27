@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/wedrive",
+    "description": "wedrive - 위드라이브 전용서체 - 나도 운전을 해보고 싶다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "wedrive",
+        "위드라이브 전용서체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/963",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/wedrive"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

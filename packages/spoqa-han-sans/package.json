@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/spoqa-han-sans",
+    "description": "spoqa-han-sans - 스포카 한 산스 - 미니언은 참 귀여운 거같아. 그렇지?",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "spoqa-han-sans",
+        "스포카 한 산스"
+    ],
+    "homepage": "https://noonnu.cc/font_page/25",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/spoqa-han-sans"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

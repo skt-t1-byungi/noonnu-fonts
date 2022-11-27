@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/insungit-cutelivelyjisu",
+    "description": "insungit-cutelivelyjisu - 귀염발랄체 - 바다를 헤엄치는 물고기처럼",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "insungit-cutelivelyjisu",
+        "귀염발랄체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1049",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/insungit-cutelivelyjisu"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

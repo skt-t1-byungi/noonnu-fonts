@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/mice-myungjo",
+    "description": "mice-myungjo - MICE명조 - 가지를 쳐서 물꽂이를 해보자",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "mice-myungjo",
+        "MICE명조"
+    ],
+    "homepage": "https://noonnu.cc/font_page/934",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/mice-myungjo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/deogon-princess-classic",
+    "description": "deogon-princess-classic - 덕온공주옛체 - 바다 앞에서 멍때리면서 쉬고 싶다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "deogon-princess-classic",
+        "덕온공주옛체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/886",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/deogon-princess-classic"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

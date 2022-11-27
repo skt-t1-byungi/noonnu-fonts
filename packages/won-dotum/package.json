@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/won-dotum",
+    "description": "won-dotum - 한둥근돋움 - 포기는 배추 셀 때나 쓰는 말이지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "won-dotum",
+        "한둥근돋움"
+    ],
+    "homepage": "https://noonnu.cc/font_page/20",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/won-dotum"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

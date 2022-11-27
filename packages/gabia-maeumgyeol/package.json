@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gabia-maeumgyeol",
+    "description": "gabia-maeumgyeol - 가비아 마음결체 - 너가 행복하면 된거지 그게 중요해",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gabia-maeumgyeol",
+        "가비아 마음결체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/889",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gabia-maeumgyeol"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chosunilbo-myungjo",
+    "description": "chosunilbo-myungjo - 조선일보명조체 - 신문을 나는 냄새로 읽어",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "chosunilbo-myungjo",
+        "조선일보명조체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/63",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chosunilbo-myungjo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

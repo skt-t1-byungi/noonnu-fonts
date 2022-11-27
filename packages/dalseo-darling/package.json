@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/dalseo-darling",
+    "description": "dalseo-darling - 달서달링체 - 식물이 무럭무럭 자라는 하루",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "dalseo-darling",
+        "달서달링체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/957",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/dalseo-darling"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

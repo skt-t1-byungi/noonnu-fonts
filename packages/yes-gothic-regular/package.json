@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yes-gothic-regular",
+    "description": "yes-gothic-regular - 예스 고딕 - 책을 꾸준히 읽는 사람이 되자",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "yes-gothic-regular",
+        "예스 고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/404",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yes-gothic-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

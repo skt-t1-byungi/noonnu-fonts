@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/healthset-gothic-light",
+    "description": "healthset-gothic-light - 헬스셋 고딕체 - 운동도 하고 그래야지 계속 앉아만 있으면 안돼",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "healthset-gothic-light",
+        "헬스셋 고딕체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/126",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/healthset-gothic-light"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

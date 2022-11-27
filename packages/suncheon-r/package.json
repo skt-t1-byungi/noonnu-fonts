@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/suncheon-r",
+    "description": "suncheon-r - 순천체 - 식물이 나에게 힘을 많이 준다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "suncheon-r",
+        "순천체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/875",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/suncheon-r"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

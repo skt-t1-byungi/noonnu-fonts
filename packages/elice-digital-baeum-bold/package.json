@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/elice-digital-baeum-bold",
+    "description": "elice-digital-baeum-bold - 엘리스 디지털코딩체 - puts \"Hello #{@name}!\"",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "elice-digital-baeum-bold",
+        "엘리스 디지털코딩체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/920",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/elice-digital-baeum-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

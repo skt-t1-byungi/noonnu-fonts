@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/jeonju-sun-r",
+    "description": "jeonju-sun-r - 전주완판본 순체 - 얼음이 도르륵하고 떨어진다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "jeonju-sun-r",
+        "전주완판본 순체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/857",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/jeonju-sun-r"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

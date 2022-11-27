@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gilbeot-rainbow",
+    "description": "gilbeot-rainbow - 길벗체 Rainbow - 알록달록한 폰트인데.. 여기서는 색이 안나와..",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gilbeot-rainbow",
+        "길벗체 Rainbow"
+    ],
+    "homepage": "https://noonnu.cc/font_page/780",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gilbeot-rainbow"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

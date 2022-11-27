@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ef-nuly",
+    "description": "ef-nuly - 널리고딕 - 코로나가 다 끝난것처럼 느껴진다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ef-nuly",
+        "널리고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/929",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ef-nuly"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

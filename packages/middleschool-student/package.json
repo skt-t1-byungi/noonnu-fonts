@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/middleschool-student",
+    "description": "middleschool-student - 중학생 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "middleschool-student",
+        "중학생"
+    ],
+    "homepage": "https://noonnu.cc/font_page/570",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/middleschool-student"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

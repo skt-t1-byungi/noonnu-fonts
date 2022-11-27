@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gukripbakmulgwanmunhwajaedankeulraesik-b",
+    "description": "gukripbakmulgwanmunhwajaedankeulraesik-b - 박물관문화재단클래식 - 고풍스러운 글씨체",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gukripbakmulgwanmunhwajaedankeulraesik-b",
+        "박물관문화재단클래식"
+    ],
+    "homepage": "https://noonnu.cc/font_page/326",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gukripbakmulgwanmunhwajaedankeulraesik-b"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

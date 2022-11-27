@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yak",
+    "description": "yak - 안될과학 약체 - 균형을 잡으려면 계속 움직여야 해",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "yak",
+        "안될과학 약체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/917",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yak"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

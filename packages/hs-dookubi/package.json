@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hs-dookubi",
+    "description": "hs-dookubi - HS두꺼비체 - 오늘의 할 일을 내일로 미루자",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "hs-dookubi",
+        "HS두꺼비체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/86",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hs-dookubi"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

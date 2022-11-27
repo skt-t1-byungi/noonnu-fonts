@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hs-yuji-regular",
+    "description": "hs-yuji-regular - HS유지체 - 유지하는게 제일 어렵다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "hs-yuji-regular",
+        "HS유지체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/737",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hs-yuji-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

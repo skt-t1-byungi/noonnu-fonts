@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/okddung",
+    "description": "okddung - 읏뚱체 - 운동도 많이 해야하는데",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "okddung",
+        "읏뚱체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/946",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/okddung"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

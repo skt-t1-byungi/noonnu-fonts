@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yoon-childfundkorea",
+    "description": "yoon-childfundkorea - 윤초록우산어린이 - 초록우산 어린이재단이 공동 기획한 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "yoon-childfundkorea",
+        "윤초록우산어린이"
+    ],
+    "homepage": "https://noonnu.cc/font_page/354",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yoon-childfundkorea"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/leferi-point-black-oblique-a",
+    "description": "leferi-point-black-oblique-a - 레페리포인트 Oblique - 열심히 산다는게 다 좋은건 아니다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "leferi-point-black-oblique-a",
+        "레페리포인트 Oblique"
+    ],
+    "homepage": "https://noonnu.cc/font_page/819",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/leferi-point-black-oblique-a"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

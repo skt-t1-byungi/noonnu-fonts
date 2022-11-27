@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ef-macho",
+    "description": "ef-macho - 마초체 - 벌써 여름이 다 되서 봄옷을 못입어",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ef-macho",
+        "마초체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/928",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ef-macho"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

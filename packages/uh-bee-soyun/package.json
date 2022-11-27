@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-soyun",
+    "description": "uh-bee-soyun - 어비 소윤체 - 소연이라는 이름은 꽤나 흔한 이름이다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-soyun",
+        "어비 소윤체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/192",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-soyun"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

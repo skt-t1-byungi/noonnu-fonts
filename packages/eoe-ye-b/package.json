@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/eoe-ye-b",
+    "description": "eoe-ye-b - 남양주다산 - 정약용은 조선의 실학자다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "eoe-ye-b",
+        "남양주다산"
+    ],
+    "homepage": "https://noonnu.cc/font_page/298",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/eoe-ye-b"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

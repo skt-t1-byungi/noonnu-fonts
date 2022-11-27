@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/tmon-monsori",
+    "description": "tmon-monsori - 티몬체 - 뭔소리 하는건지 나도 몰라",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "tmon-monsori",
+        "티몬체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/72",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/tmon-monsori"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

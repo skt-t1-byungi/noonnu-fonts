@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/tmoney-round-wind-extra-bold",
+    "description": "tmoney-round-wind-extra-bold - 티머니 둥근바람 - 티머니와 바람만 있으면 어디든 갈 수 있어",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "tmoney-round-wind-extra-bold",
+        "티머니 둥근바람"
+    ],
+    "homepage": "https://noonnu.cc/font_page/458",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/tmoney-round-wind-extra-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

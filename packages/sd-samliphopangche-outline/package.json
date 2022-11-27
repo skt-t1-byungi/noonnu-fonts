@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sd-samliphopangche-outline",
+    "description": "sd-samliphopangche-outline - 산돌 삼립호빵체 Outline - 나는 야채호빵보다 피자호빵이 좋아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sd-samliphopangche-outline",
+        "산돌 삼립호빵체 Outline"
+    ],
+    "homepage": "https://noonnu.cc/font_page/508",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sd-samliphopangche-outline"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

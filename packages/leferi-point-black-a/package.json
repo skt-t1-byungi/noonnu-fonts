@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/leferi-point-black-a",
+    "description": "leferi-point-black-a - 레페리포인트 - 밤이 되면 생각이 많아진다.",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "leferi-point-black-a",
+        "레페리포인트"
+    ],
+    "homepage": "https://noonnu.cc/font_page/818",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/leferi-point-black-a"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

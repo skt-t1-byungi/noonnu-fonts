@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/han-yong-un",
+    "description": "han-yong-un - 한용운체 - 독립운동가의 글씨체를 내 손으로",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "han-yong-un",
+        "한용운체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/368",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/han-yong-un"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

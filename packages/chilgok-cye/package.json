@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chilgok-cye",
+    "description": "chilgok-cye - 칠곡할매 추유을체 - 아기자기 귀여운 할머니의 글씨",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "chilgok-cye",
+        "칠곡할매 추유을체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/681",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chilgok-cye"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

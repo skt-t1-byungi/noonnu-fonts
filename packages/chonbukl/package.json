@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chonbukl",
+    "description": "chonbukl - 전라북도체 - 넌 머지않아 예쁜 꽃이 될거니까",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "chonbukl",
+        "전라북도체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/57",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chonbukl"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

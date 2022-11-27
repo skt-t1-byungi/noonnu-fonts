@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'SungDongGothic';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./fonts/sungdonggothic-700.woff2') format('woff2'), url('./fonts/sungdonggothic-700.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SungDongGothic';
+    font-style: normal;
+    font-weight: 800;
+    src: url('./fonts/sungdonggothic-800.woff2') format('woff2'), url('./fonts/sungdonggothic-800.woff') format('woff');
+}
+
+.sungdonggothic * {
+    font-family: 'SungDongGothic', sans-serif;
+}

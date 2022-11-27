@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chosun-bg",
+    "description": "chosun-bg - 조선견고딕 - 견고해보이는 견고딕",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "chosun-bg",
+        "조선견고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/414",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chosun-bg"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

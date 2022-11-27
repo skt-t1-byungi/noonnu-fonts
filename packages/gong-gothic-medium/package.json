@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gong-gothic-medium",
+    "description": "gong-gothic-medium - 이사만루 - 여러분은 어떤 야구팀을 좋아하시나요",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gong-gothic-medium",
+        "이사만루"
+    ],
+    "homepage": "https://noonnu.cc/font_page/463",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gong-gothic-medium"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

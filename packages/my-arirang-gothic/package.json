@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/my-arirang-gothic",
+    "description": "my-arirang-gothic - 밀양아리랑고딕체 - 밀양 여행도 재밌으려나",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "my-arirang-gothic",
+        "밀양아리랑고딕체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/941",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/my-arirang-gothic"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/lee-seoyun",
+    "description": "lee-seoyun - 이서윤체 - 변한다는게 항상 나쁜건 아니지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "lee-seoyun",
+        "이서윤체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/872",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/lee-seoyun"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

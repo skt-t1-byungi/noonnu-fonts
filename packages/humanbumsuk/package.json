@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/humanbumsuk",
+    "description": "humanbumsuk - 휴먼범석체 - 빙글빙글 돌아가는 이 세상",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "humanbumsuk",
+        "휴먼범석체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1039",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/humanbumsuk"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

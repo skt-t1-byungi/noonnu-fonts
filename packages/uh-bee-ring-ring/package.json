@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-ring-ring",
+    "description": "uh-bee-ring-ring - 어비 링링체 - 링딩동링딩동 링디기딩디기딩딩딩 링딩동링딩동",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-ring-ring",
+        "어비 링링체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/185",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-ring-ring"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

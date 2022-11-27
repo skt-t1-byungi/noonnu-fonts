@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/galmuri11",
+    "description": "galmuri11 - 갈무리11 - 졸린데 너무 할일이 많아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "galmuri11",
+        "갈무리11"
+    ],
+    "homepage": "https://noonnu.cc/font_page/801",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/galmuri11"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

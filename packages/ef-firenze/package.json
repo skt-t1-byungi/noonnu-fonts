@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ef-firenze",
+    "description": "ef-firenze - 피렌체 - 피렌체는 한번도 안가봤다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ef-firenze",
+        "피렌체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1031",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ef-firenze"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

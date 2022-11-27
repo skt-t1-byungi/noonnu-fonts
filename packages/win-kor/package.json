@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/win-kor",
+    "description": "win-kor - 윈도한글 - 날씨가 맑으면 좋지만 더워",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "win-kor",
+        "윈도한글"
+    ],
+    "homepage": "https://noonnu.cc/font_page/956",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/win-kor"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

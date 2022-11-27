@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/monoplex-kr-wide-nerd-bold",
+    "description": "monoplex-kr-wide-nerd-bold - 모노플렉스WideNerd - IBM Plex 폰트를 활용한 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "monoplex-kr-wide-nerd-bold",
+        "모노플렉스WideNerd"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1013",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/monoplex-kr-wide-nerd-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

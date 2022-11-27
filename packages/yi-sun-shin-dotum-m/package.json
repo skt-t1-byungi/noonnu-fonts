@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yi-sun-shin-dotum-m",
+    "description": "yi-sun-shin-dotum-m - 이순신돋움체 - 하늘 아래 초록이 예쁘더라",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "yi-sun-shin-dotum-m",
+        "이순신돋움체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/66",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yi-sun-shin-dotum-m"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

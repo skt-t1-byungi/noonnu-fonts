@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/happy-dobi",
+    "description": "happy-dobi - 행복한 도비 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "happy-dobi",
+        "행복한 도비"
+    ],
+    "homepage": "https://noonnu.cc/font_page/548",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/happy-dobi"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

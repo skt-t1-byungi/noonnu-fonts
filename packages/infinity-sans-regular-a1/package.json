@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/infinity-sans-regular-a1",
+    "description": "infinity-sans-regular-a1 - 인피니티산스 - 여행가고 싶습니다... 노모어 코로나",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "infinity-sans-regular-a1",
+        "인피니티산스"
+    ],
+    "homepage": "https://noonnu.cc/font_page/426",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/infinity-sans-regular-a1"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

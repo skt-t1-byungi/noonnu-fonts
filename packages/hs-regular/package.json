@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hs-regular",
+    "description": "hs-regular - HS산토끼체 - 산토끼 토끼야 어디를 가느냐",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "hs-regular",
+        "HS산토끼체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/809",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hs-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

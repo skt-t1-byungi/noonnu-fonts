@@ -1,0 +1,30 @@
+/*
+ * KoPub Batang (Korean) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+    font-family: 'KoPub Batang';
+    font-style: normal;
+    font-weight: 300;
+    src: url(./fonts/kopub-batang-300.eot);
+    src: url(./fonts/kopub-batang-300.eot) format('embedded-opentype'),
+        url(./fonts/kopub-batang-300.woff2) format('woff2'), url(./fonts/kopub-batang-300.woff) format('woff'),
+        url(./fonts/kopub-batang-300.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'KoPub Batang';
+    font-style: normal;
+    font-weight: 400;
+    src: url(./fonts/kopub-batang-400.eot);
+    src: url(./fonts/kopub-batang-400.eot) format('embedded-opentype'),
+        url(./fonts/kopub-batang-400.woff2) format('woff2'), url(./fonts/kopub-batang-400.woff) format('woff'),
+        url(./fonts/kopub-batang-400.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'KoPub Batang';
+    font-style: normal;
+    font-weight: 700;
+    src: url(./fonts/kopub-batang-700.eot);
+    src: url(./fonts/kopub-batang-700.eot) format('embedded-opentype'),
+        url(./fonts/kopub-batang-700.woff2) format('woff2'), url(./fonts/kopub-batang-700.woff) format('woff'),
+        url(./fonts/kopub-batang-700.ttf) format('truetype');
+}

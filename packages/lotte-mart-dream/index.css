@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'LotteMartDream';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/lottemartdream-400.woff2') format('woff2'), url('./fonts/lottemartdream-400.woff') format('woff');
+}
+@font-face {
+    font-family: 'LotteMartDream';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./fonts/lottemartdream-700.woff2') format('woff2'), url('./fonts/lottemartdream-700.woff') format('woff');
+}
+@font-face {
+    font-family: 'LotteMartDream';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./fonts/lottemartdream-300.woff2') format('woff2'), url('./fonts/lottemartdream-300.woff') format('woff');
+}
+.lottemartdream * {
+    font-family: 'LotteMartDream', sans-serif;
+}

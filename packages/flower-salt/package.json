@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/flower-salt",
+    "description": "flower-salt - 꽃소금체 - 동글동글 귀여운 손글씨",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "flower-salt",
+        "꽃소금체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1036",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/flower-salt"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

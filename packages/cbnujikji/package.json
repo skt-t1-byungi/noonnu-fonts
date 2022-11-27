@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/cbnujikji",
+    "description": "cbnujikji - 충북대직지체 - 날씨가 좋지만 너무 추워서 집에 있을래",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "cbnujikji",
+        "충북대직지체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/853",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/cbnujikji"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

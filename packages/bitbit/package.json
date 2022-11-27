@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bitbit",
+    "description": "bitbit - 던파 비트비트체 - 붕어빵의 계절이 돌아왔다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "bitbit",
+        "던파 비트비트체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1043",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bitbit"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

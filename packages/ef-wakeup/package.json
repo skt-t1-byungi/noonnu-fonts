@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ef-wakeup",
+    "description": "ef-wakeup - 정신차렷체 - 옷 고르는거 너무 힘들어",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ef-wakeup",
+        "정신차렷체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/930",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ef-wakeup"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

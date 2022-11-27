@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/cafe24-ohsquareair",
+    "description": "cafe24-ohsquareair - 카페24 아네모네 에어 - 제목으로 쓰기 좋던 아네모네가 에어로도 나왔다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "cafe24-ohsquareair",
+        "카페24 아네모네 에어"
+    ],
+    "homepage": "https://noonnu.cc/font_page/852",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/cafe24-ohsquareair"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,12 @@
+/*
+ * Jeju Hallasan (Korean) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+    font-family: 'Jeju Hallasan';
+    font-style: normal;
+    font-weight: 400;
+    src: url(./fonts/jeju-hallasan-400.eot);
+    src: url(./fonts/jeju-hallasan-400.eot) format('embedded-opentype'),
+        url(./fonts/jeju-hallasan-400.woff2) format('woff2'), url(./fonts/jeju-hallasan-400.woff) format('woff'),
+        url(./fonts/jeju-hallasan-400.ttf) format('truetype');
+}

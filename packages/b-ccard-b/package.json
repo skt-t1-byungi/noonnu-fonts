@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/b-ccard-b",
+    "description": "b-ccard-b - 비씨카드 글꼴 - 혜택 많은 카드로 잘 선택하세요",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "b-ccard-b",
+        "비씨카드 글꼴"
+    ],
+    "homepage": "https://noonnu.cc/font_page/456",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/b-ccard-b"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

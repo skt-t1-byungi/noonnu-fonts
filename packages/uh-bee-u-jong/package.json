@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-u-jong",
+    "description": "uh-bee-u-jong - 어비 유종체 - 마지막엔 언제나 유종의 미를 거두자",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-u-jong",
+        "어비 유종체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/198",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-u-jong"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sangju-haerye",
+    "description": "sangju-haerye - 상주해례본체 - 해례본 서체를 본떠 만든 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sangju-haerye",
+        "상주해례본체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/785",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sangju-haerye"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

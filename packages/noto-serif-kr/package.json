@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/noto-serif-kr",
+    "description": "noto-serif-kr - 본명조 (Source Han Serif) - 5년 뒤의 난 뭘 하고 있을까?",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "noto-serif-kr",
+        "본명조 (Source Han Serif)"
+    ],
+    "homepage": "https://noonnu.cc/font_page/35",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/noto-serif-kr"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/hangeul-nuri-bold",
+    "description": "hangeul-nuri-bold - 한글누리체 - 배고프니까 일단 밥먹고 하자",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "hangeul-nuri-bold",
+        "한글누리체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/88",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/hangeul-nuri-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

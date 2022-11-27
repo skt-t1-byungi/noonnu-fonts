@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/nanum-gothic-coding",
+    "description": "nanum-gothic-coding - 나눔고딕코딩 - class Noonnu; end",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "nanum-gothic-coding",
+        "나눔고딕코딩"
+    ],
+    "homepage": "https://noonnu.cc/font_page/40",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/nanum-gothic-coding"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

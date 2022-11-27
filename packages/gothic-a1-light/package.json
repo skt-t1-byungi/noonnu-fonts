@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gothic-a1-light",
+    "description": "gothic-a1-light - Gothic A1 - 내 마음을 내가 챙겨야지 누가 챙겨줘",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gothic-a1-light",
+        "Gothic A1"
+    ],
+    "homepage": "https://noonnu.cc/font_page/891",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gothic-a1-light"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

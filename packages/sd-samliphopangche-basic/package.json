@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sd-samliphopangche-basic",
+    "description": "sd-samliphopangche-basic - 산돌 삼립호빵체 Basic - 겨울에는 따뜻한 호빵",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sd-samliphopangche-basic",
+        "산돌 삼립호빵체 Basic"
+    ],
+    "homepage": "https://noonnu.cc/font_page/507",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sd-samliphopangche-basic"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

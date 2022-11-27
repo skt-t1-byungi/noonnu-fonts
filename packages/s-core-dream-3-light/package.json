@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/s-core-dream-3-light",
+    "description": "s-core-dream-3-light - 에스코어드림 - 샐러드를 먹으면 빨리 배고파져",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "s-core-dream-3-light",
+        "에스코어드림"
+    ],
+    "homepage": "https://noonnu.cc/font_page/223",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/s-core-dream-3-light"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

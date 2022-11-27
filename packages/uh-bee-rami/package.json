@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-rami",
+    "description": "uh-bee-rami - 어비 라미체 - 큼직큼직하게 글씨를 씁니다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-rami",
+        "어비 라미체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/183",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-rami"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

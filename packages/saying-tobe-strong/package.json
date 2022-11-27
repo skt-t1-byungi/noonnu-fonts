@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/saying-tobe-strong",
+    "description": "saying-tobe-strong - 힘내라는 말보단 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "saying-tobe-strong",
+        "힘내라는 말보단"
+    ],
+    "homepage": "https://noonnu.cc/font_page/589",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/saying-tobe-strong"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

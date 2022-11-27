@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bm-euljirooraeorae",
+    "description": "bm-euljirooraeorae - 을지로오래오래체 - 눈누친구들 오래오래보자",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "bm-euljirooraeorae",
+        "을지로오래오래체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/751",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bm-euljirooraeorae"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/tdtd-tadak-tadak",
+    "description": "tdtd-tadak-tadak - 타닥타닥체 - 타닥타닥이 눈누를 후원합니다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "tdtd-tadak-tadak",
+        "타닥타닥체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/325",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/tdtd-tadak-tadak"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

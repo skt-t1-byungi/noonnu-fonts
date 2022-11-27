@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bb-tree-gb",
+    "description": "bb-tree-gb - 유토이미지고딕 - 비가 주륵주륵 내리는 날엔 파전",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "bb-tree-gb",
+        "유토이미지고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/275",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bb-tree-gb"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/mapo-agape",
+    "description": "mapo-agape - 마포애민 - 눈누는 사랑, 그 자체입니다.",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "mapo-agape",
+        "마포애민"
+    ],
+    "homepage": "https://noonnu.cc/font_page/377",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/mapo-agape"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

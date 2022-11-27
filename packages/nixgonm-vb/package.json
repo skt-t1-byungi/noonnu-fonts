@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/nixgonm-vb",
+    "description": "nixgonm-vb - 닉스곤폰트 - 마지막 가는 길이 편했으면",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "nixgonm-vb",
+        "닉스곤폰트"
+    ],
+    "homepage": "https://noonnu.cc/font_page/219",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/nixgonm-vb"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

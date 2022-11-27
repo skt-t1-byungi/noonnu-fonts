@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gosanja",
+    "description": "gosanja - 고산자 - 대동여지도의 위대한 정신을 이어받아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gosanja",
+        "고산자"
+    ],
+    "homepage": "https://noonnu.cc/font_page/465",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gosanja"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

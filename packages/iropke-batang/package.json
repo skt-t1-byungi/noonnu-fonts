@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/iropke-batang",
+    "description": "iropke-batang - 이롭게바탕체 - 가볍고 미려한 이롭게 바탕체",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "iropke-batang",
+        "이롭게바탕체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/4",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/iropke-batang"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

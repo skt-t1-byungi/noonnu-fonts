@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/nexon-lv1-gothic-otf",
+    "description": "nexon-lv1-gothic-otf - 넥슨 Lv.1 고딕 - 진짜 깔끔하고 예쁜 고딕이다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "nexon-lv1-gothic-otf",
+        "넥슨 Lv.1 고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/432",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/nexon-lv1-gothic-otf"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

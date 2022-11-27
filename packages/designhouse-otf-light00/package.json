@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/designhouse-otf-light00",
+    "description": "designhouse-otf-light00 - 디자인하우스체 - 디자인 잘하고 싶다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "designhouse-otf-light00",
+        "디자인하우스체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/89",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/designhouse-otf-light00"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

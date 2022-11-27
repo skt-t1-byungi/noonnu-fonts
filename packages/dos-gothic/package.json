@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/dos-gothic",
+    "description": "dos-gothic - 도스고딕 - 뭔가 팩맨이라도 해야할것 같아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "dos-gothic",
+        "도스고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/239",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/dos-gothic"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

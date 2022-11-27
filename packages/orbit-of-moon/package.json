@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/orbit-of-moon",
+    "description": "orbit-of-moon - 달의궤도 - 네이버 클로바 AI가 만든 나눔손글씨 글꼴",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "orbit-of-moon",
+        "달의궤도"
+    ],
+    "homepage": "https://noonnu.cc/font_page/580",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/orbit-of-moon"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

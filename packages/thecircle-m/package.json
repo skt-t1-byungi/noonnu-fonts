@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/thecircle-m",
+    "description": "thecircle-m - 동그라미체 - 의식의 흐름이 절정에 달하였을 때",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "thecircle-m",
+        "동그라미체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/75",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/thecircle-m"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

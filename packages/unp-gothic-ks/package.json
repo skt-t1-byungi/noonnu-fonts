@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/unp-gothic-ks",
+    "description": "unp-gothic-ks - 유앤피플 고딕체 - 특별한 사람들이 함께하는 곳",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "unp-gothic-ks",
+        "유앤피플 고딕체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/399",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/unp-gothic-ks"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

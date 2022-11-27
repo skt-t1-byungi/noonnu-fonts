@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/87-mmilsang-regular",
+    "description": "87-mmilsang-regular - 팔칠엠엠 일상 보통 - 이제 천원으로도 사먹기 어려운 호떡과 계란빵",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "87-mmilsang-regular",
+        "팔칠엠엠 일상 보통"
+    ],
+    "homepage": "https://noonnu.cc/font_page/791",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/87-mmilsang-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

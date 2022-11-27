@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chungbuk-national-university-regular",
+    "description": "chungbuk-national-university-regular - 충북대70주년체 - 오후 세시쯤이 배부르고 제일 졸린 시간이다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "chungbuk-national-university-regular",
+        "충북대70주년체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/799",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chungbuk-national-university-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

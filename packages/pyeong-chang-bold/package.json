@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/pyeong-chang-bold",
+    "description": "pyeong-chang-bold - 평창체 - 사람은 왜 잠을 자야할까",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "pyeong-chang-bold",
+        "평창체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/948",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/pyeong-chang-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

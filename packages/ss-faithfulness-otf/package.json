@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ss-faithfulness-otf",
+    "description": "ss-faithfulness-otf - 금면성실 - 아직도 안끝났네 폰트 올리는게",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ss-faithfulness-otf",
+        "금면성실"
+    ],
+    "homepage": "https://noonnu.cc/font_page/864",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ss-faithfulness-otf"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

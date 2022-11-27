@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-keong-keong",
+    "description": "uh-bee-keong-keong - 어비 컹컹체 - 바나나는 노랗고 뉸도 노랗다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-keong-keong",
+        "어비 컹컹체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/167",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-keong-keong"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gimpo-gothic-regular00",
+    "description": "gimpo-gothic-regular00 - 김포평화고딕 - 낮시간엔 왠지 일하기 싫다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gimpo-gothic-regular00",
+        "김포평화고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/869",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gimpo-gothic-regular00"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

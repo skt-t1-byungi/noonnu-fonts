@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/windy-lavender",
+    "description": "windy-lavender - 윈디라벤더 - 바람이 춥게 부는 10월의 저녁",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "windy-lavender",
+        "윈디라벤더"
+    ],
+    "homepage": "https://noonnu.cc/font_page/209",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/windy-lavender"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ef-hyunygothic",
+    "description": "ef-hyunygothic - 혀니고딕 - 귀여운 가방을 사니까 기분이 좋다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ef-hyunygothic",
+        "혀니고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/926",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ef-hyunygothic"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

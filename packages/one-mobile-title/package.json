@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/one-mobile-title",
+    "description": "one-mobile-title - 원스토어 모바일고딕 제목체 - 고양이를 보면 기분이 좋다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "one-mobile-title",
+        "원스토어 모바일고딕 제목체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/678",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/one-mobile-title"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

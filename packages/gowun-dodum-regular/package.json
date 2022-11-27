@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gowun-dodum-regular",
+    "description": "gowun-dodum-regular - 고운돋움 - 편안하고 친근한 돋움",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gowun-dodum-regular",
+        "고운돋움"
+    ],
+    "homepage": "https://noonnu.cc/font_page/734",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gowun-dodum-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

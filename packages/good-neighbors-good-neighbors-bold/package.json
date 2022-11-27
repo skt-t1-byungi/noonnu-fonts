@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/good-neighbors-good-neighbors-bold",
+    "description": "good-neighbors-good-neighbors-bold - 좋은이웃체 - 세상은 작은 것으로부터 변한다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "good-neighbors-good-neighbors-bold",
+        "좋은이웃체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1047",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/good-neighbors-good-neighbors-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

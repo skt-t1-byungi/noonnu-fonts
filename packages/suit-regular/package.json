@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/suit-regular",
+    "description": "suit-regular - 수트 - 폰트 굵기가 진짜 다양하다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "suit-regular",
+        "수트"
+    ],
+    "homepage": "https://noonnu.cc/font_page/845",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/suit-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

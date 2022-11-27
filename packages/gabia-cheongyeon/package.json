@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gabia-cheongyeon",
+    "description": "gabia-cheongyeon - 가비아 청연체 - 집에 얼른 가고 싶다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gabia-cheongyeon",
+        "가비아 청연체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/888",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gabia-cheongyeon"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

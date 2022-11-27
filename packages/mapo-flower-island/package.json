@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/mapo-flower-island",
+    "description": "mapo-flower-island - 마포꽃섬 - 산들바람 흩날리는 마포꽃섬",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "mapo-flower-island",
+        "마포꽃섬"
+    ],
+    "homepage": "https://noonnu.cc/font_page/381",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/mapo-flower-island"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

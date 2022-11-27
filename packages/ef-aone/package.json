@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ef-aone",
+    "description": "ef-aone - A1 전용서체 - 팔랑팔랑한 느낌의 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ef-aone",
+        "A1 전용서체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1029",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ef-aone"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/twaysky",
+    "description": "twaysky - 티웨이하늘체 - 제주도 바다가 왠지 더 예쁜 듯",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "twaysky",
+        "티웨이하늘체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/651",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/twaysky"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/maplestory-otf-bold",
+    "description": "maplestory-otf-bold - 넥슨 메이플스토리 - 동글동글 귀여운 메이플스토리체",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "maplestory-otf-bold",
+        "넥슨 메이플스토리"
+    ],
+    "homepage": "https://noonnu.cc/font_page/427",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/maplestory-otf-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ebshmje-saeron-ra",
+    "description": "ebshmje-saeron-ra - EBS훈민정음새론체 - 새론은 새로운이라는 뜻이야",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ebshmje-saeron-ra",
+        "EBS훈민정음새론체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/77",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ebshmje-saeron-ra"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

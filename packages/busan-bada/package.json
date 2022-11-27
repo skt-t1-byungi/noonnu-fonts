@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/busan-bada",
+    "description": "busan-bada - 부산바다체 - 갈매기가 너울너울 날고있어요",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "busan-bada",
+        "부산바다체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/67",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/busan-bada"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/bmeuljiro",
+    "description": "bmeuljiro - 을지로체 - 을지로에서 많이 보이는 글씨체",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "bmeuljiro",
+        "을지로체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/321",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/bmeuljiro"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

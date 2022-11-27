@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/leferi-point-special-italic-a",
+    "description": "leferi-point-special-italic-a - 레페리포인트 Special Italic - 열심히 살면 다 좋은일이 있겠지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "leferi-point-special-italic-a",
+        "레페리포인트 Special Italic"
+    ],
+    "homepage": "https://noonnu.cc/font_page/821",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/leferi-point-special-italic-a"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

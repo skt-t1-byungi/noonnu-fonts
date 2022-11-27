@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/goyang-ilsan",
+    "description": "goyang-ilsan - 고양일산체 - 일산에는 킨텍스가 있다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "goyang-ilsan",
+        "고양일산체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/81",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/goyang-ilsan"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

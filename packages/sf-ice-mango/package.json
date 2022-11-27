@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/sf-ice-mango",
+    "description": "sf-ice-mango - 망고빙수 - 망고가 좋아서 망고빙수도 좋아",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "sf-ice-mango",
+        "망고빙수"
+    ],
+    "homepage": "https://noonnu.cc/font_page/692",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/sf-ice-mango"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

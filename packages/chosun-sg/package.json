@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/chosun-sg",
+    "description": "chosun-sg - 조선가는고딕 - 오늘 하루는 좀 지치는 하루였어",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "chosun-sg",
+        "조선가는고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/412",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/chosun-sg"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

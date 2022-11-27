@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/rix-inoo-ari-duri-r",
+    "description": "rix-inoo-ari-duri-r - Rix이누아리두리네 - 동글댕댕 멈머들 너무 귀여워",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "rix-inoo-ari-duri-r",
+        "Rix이누아리두리네"
+    ],
+    "homepage": "https://noonnu.cc/font_page/962",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/rix-inoo-ari-duri-r"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

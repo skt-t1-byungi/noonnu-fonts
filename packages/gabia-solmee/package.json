@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/gabia-solmee",
+    "description": "gabia-solmee - 가비아 솔미체 - 혼자 보내는 겨울은 많이 추웠다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "gabia-solmee",
+        "가비아 솔미체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/69",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/gabia-solmee"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

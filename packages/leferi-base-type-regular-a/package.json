@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/leferi-base-type-regular-a",
+    "description": "leferi-base-type-regular-a - 레페리베이스 - 여유롭게 살고 싶다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "leferi-base-type-regular-a",
+        "레페리베이스"
+    ],
+    "homepage": "https://noonnu.cc/font_page/817",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/leferi-base-type-regular-a"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

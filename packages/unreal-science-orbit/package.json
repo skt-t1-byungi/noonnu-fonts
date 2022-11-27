@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/unreal-science-orbit",
+    "description": "unreal-science-orbit - 안될과학 궤도체 - 과학은 신기히면서 어렵고 그래",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "unreal-science-orbit",
+        "안될과학 궤도체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/909",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/unreal-science-orbit"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

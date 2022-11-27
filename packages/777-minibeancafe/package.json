@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/777-minibeancafe",
+    "description": "777-minibeancafe - 미니콩다방 - 콩다방의 가격이 밥값보다 비싸다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "777-minibeancafe",
+        "미니콩다방"
+    ],
+    "homepage": "https://noonnu.cc/font_page/266",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/777-minibeancafe"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

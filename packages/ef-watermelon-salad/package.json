@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/ef-watermelon-salad",
+    "description": "ef-watermelon-salad - 수박화체 - 시옷이 귀여운 수박화체 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "ef-watermelon-salad",
+        "수박화체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1034",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/ef-watermelon-salad"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

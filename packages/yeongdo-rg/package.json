@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/yeongdo-rg",
+    "description": "yeongdo-rg - 영도체 - 오잉또잉 신기한 글씨체",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "yeongdo-rg",
+        "영도체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/876",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/yeongdo-rg"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

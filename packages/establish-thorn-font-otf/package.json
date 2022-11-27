@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/establish-thorn-font-otf",
+    "description": "establish-thorn-font-otf - 가시가시체 백민주 - 뾰족뾰족한 글씨체",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "establish-thorn-font-otf",
+        "가시가시체 백민주"
+    ],
+    "homepage": "https://noonnu.cc/font_page/778",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/establish-thorn-font-otf"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

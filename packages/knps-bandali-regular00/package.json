@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/knps-bandali-regular00",
+    "description": "knps-bandali-regular00 - 국립공원 반달이 - 반달가슴곰 반달이",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "knps-bandali-regular00",
+        "국립공원 반달이"
+    ],
+    "homepage": "https://noonnu.cc/font_page/811",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/knps-bandali-regular00"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

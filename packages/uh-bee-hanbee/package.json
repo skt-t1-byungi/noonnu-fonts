@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-hanbee",
+    "description": "uh-bee-hanbee - 어비 한비 - 건조한 날에는 입술이 터서 아프더라",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-hanbee",
+        "어비 한비"
+    ],
+    "homepage": "https://noonnu.cc/font_page/150",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-hanbee"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-kairu",
+    "description": "uh-bee-kairu - 어비 카이루체 - 역시 이불 밖은 위험해",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-kairu",
+        "어비 카이루체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/164",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-kairu"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

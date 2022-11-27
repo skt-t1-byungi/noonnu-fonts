@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/adobaonly-r",
+    "description": "adobaonly-r - 아도바 온리체 - 여름이 너무 빨리 안왔으면 좋겠다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "adobaonly-r",
+        "아도바 온리체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/882",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/adobaonly-r"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/mabinogi-classic-r",
+    "description": "mabinogi-classic-r - 마비옛체 - 싫은것만 피하면 좋은걸 찾을 수 없어",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "mabinogi-classic-r",
+        "마비옛체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/961",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/mabinogi-classic-r"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

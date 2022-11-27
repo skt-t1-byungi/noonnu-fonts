@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/wandohope-r",
+    "description": "wandohope-r - 완도희망체 - 청정하고 넉넉한 바다를 닮은 서체",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "wandohope-r",
+        "완도희망체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/471",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/wandohope-r"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

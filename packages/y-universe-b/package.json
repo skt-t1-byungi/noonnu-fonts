@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/y-universe-b",
+    "description": "y-universe-b - Y유니버스체 - 기하학적 그래픽이 있는 폰트 븾 웊 벊",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "y-universe-b",
+        "Y유니버스체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/792",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/y-universe-b"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

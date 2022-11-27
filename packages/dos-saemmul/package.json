@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/dos-saemmul",
+    "description": "dos-saemmul - 도스샘물 - 다람쥐 헌 쳇바퀴에 데굴데굴",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "dos-saemmul",
+        "도스샘물"
+    ],
+    "homepage": "https://noonnu.cc/font_page/240",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/dos-saemmul"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/uh-bee-tomo",
+    "description": "uh-bee-tomo - 어비 토모체 - 강이 흘러흘러 바다로 흘러간다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "uh-bee-tomo",
+        "어비 토모체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/196",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/uh-bee-tomo"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

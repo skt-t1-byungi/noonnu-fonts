@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/suseong-batang",
+    "description": "suseong-batang - 수성바탕체 - 따뜻한 물이 몸에 좋지",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "suseong-batang",
+        "수성바탕체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/905",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/suseong-batang"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}
