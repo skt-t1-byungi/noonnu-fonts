@@ -22,9 +22,9 @@ import semver from 'semver'
 import simpleGit from 'simple-git'
 import slugify from 'slugify'
 import { fetch } from 'undici'
+import { CPUS_LEN, log } from './_utils.js'
 
 const PACKAGES_DIR = join(import.meta.url, '../packages')
-const CPUS_LEN = os.cpus().length
 
 const git = simpleGit()
 
@@ -148,10 +148,6 @@ async function main() {
     log('변경사항을 커밋합니다')
     await git.add([`${PACKAGES_DIR}/**/*`, 'README.md'])
     await git.commit('scripts: update font packages')
-}
-
-function log(...args: any[]) {
-    console.log(new Date().toISOString(), ...args)
 }
 
 async function getPrevPkgsFromGit() {
@@ -437,8 +433,9 @@ function writeMainReadmeFile(metas: FontMeta[]) {
 
 ## 유의사항
 - 이 프로젝트는 눈누에서 제공하는 폰트들을 npm 패키지로 게시하기 위한 것이며, 눈누와는 별개의 프로젝트입니다.
-- 눈누에서 제공하는 폰트들은 [이곳](https://noonnu.cc/index)에서 확인할 수 있습니다.
-- 폰트 사용에 대한 책임은 사용자에게 있습니다. (각 폰트의 라이센스를 꼭 확인해주세요.)
+- 패키지가 스크립트로 자동 생성되기 때문에, 일부 패키지들은 정상적으로 동작하지 않을 수 있습니다.
+- 눈누에서 게시가 중단된 폰트들은 npm에서 제거될 수 있습니다.
+- 폰트 사용에 대한 책임은 전적으로 사용자에게 있습니다. (각 폰트의 라이센스를 꼭 확인해주세요.)
 
 ## 폰트 목록
 |no|이름|예제|
