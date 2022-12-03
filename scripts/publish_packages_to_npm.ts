@@ -17,10 +17,15 @@ async function main() {
     const deprecatedCnt = await lastValueFrom(
         from(prevPkgs).pipe(
             filter(pkg => !nextPkgs.has(pkg)),
-            mergeMap(async pkg => {
-                await exec(`pnpm deprecate ${pkg}@"*" "deprecated"`)
-                log('~>', pkg)
-            }, CPUS_LEN),
+            mergeMap(
+                pkg =>
+                    exec(`pnpm deprecate ${pkg}@"*" "deprecated"`).then(
+                        () => log('~>', pkg),
+                        // 이미 deprecated된 패키지는 에러가 발생합니다. 무시합니다.
+                        console.warn
+                    ),
+                CPUS_LEN
+            ),
             count()
         )
     )
