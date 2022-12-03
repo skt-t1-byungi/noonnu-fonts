@@ -28,7 +28,7 @@ const PACKAGES_DIR = join(import.meta.url, '../packages')
 
 const git = simpleGit()
 
-Promise.resolve().then(main).catch(console.error)
+Promise.resolve().then(main)
 
 type FontMeta = {
     name: string
