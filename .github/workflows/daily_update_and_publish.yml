@@ -14,10 +14,14 @@ jobs:
                   run_install: false
             - uses: actions/cache@v3
               with:
-                  path: '**/node_modules'
+                  path: |
+                      '**/node_modules'
+                        ~/.npm
                   key: ${{ runner.os }}-pnpm-${{ hashFiles('**/pnpm-lock.yaml') }}
-            - run: pnpm i
-            - run: |
+            - run: pnpm install
+            - name: update packages and commit changes
+              run: |
+                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
                   git config --local user.name "github-actions[bot]"
                   pnpm run up
             - uses: ad-m/github-push-action@master
@@ -25,3 +29,5 @@ jobs:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   branch: master
             # - run: pnpm run pub
+            #   env:
+            #       NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
