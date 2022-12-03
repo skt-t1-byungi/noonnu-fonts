@@ -17,12 +17,12 @@ import postcss, { AtRule } from 'postcss'
 import valueParser from 'postcss-value-parser'
 import prettier from 'prettier'
 import { Cluster } from 'puppeteer-cluster'
-import { from, lastValueFrom, map, mergeMap } from 'rxjs'
+import { from, map, mergeMap } from 'rxjs'
 import semver from 'semver'
 import simpleGit from 'simple-git'
 import slugify from 'slugify'
 import { fetch } from 'undici'
-import { CPUS_LEN, log } from './_commons.js'
+import { CPUS_LEN, finished, log } from './_commons.js'
 
 const PACKAGES_DIR = join(import.meta.url, '../packages')
 
@@ -45,9 +45,9 @@ async function main() {
     const prevPkgs = new Set(await getPrevPkgsFromGit()) // git에서 가져오기 때문에 파일트리가 변경되기 전에 가져옵니다.
     const newPkgs = new Set<string>()
 
-    log('눈누 폰트 데이터를 가져옵니다')
+    log('눈누에서 폰트을 새로 내려받습니다.')
     const fontMetasByPkgName = new Map<string, FontMeta>()
-    await lastValueFrom(
+    await finished(
         from(asyncIterateFontDatas()).pipe(
             mergeMap(async f => {
                 const name = slugify(noCase(hangulRomanization.convert(f.font_family_token)), {
@@ -75,7 +75,7 @@ async function main() {
             }, CPUS_LEN)
         )
     )
-    log(`총 ${fontMetasByPkgName.size}개의 폰트를 가져왔습니다. (새 폰트: ${newPkgs.size}개)`)
+    log(`총 ${fontMetasByPkgName.size}개의 폰트를 가져왔습니다. (새로운 폰트: ${newPkgs.size}개)`)
 
     log('변경된 패키지의 버전을 올립니다')
     // git을 통해 변경여부를 확인하기 때문에 가장 먼저 실행합니다.
@@ -84,7 +84,7 @@ async function main() {
     const changedPkgs = await git.diffSummary('HEAD').then(r =>
         r.files
             .map(f => f.file)
-            .map(p => p.match(/packages\/(.+)$/)?.[1])
+            .map(p => p.match(/packages\/([^/]+)$/)?.[1])
             .filter(Boolean as unknown as (v: any) => v is string)
             // rename일 경우에 대응합니다.
             // ex) {before => next}
@@ -92,7 +92,7 @@ async function main() {
             .filter(pkg => !newPkgs.has(pkg))
             .reduce((set, pkg) => set.add(pkg), new Set<string>())
     )
-    await lastValueFrom(
+    await finished(
         from(changedPkgs).pipe(
             mergeMap(async pkg => {
                 await bumpUpPkgVersion(`${PACKAGES_DIR}/${pkg}/package.json`)
@@ -128,7 +128,7 @@ async function main() {
     }
 
     log('추가된 패키지의 package.json, readme.md을 생성합니다')
-    await lastValueFrom(
+    await finished(
         from(newPkgs).pipe(
             map(name => fontMetasByPkgName.get(name)!),
             mergeMap(async meta => {
