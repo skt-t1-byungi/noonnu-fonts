@@ -1,7 +1,7 @@
 {
     "name": "@noonnu/galmuri9",
     "description": "galmuri9 - 갈무리9 - 게임을 좋아하지 않지만 닌텐도는 했다",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "main": "index.css",
     "license": "MIT",
     "keywords": [
