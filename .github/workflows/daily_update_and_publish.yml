@@ -1,8 +1,9 @@
+name: daily_update_and_publish
 on:
     schedule:
         - cron: 0 0 * * *
 jobs:
-    job:
+    update_and_publish:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v3
