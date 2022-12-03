@@ -1,7 +1,7 @@
 {
     "name": "@noonnu/galmuri7",
     "description": "galmuri7 - 갈무리7 - 비가 오는 날에는 밖에 나가기 싫다",
-    "version": "0.1.1",
+    "version": "0.1.0",
     "main": "index.css",
     "license": "MIT",
     "keywords": [

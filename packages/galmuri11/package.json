@@ -1,7 +1,7 @@
 {
     "name": "@noonnu/galmuri11",
     "description": "galmuri11 - 갈무리11 - 졸린데 너무 할일이 많아",
-    "version": "0.1.1",
+    "version": "0.1.0",
     "main": "index.css",
     "license": "MIT",
     "keywords": [

@@ -84,7 +84,7 @@ async function main() {
     const changedPkgs = await git.diffSummary('HEAD').then(r =>
         r.files
             .map(f => f.file)
-            .map(p => p.match(/packages\/([^/]+)$/)?.[1])
+            .map(p => p.match(/packages\/([^/]+)/)?.[1])
             .filter(Boolean as unknown as (v: any) => v is string)
             // rename일 경우에 대응합니다.
             // ex) {before => next}
