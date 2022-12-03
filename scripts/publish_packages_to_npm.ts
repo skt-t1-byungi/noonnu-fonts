@@ -1,7 +1,7 @@
 import { exec as _exec } from 'node:child_process'
 import { promisify } from 'node:util'
-import { defaultIfEmpty, filter, from, lastValueFrom, mergeMap } from 'rxjs'
-import { CPUS_LEN, log } from './_utils.js'
+import { count, filter, from, lastValueFrom, mergeMap } from 'rxjs'
+import { CPUS_LEN, log } from './_commons.js'
 
 const exec = promisify(_exec)
 
@@ -13,15 +13,19 @@ async function main() {
         (JSON.parse((await exec('pnpm list --json -r')).stdout) as { name: string }[]).map(pkg => pkg.name)
     )
 
-    log('존재하지 않는 패키지를 게시 중단합니다.')
-    await lastValueFrom(
+    log('존재하지 않는 패키지를 deprecate합니다.')
+    const deprecatedCnt = await lastValueFrom(
         from(prevPkgs).pipe(
             filter(pkg => !nextPkgs.has(pkg)),
             mergeMap(async pkg => {
-                await exec(`pnpm unpublish ${pkg} --dry-run -f`)
+                await exec(`pnpm deprecate ${pkg}@*`)
                 log('~>', pkg)
             }, CPUS_LEN),
-            defaultIfEmpty(null)
+            count()
         )
     )
+    log(`총 ${deprecatedCnt}개의 패키지를 deprecate했습니다.`)
+
+    log('패키지들을 publish합니다.')
+    await exec('pnpm publish -r')
 }

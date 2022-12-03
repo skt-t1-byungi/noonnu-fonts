@@ -22,7 +22,7 @@ import semver from 'semver'
 import simpleGit from 'simple-git'
 import slugify from 'slugify'
 import { fetch } from 'undici'
-import { CPUS_LEN, log } from './_utils.js'
+import { CPUS_LEN, log } from './_commons.js'
 
 const PACKAGES_DIR = join(import.meta.url, '../packages')
 
