@@ -17,7 +17,7 @@ import postcss, { AtRule } from 'postcss'
 import valueParser from 'postcss-value-parser'
 import prettier from 'prettier'
 import { Cluster } from 'puppeteer-cluster'
-import { count, distinct, filter, from, lastValueFrom, map, merge, mergeMap } from 'rxjs'
+import { from, lastValueFrom, map, mergeMap } from 'rxjs'
 import semver from 'semver'
 import simpleGit from 'simple-git'
 import slugify from 'slugify'
@@ -77,68 +77,64 @@ async function main() {
     )
     log(`총 ${fontMetasByPkgName.size}개의 폰트를 가져왔습니다. (새 폰트: ${newPkgs.size}개)`)
 
-    // git을 통해 변경여부를 확인하기 때문에 가장 먼저 실행합니다.
     log('변경된 패키지의 버전을 올립니다')
-    await (async () => {
-        await git.add(`${PACKAGES_DIR}/**/*`)
-        const len = await lastValueFrom(
-            from(git.diffSummary('HEAD')).pipe(
-                mergeMap(
-                    diff =>
-                        diff.files
-                            .filter(f => !f.binary)
-                            .map(f => f.file.match(/(?<=packages\/)[^/]+/)?.[0])
-                            .filter(Boolean) as string[]
-                ),
-                // rename일 경우에 대응합니다.
-                // ex) {before => next}
-                map(str => str.match(/\{\s?[^=]+\s?=>\s?([^}]+)\s?\}/)?.[1] ?? str),
-                distinct(),
-                filter(pkg => !newPkgs.has(pkg)),
-                mergeMap(async pkg => {
-                    await bumpUpPkgVersion(`${PACKAGES_DIR}/${pkg}/package.json`)
-                    log('~>', pkg)
-                }, CPUS_LEN),
-                count()
-            )
+    // git을 통해 변경여부를 확인하기 때문에 가장 먼저 실행합니다.
+    await git.add(`${PACKAGES_DIR}/**/*`)
+
+    const changedPkgs = await git.diffSummary('HEAD').then(r =>
+        r.files
+            .map(f => f.file)
+            .map(p => p.match(/packages\/(.+)$/)?.[1])
+            .filter(Boolean as unknown as (v: any) => v is string)
+            // rename일 경우에 대응합니다.
+            // ex) {before => next}
+            .map(str => str!.match(/\{\s?[^=]+\s?=>\s?([^}]+)\s?\}/)?.[1] ?? str)
+            .filter(pkg => !newPkgs.has(pkg))
+            .reduce((set, pkg) => set.add(pkg), new Set<string>())
+    )
+    await lastValueFrom(
+        from(changedPkgs).pipe(
+            mergeMap(async pkg => {
+                await bumpUpPkgVersion(`${PACKAGES_DIR}/${pkg}/package.json`)
+                log('~>', pkg)
+            }, CPUS_LEN)
         )
-        log(`총 ${len}개의 패키지의 버전을 올렸습니다`)
-    })()
+    )
+    log(`총 ${changedPkgs.size}개의 패키지의 버전을 올렸습니다`)
 
     log('게시가 중단된 패키지를 삭제합니다')
     await del([...prevPkgs], { cwd: PACKAGES_DIR })
     prevPkgs.forEach(pkg => log('~>', pkg))
     log(`총 ${prevPkgs.size}개의 패키지를 삭제했습니다`)
 
-    log('예제 이미지를 생성하고 새 패키지의 package.json, readme.md을 생성합니다')
+    log('변경, 또는 추가된 패키지의 예제 이미지를 생성합니다.')
+    {
+        const server = await FontExamGenSever.start({ serverRoot: PACKAGES_DIR })
+        try {
+            for (const pkg of [...changedPkgs, ...newPkgs]) {
+                const meta = fontMetasByPkgName.get(pkg)!
+                server.queue({
+                    cssImportPath: `/${path.relative(PACKAGES_DIR, meta.dir)}/index.css`,
+                    familyName: meta.familyName,
+                    savePath: `${meta.dir}/example.png`,
+                })
+            }
+            log(`총 ${changedPkgs.size + newPkgs.size}개의 패키지의 예제 이미지를 생성 중입니다.`)
+            await server.idle()
+        } finally {
+            await server.close()
+        }
+        log('예제 이미지를 모두 생성했습니다!')
+    }
+
+    log('추가된 패키지의 package.json, readme.md을 생성합니다')
     await lastValueFrom(
-        merge(
-            // 예제 이미지를 생성합니다.
-            (async () => {
-                const server = await FontExamGenSever.start({ serverRoot: PACKAGES_DIR })
-                try {
-                    for (const pkg of await fs.readdir(PACKAGES_DIR)) {
-                        const meta = fontMetasByPkgName.get(pkg)!
-                        server.queue({
-                            cssImportPath: `/${path.relative(PACKAGES_DIR, meta.dir)}/index.css`,
-                            familyName: meta.familyName,
-                            savePath: `${meta.dir}/example.png`,
-                        })
-                    }
-                    await server.idle()
-                } finally {
-                    await server.close()
-                }
-                log('예제 이미지를 모두 생성했습니다!')
-            })(),
-            // 새 패키지의 package.json, README.md 생성합니다.
-            from(newPkgs).pipe(
-                map(name => fontMetasByPkgName.get(name)!),
-                mergeMap(async meta => {
-                    await Promise.all([writeNewPkgJson(meta), writeNewReadmeFile(meta)])
-                    log('~>', meta.name)
-                }, CPUS_LEN)
-            )
+        from(newPkgs).pipe(
+            map(name => fontMetasByPkgName.get(name)!),
+            mergeMap(async meta => {
+                await Promise.all([writeNewPkgJson(meta), writeNewReadmeFile(meta)])
+                log('~>', meta.name)
+            }, CPUS_LEN)
         )
     )
 
