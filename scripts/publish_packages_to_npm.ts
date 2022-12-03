@@ -18,7 +18,7 @@ async function main() {
         from(prevPkgs).pipe(
             filter(pkg => !nextPkgs.has(pkg)),
             mergeMap(async pkg => {
-                await exec(`pnpm deprecate ${pkg}@* "deprecated"`)
+                await exec(`pnpm deprecate ${pkg}@"*" "deprecated"`)
                 log('~>', pkg)
             }, CPUS_LEN),
             count()

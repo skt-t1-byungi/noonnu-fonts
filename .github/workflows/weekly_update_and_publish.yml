@@ -1,8 +1,8 @@
-name: daily_update_and_publish
+name: weekly_update_and_publish
 on:
     workflow_dispatch:
     schedule:
-        - cron: 0 0 * * */3
+        - cron: 0 0 * * 0
 jobs:
     update_and_publish:
         runs-on: ubuntu-latest
