@@ -32,5 +32,5 @@ async function main() {
     log(`총 ${deprecatedCnt}개의 패키지를 deprecate했습니다.`)
 
     log('패키지들을 publish합니다.')
-    await exec('pnpm publish -r')
+    await exec('pnpm publish -r --access public --no-git-checks')
 }
