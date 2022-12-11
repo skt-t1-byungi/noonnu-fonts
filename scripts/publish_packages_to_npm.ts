@@ -1,6 +1,7 @@
 import { exec as _exec } from 'node:child_process'
 import { promisify } from 'node:util'
 import { count, filter, from, lastValueFrom, mergeMap } from 'rxjs'
+import { fetch } from 'undici'
 import { CPUS_LEN, log } from './_commons.js'
 
 const exec = promisify(_exec)
@@ -8,7 +9,9 @@ const exec = promisify(_exec)
 main()
 
 async function main() {
-    const prevPkgs = new Set(Object.keys(JSON.parse((await exec('pnpm access ls-packages @noonnu')).stdout)))
+    const prevPkgs = new Set(
+        Object.keys(await fetch('https://registry.npmjs.org/-/org/noonnu/package?format=cli').then(r => r.json() as {}))
+    )
     const nextPkgs = new Set(
         (JSON.parse((await exec('pnpm list --json -r')).stdout) as { name: string }[]).map(pkg => pkg.name)
     )
