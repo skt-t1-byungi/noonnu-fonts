@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'KorailRoundGothicBold';
+    src: url('./fonts/korailroundgothicbold-700.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}

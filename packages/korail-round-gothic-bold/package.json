@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/korail-round-gothic-bold",
+    "description": "korail-round-gothic-bold - 코레일 둥근고딕 - 어떻게 전철없이 살겠어",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "korail-round-gothic-bold",
+        "코레일 둥근고딕"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1072",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/korail-round-gothic-bold"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

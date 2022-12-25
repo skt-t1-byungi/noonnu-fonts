@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kyobo-handwriting2021sjy",
+    "description": "kyobo-handwriting2021sjy - 교보문고 손글씨 성도연 - 내년엔 책을 좀 읽자",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kyobo-handwriting2021sjy",
+        "교보문고 손글씨 성도연"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1075",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kyobo-handwriting2021sjy"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

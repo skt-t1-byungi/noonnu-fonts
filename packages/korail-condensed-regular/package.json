@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/korail-condensed-regular",
+    "description": "korail-condensed-regular - 코레일 장체 - 어떻게 전철없이 살겠어",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "korail-condensed-regular",
+        "코레일 장체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1071",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/korail-condensed-regular"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

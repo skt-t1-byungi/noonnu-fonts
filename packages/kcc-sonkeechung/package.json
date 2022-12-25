@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/kcc-sonkeechung",
+    "description": "kcc-sonkeechung - KCC손기정체 - 서울의 겨울은 너무 춥다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "kcc-sonkeechung",
+        "KCC손기정체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1067",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/kcc-sonkeechung"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

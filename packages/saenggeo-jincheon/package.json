@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/saenggeo-jincheon",
+    "description": "saenggeo-jincheon - 생거진천체 - 겨울을 나려면 겨울옷이 필요해",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "saenggeo-jincheon",
+        "생거진천체"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1076",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/saenggeo-jincheon"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

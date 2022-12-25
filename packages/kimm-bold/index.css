@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'KIMM_Bold';
+    src: url('./fonts/kimmbold-700.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}

@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/climate-crisis-kr-1979",
+    "description": "climate-crisis-kr-1979 - 기후위기-한글 - 녹아내리는 빙하를 표현한 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "climate-crisis-kr-1979",
+        "기후위기-한글"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1058",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/climate-crisis-kr-1979"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

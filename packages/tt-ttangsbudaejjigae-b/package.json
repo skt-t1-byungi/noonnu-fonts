@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/tt-ttangsbudaejjigae-b",
+    "description": "tt-ttangsbudaejjigae-b - 땅스부대찌개 - 보글보글 부대찌개 맛있겠다",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "tt-ttangsbudaejjigae-b",
+        "땅스부대찌개"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1077",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/tt-ttangsbudaejjigae-b"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

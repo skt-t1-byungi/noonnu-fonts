@@ -1,0 +1,21 @@
+{
+    "name": "@noonnu/climate-crisis-krvf",
+    "description": "climate-crisis-krvf - 기후위기-한글 VF - 녹아내리는 빙하를 표현한 폰트",
+    "version": "0.1.0",
+    "main": "index.css",
+    "license": "MIT",
+    "keywords": [
+        "noonnu",
+        "climate-crisis-krvf",
+        "기후위기-한글 VF"
+    ],
+    "homepage": "https://noonnu.cc/font_page/1066",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skt-t1-byungi/noonnu-fonts.git",
+        "directory": "packages/climate-crisis-krvf"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}
