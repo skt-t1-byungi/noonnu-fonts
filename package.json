@@ -6,7 +6,10 @@
     },
     "scripts": {
         "up": "tsx scripts/update_packages_and_commit.ts",
-        "pub": "tsx scripts/publish_packages_to_npm.ts"
+        "pub": "tsx scripts/publish_packages_to_npm.ts",
+        "v2:init": "tsx apps/font-pipeline-cli/src/index.ts init",
+        "v2:validate": "tsx apps/font-pipeline-cli/src/index.ts validate",
+        "v2:evidence": "tsx apps/font-pipeline-cli/src/index.ts evidence:snapshot"
     },
     "devDependencies": {
         "@types/fs-extra": "^9.0.13",

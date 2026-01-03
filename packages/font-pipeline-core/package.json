@@ -1,0 +1,11 @@
+{
+    "name": "@v2/font-pipeline-core",
+    "private": true,
+    "type": "module",
+    "version": "0.0.0",
+    "main": "./src/index.ts",
+    "dependencies": {
+        "zod": "^3.24.2"
+    }
+}
+

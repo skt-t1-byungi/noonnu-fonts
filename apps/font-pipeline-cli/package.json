@@ -1,0 +1,17 @@
+{
+    "name": "@v2/font-pipeline-cli",
+    "private": true,
+    "type": "module",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "tsx src/index.ts --help"
+    },
+    "dependencies": {
+        "@v2/font-pipeline-core": "workspace:*"
+    },
+    "devDependencies": {
+        "tsx": "^4.19.2",
+        "typescript": "^5.7.3"
+    }
+}
+
