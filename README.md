@@ -1,13 +1,14 @@
 # noonnu-fonts (v2)
 
-이 브랜치(`v2`)는 기존 자동 생성/배포 방식(legacy)을 리뉴얼하기 위한 **설계/구현 트랙**입니다.
+`@noonnu/*` 패키지 생성 파이프라인 리뉴얼 프로젝트 (`v2` branch).
 
-- **v1(legacy)**: `master` 브랜치에 유지됩니다.
-- **v2(renewal)**: 이 브랜치에서 문제정의/요구사항/아키텍처를 먼저 고정한 뒤, 단계적으로 새 파이프라인을 구현합니다.
-- **핵심 방향**: “정답 판정 자동화”가 아니라 **사람의 결정(커먼센스) + 근거를 SoT로 저장**하고, LLM으로 **모호한 케이스를 큐로 관리**합니다.
+## Direction
+- **SoT = Human Decision**: 자동 판정 대신, **사람의 판단(커먼센스)과 근거**를 저장.
+- **LLM as Support**: 모호한 케이스의 정리/제안/문서화 보조.
+- **Deterministic**: 매니페스트(JSON) 기반의 재현 가능한 패키징.
 
-## 문서
-- `docs/00-problem-statement.md`: 문제정의
-- `docs/01-requirements.md`: 요구사항/정책
-- `docs/02-architecture-sketch.md`: 아키텍처 초안
+## Structure
+- `docs/00-problem.md`: Why (문제정의)
+- `docs/01-requirements.md`: What (요구사항)
+- `docs/02-architecture.md`: How (구조/스키마)
 
