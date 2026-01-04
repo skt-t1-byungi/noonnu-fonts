@@ -5,6 +5,7 @@ on:
         - cron: 0 0 * * 0
 jobs:
     update_and_publish:
+        if: github.ref == 'refs/heads/master'
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v3
