@@ -1,14 +1,17 @@
 # noonnu-fonts (v2)
 
-`@noonnu/*` 패키지 생성 파이프라인 리뉴얼 프로젝트 (`v2` branch).
+한글 폰트를 **자동으로 발견(눈누/KOGL/공유마당) → R2 아카이브 → npm 웹폰트 패키지로 배포**하는 MVP 파이프라인.
 
-## Direction
-- **SoT = Human Decision**: 자동 판정 대신, **사람의 판단(커먼센스)과 근거**를 저장.
-- **LLM as Support**: 모호한 케이스의 정리/제안/문서화 보조.
-- **Deterministic**: 매니페스트(JSON) 기반의 재현 가능한 패키징.
+운영: **자동 PR 생성 → (필요 시 수정) → merge 즉시 publish**  
+브랜치: 레포 규칙상 **`v2` 브랜치만 사용**
 
-## Structure
+## Docs
 - `docs/00-problem.md`: Why (문제정의)
-- `docs/01-requirements.md`: What (요구사항)
-- `docs/02-architecture.md`: How (구조/스키마)
+- `docs/01-requirements.md`: What (요구사항/정책/SSOT)
+- `docs/02-architecture.md`: How (구조/워크플로/출력)
+
+## SSOT
+- `fonts/<id>.yml`
+- `registry/sources.lock.json`
+- `registry/rejected.json`
 
