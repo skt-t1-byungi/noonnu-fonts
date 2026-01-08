@@ -2,6 +2,12 @@
 
 "사람 + 에이전트" 협업을 위한 최소 규칙.
 
+## 0. Quick Checklist (토큰 효율)
+- **변경 전**: `docs/00-02` 확인 → 필요한 경우만 문서 갱신(중복 설명 금지)
+- **변경 후**: `docs/03-implementation-status.md`에 상태/다음 단계 1줄이라도 반영
+- **검증**: 코드 변경 시 재현 가능한 `node` 스크립트/테스트/CI 중 1개를 반드시 추가
+- **요약**: PR/커밋 메시지는 5줄 이내(링크로 대체, 로그/장문 금지)
+
 ## 1. Docs: "Show, Don't Tell"
 - **예시 우선**: 추상적 설명 대신 **파일 구조, JSON 스키마, 코드**를 먼저 제시한다.
 - **DRY**: 중복 금지.
@@ -37,6 +43,7 @@
   - `00-problem.md`: Why
   - `01-requirements.md`: What
   - `02-architecture.md`: How (Schema/Structure)
+- 상태/작업 단계는 `docs/03-implementation-status.md`에 단일 진실로 유지(README/PR에 복붙 금지)
 
 ## 8. Complexity: Simplest First
 - **Flat Model**: 필연적 이유 없으면 `id`나 계층을 나누지 않는다.
