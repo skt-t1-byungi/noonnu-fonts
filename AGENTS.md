@@ -36,7 +36,8 @@
 - **Buy over Build**: 검증된 도구/라이브러리 적극 활용 → "내가 유지할 코드" 최소화.
 - **Thin Glue**: 강한 도구들을 얇게 연결하는 접착제 코드(glue code)만 작성한다.
 - **Practical**: 설정/옵션 최소화(기본값 우선), 검증은 단일 커맨드로.
-- **Geeky**: 작은 함수, 빠른 실패(early return), 명시적 타입.
+- **Practical**: **Sindre-style DX**. Zero-config("It just works"), 직관적 API.
+- **Geeky**: **Expressive & Dense**. ESNext, Boilerplate 제거. 약어(`ctx`) 및 메타포 허용, Inference 우선.
 
 ## 7. Context: v2 Only
 - `master` 건드리지 않음. `v2` 브랜치만 사용.
