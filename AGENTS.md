@@ -32,10 +32,11 @@
 - **LLM 역할**: 모호한 케이스 정리, 제안, 문서화 보조.
 - **Determinism**: 산출물(JSON, 패키지)의 재현성에만 적용.
 
-## 6. Code: Minimal / Geeky
-- 작은 함수, 빠른 실패(early return).
-- 과한 추상화 금지(YAGNI).
-- 명시적 타입/이름 사용.
+## 6. Code: Minimal Implementation (Tool > Code)
+- **Buy over Build**: 검증된 도구/라이브러리 적극 활용 → "내가 유지할 코드" 최소화.
+- **Thin Glue**: 강한 도구들을 얇게 연결하는 접착제 코드(glue code)만 작성한다.
+- **Practical**: 설정/옵션 최소화(기본값 우선), 검증은 단일 커맨드로.
+- **Geeky**: 작은 함수, 빠른 실패(early return), 명시적 타입.
 
 ## 7. Context: v2 Only
 - `master` 건드리지 않음. `v2` 브랜치만 사용.
